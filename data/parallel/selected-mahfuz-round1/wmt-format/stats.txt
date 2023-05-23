@@ -1,0 +1,14 @@
+File lengths
+
+.test files:
+1000 for all
+
+.train files:
+1649 eng-afr
+5297 eng-swa
+1726 eng-zul
+1753 eng-xho
+1206 eng-kin
+1423 eng-lug
+2879 fra-swa
+1392 eng-amh
