@@ -1,0 +1,25 @@
+('Hindi', 'Marathi')	15014
+('Hindi', 'Italian')	10678
+('Hindi', 'English')	25479
+('Hindi', 'French')	13565
+('Hindi', 'Tamil')	15733
+('Hindi', 'Bahasa Indonesia')	18058
+('Marathi', 'English')	15234
+('Marathi', 'French')	11617
+('Marathi', 'Tamil')	12851
+('Marathi', 'Bahasa Indonesia')	13726
+('Italian', 'English')	11242
+('Italian', 'Bahasa Indonesia')	10504
+('English', 'French')	16939
+('English', 'Tamil')	18030
+('English', 'Bahasa Indonesia')	20998
+('French', 'Tamil')	11844
+('French', 'Bahasa Indonesia')	13023
+('Tamil', 'Bahasa Indonesia')	14141
+('English', 'Spanish')	11428
+('Hindi', 'Kannada')	13298
+('English', 'Kannada')	13741
+('Bahasa Indonesia', 'Kannada')	12506
+('French', 'Kannada')	10740
+('Tamil', 'Kannada')	11740
+('Marathi', 'Kannada')	12333

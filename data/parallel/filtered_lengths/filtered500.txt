@@ -1,0 +1,3569 @@
+('Nahuatl', 'Hindi')	1843
+('Nahuatl', 'Korean')	1551
+('Nahuatl', 'Marathi')	1686
+('Nahuatl', 'Italian')	1683
+('Nahuatl', 'English-Spanish')	602
+('Nahuatl', 'English')	1887
+('Nahuatl', 'French')	1761
+('Nahuatl', 'Chhattisgarhi')	1441
+('Nahuatl', 'Chinese (Traditional)')	747
+('Nahuatl', 'Basa Jawa')	882
+('Nahuatl', 'Tamil')	1802
+('Nahuatl', 'Bahasa Indonesia')	1848
+('Nahuatl', 'Japanese')	1527
+('Nahuatl', 'Vietnamese')	1072
+('Hindi', 'Korean')	7848
+('Hindi', 'Marathi')	15014
+('Hindi', 'Lao')	786
+('Hindi', 'Italian')	10678
+('Hindi', 'English-Spanish')	1888
+('Hindi', 'English')	25479
+('Hindi', 'French')	13565
+('Hindi', 'Chhattisgarhi')	7177
+('Hindi', 'Chinese (Traditional)')	2322
+('Hindi', 'Basa Jawa')	3151
+('Hindi', 'Tamil')	15733
+('Hindi', 'Bahasa Indonesia')	18058
+('Hindi', 'Japanese')	6991
+('Hindi', 'Vietnamese')	3437
+('Korean', 'Marathi')	6966
+('Korean', 'Lao')	517
+('Korean', 'Italian')	6251
+('Korean', 'English-Spanish')	1258
+('Korean', 'English')	8298
+('Korean', 'French')	6771
+('Korean', 'Chhattisgarhi')	4574
+('Korean', 'Chinese (Traditional)')	1839
+('Korean', 'Basa Jawa')	2602
+('Korean', 'Tamil')	7019
+('Korean', 'Bahasa Indonesia')	7882
+('Korean', 'Japanese')	5906
+('Korean', 'Vietnamese')	2688
+('Marathi', 'Lao')	696
+('Marathi', 'Italian')	9552
+('Marathi', 'English-Spanish')	1715
+('Marathi', 'English')	15234
+('Marathi', 'French')	11617
+('Marathi', 'Chhattisgarhi')	5768
+('Marathi', 'Chinese (Traditional)')	2179
+('Marathi', 'Basa Jawa')	2981
+('Marathi', 'Tamil')	12851
+('Marathi', 'Bahasa Indonesia')	13726
+('Marathi', 'Japanese')	6572
+('Marathi', 'Vietnamese')	2916
+('Lao', 'Italian')	651
+('Lao', 'English')	793
+('Lao', 'French')	734
+('Lao', 'Tamil')	744
+('Lao', 'Bahasa Indonesia')	764
+('Lao', 'Japanese')	542
+('Italian', 'English-Spanish')	1401
+('Italian', 'English')	11242
+('Italian', 'French')	9796
+('Italian', 'Chhattisgarhi')	4726
+('Italian', 'Chinese (Traditional)')	2030
+('Italian', 'Basa Jawa')	2667
+('Italian', 'Tamil')	9807
+('Italian', 'Bahasa Indonesia')	10504
+('Italian', 'Japanese')	5919
+('Italian', 'Vietnamese')	2894
+('English-Spanish', 'English')	2157
+('English-Spanish', 'French')	1665
+('English-Spanish', 'Chhattisgarhi')	1096
+('English-Spanish', 'Chinese (Traditional)')	795
+('English-Spanish', 'Basa Jawa')	767
+('English-Spanish', 'Tamil')	1768
+('English-Spanish', 'Bahasa Indonesia')	1826
+('English-Spanish', 'Japanese')	1101
+('English-Spanish', 'Vietnamese')	878
+('English', 'French')	16939
+('English', 'Chhattisgarhi')	6664
+('English', 'Chinese (Traditional)')	2376
+('English', 'Basa Jawa')	3163
+('English', 'Tamil')	18030
+('English', 'Bahasa Indonesia')	20998
+('English', 'Japanese')	7137
+('English', 'Vietnamese')	3450
+('French', 'Chhattisgarhi')	5219
+('French', 'Chinese (Traditional)')	2336
+('French', 'Basa Jawa')	2958
+('French', 'Tamil')	11844
+('French', 'Bahasa Indonesia')	13023
+('French', 'Japanese')	6384
+('French', 'Vietnamese')	3192
+('Chhattisgarhi', 'Chinese (Traditional)')	1467
+('Chhattisgarhi', 'Basa Jawa')	2285
+('Chhattisgarhi', 'Tamil')	5539
+('Chhattisgarhi', 'Bahasa Indonesia')	5945
+('Chhattisgarhi', 'Japanese')	4201
+('Chhattisgarhi', 'Vietnamese')	2221
+('Chinese (Traditional)', 'Basa Jawa')	1147
+('Chinese (Traditional)', 'Tamil')	2270
+('Chinese (Traditional)', 'Bahasa Indonesia')	2292
+('Chinese (Traditional)', 'Japanese')	1729
+('Chinese (Traditional)', 'Vietnamese')	1127
+('Basa Jawa', 'Tamil')	3069
+('Basa Jawa', 'Bahasa Indonesia')	3149
+('Basa Jawa', 'Japanese')	2385
+('Basa Jawa', 'Vietnamese')	1466
+('Tamil', 'Bahasa Indonesia')	14141
+('Tamil', 'Japanese')	6564
+('Tamil', 'Vietnamese')	3260
+('Bahasa Indonesia', 'Japanese')	6914
+('Bahasa Indonesia', 'Vietnamese')	3393
+('Japanese', 'Vietnamese')	2413
+('Tshivenḓa', 'English')	1707
+('Tshivenḓa', 'Setswana')	1158
+('Tshivenḓa', 'Xitsonga')	1599
+('English', 'Setswana')	2282
+('English', 'Spanish')	11428
+('English', 'Xitsonga')	1951
+('Setswana', 'Spanish')	533
+('Setswana', 'Xitsonga')	1287
+('Hindi', 'Gujarati')	5952
+('Hindi', 'Spanish')	9689
+('Hindi', 'Tibetan')	2805
+('Hindi', 'Turkish')	1124
+('Hindi', 'Portuguese')	5084
+('Hindi', 'Igbo')	1453
+('Hindi', 'Kurdish (Latin Script)')	522
+('Hindi', 'Farsi')	3766
+('Hindi', 'English-Kannada')	1963
+('Hindi', 'Filipino')	1979
+('Hindi', 'English-Malay')	550
+('Hindi', 'English-Marathi')	1408
+('Hindi', 'Kiswahili')	3380
+('Hindi', 'Chinese (Simplified)')	4440
+('Hindi', 'Russian')	1493
+('Hindi', 'Malayalam')	4376
+('Hindi', 'Konkani')	4576
+('Hindi', 'Kora (Bengali Script)')	1916
+('Hindi', 'Halbi')	1771
+('Hindi', 'Gondi')	3457
+('Hindi', 'Serbian (Latin Script)')	3272
+('Hindi', 'Bengali')	5710
+('Hindi', 'Punjabi')	4990
+('Hindi', 'Pashto')	1475
+('Hindi', 'Thai')	2987
+('Hindi', 'Marwari')	2081
+('Hindi', 'Rana Tharu')	709
+('Hindi', 'English-Tamil')	2471
+('Hindi', 'Assamese')	4331
+('Hindi', 'Zapoteco')	847
+('Hindi', 'Jinghpaw')	4413
+('Hindi', 'Arabic')	5952
+('Hindi', 'Nawatl')	1592
+('Hindi', 'Polish')	563
+('Hindi', 'Santali (Bengali Script)')	1785
+('Hindi', 'Bangla (Bangladesh)')	2150
+('Hindi', 'German')	2517
+('Hindi', 'Mixe')	1104
+('Hindi', 'isiXhosa')	1528
+('Hindi', 'Sinhala')	1300
+('Hindi', 'Kannada')	13298
+('Hindi', 'Telugu')	9121
+('Hindi', 'Khmer')	2227
+('Hindi', 'Odia')	4941
+('Hindi', 'Norwegian')	552
+('Hindi', 'Urdu')	7075
+('Hindi', 'Nepali')	4073
+('Hindi', 'Greek')	720
+('Hindi', 'Malay')	1935
+('Hindi', 'Sanskrit')	2683
+('Hindi', 'Farsi (Samim)')	4216
+('Hindi', 'Kabyle (Taqbaylit)')	1300
+('Hindi', 'Gondi (South Bastar)')	2996
+('Gujarati', 'Spanish')	3898
+('Gujarati', 'Tibetan')	2302
+('Gujarati', 'Turkish')	886
+('Gujarati', 'Basa Jawa')	1889
+('Gujarati', 'Japanese')	3428
+('Gujarati', 'Portuguese')	2718
+('Gujarati', 'Igbo')	802
+('Gujarati', 'English')	5963
+('Gujarati', 'Farsi')	2030
+('Gujarati', 'English-Kannada')	1245
+('Gujarati', 'Filipino')	1367
+('Gujarati', 'Chhattisgarhi')	3429
+('Gujarati', 'Bahasa Indonesia')	5708
+('Gujarati', 'French')	5067
+('Gujarati', 'English-Malay')	550
+('Gujarati', 'English-Marathi')	848
+('Gujarati', 'Kiswahili')	1545
+('Gujarati', 'Chinese (Simplified)')	2802
+('Gujarati', 'Russian')	1006
+('Gujarati', 'Malayalam')	2595
+('Gujarati', 'Tamil')	5551
+('Gujarati', 'Korean')	3667
+('Gujarati', 'Marathi')	5712
+('Gujarati', 'Konkani')	3183
+('Gujarati', 'Kora (Bengali Script)')	1299
+('Gujarati', 'Halbi')	1240
+('Gujarati', 'Gondi')	2134
+('Gujarati', 'Serbian (Latin Script)')	1581
+('Gujarati', 'Bengali')	3848
+('Gujarati', 'Punjabi')	2854
+('Gujarati', 'Pashto')	1107
+('Gujarati', 'Thai')	1832
+('Gujarati', 'Marwari')	1236
+('Gujarati', 'Rana Tharu')	510
+('Gujarati', 'English-Spanish')	1053
+('Gujarati', 'English-Tamil')	1387
+('Gujarati', 'Assamese')	2882
+('Gujarati', 'Jinghpaw')	1813
+('Gujarati', 'Arabic')	3415
+('Gujarati', 'Nawatl')	1021
+('Gujarati', 'Santali (Bengali Script)')	999
+('Gujarati', 'Vietnamese')	1741
+('Gujarati', 'Bangla (Bangladesh)')	1192
+('Gujarati', 'German')	1790
+('Gujarati', 'Mixe')	676
+('Gujarati', 'isiXhosa')	848
+('Gujarati', 'Sinhala')	764
+('Gujarati', 'Kannada')	5659
+('Gujarati', 'Telugu')	5041
+('Gujarati', 'Khmer')	1127
+('Gujarati', 'Odia')	3451
+('Gujarati', 'Urdu')	3616
+('Gujarati', 'Nepali')	1991
+('Gujarati', 'Italian')	4569
+('Gujarati', 'Greek')	505
+('Gujarati', 'Malay')	1209
+('Gujarati', 'Sanskrit')	1828
+('Gujarati', 'Chinese (Traditional)')	1356
+('Gujarati', 'Farsi (Samim)')	2434
+('Gujarati', 'Kabyle (Taqbaylit)')	953
+('Gujarati', 'Gondi (South Bastar)')	1812
+('Spanish', 'Tibetan')	2248
+('Spanish', 'Turkish')	985
+('Spanish', 'Basa Jawa')	2618
+('Spanish', 'Japanese')	5178
+('Spanish', 'Portuguese')	4442
+('Spanish', 'Igbo')	1203
+('Spanish', 'Farsi')	2925
+('Spanish', 'English-Kannada')	1637
+('Spanish', 'Filipino')	1778
+('Spanish', 'Chhattisgarhi')	4196
+('Spanish', 'Bahasa Indonesia')	9242
+('Spanish', 'French')	8627
+('Spanish', 'English-Malay')	550
+('Spanish', 'English-Marathi')	1118
+('Spanish', 'Kiswahili')	2530
+('Spanish', 'Chinese (Simplified)')	3689
+('Spanish', 'Russian')	1104
+('Spanish', 'Malayalam')	3317
+('Spanish', 'Tamil')	8403
+('Spanish', 'Korean')	5814
+('Spanish', 'Marathi')	8252
+('Spanish', 'Konkani')	3025
+('Spanish', 'Kora (Bengali Script)')	1288
+('Spanish', 'Halbi')	1324
+('Spanish', 'Gondi')	2150
+('Spanish', 'Serbian (Latin Script)')	2488
+('Spanish', 'Bengali')	4105
+('Spanish', 'Punjabi')	3299
+('Spanish', 'Pashto')	1247
+('Spanish', 'Thai')	2489
+('Spanish', 'Marwari')	1354
+('Spanish', 'Rana Tharu')	688
+('Spanish', 'English-Spanish')	1220
+('Spanish', 'English-Tamil')	1850
+('Spanish', 'Assamese')	3009
+('Spanish', 'Zapoteco')	855
+('Spanish', 'Jinghpaw')	2850
+('Spanish', 'Arabic')	4504
+('Spanish', 'Nawatl')	1505
+('Spanish', 'Polish')	541
+('Spanish', 'Santali (Bengali Script)')	1222
+('Spanish', 'Vietnamese')	2784
+('Spanish', 'Bangla (Bangladesh)')	1480
+('Spanish', 'German')	2148
+('Spanish', 'Mixe')	1082
+('Spanish', 'isiXhosa')	1313
+('Spanish', 'Sinhala')	1019
+('Spanish', 'Kannada')	7801
+('Spanish', 'Telugu')	6119
+('Spanish', 'Khmer')	1671
+('Spanish', 'Odia')	3118
+('Spanish', 'Norwegian')	519
+('Spanish', 'Urdu')	4297
+('Spanish', 'Nepali')	2903
+('Spanish', 'Italian')	7253
+('Spanish', 'Greek')	652
+('Spanish', 'Malay')	1568
+('Spanish', 'Sanskrit')	2173
+('Spanish', 'Chinese (Traditional)')	1981
+('Spanish', 'Farsi (Samim)')	2805
+('Spanish', 'Kabyle (Taqbaylit)')	1158
+('Spanish', 'Gondi (South Bastar)')	2151
+('Tibetan', 'Turkish')	766
+('Tibetan', 'Basa Jawa')	1491
+('Tibetan', 'Japanese')	2204
+('Tibetan', 'Portuguese')	1944
+('Tibetan', 'Igbo')	665
+('Tibetan', 'English')	2846
+('Tibetan', 'Farsi')	1570
+('Tibetan', 'English-Kannada')	1238
+('Tibetan', 'Filipino')	1304
+('Tibetan', 'Chhattisgarhi')	2085
+('Tibetan', 'Bahasa Indonesia')	2754
+('Tibetan', 'French')	2569
+('Tibetan', 'English-Malay')	508
+('Tibetan', 'English-Marathi')	813
+('Tibetan', 'Kiswahili')	1202
+('Tibetan', 'Chinese (Simplified)')	1916
+('Tibetan', 'Russian')	689
+('Tibetan', 'Malayalam')	1923
+('Tibetan', 'Tamil')	2773
+('Tibetan', 'Korean')	2265
+('Tibetan', 'Marathi')	2766
+('Tibetan', 'Konkani')	2061
+('Tibetan', 'Kora (Bengali Script)')	662
+('Tibetan', 'Halbi')	857
+('Tibetan', 'Gondi')	1455
+('Tibetan', 'Serbian (Latin Script)')	1198
+('Tibetan', 'Bengali')	2096
+('Tibetan', 'Punjabi')	1580
+('Tibetan', 'Pashto')	911
+('Tibetan', 'Thai')	1519
+('Tibetan', 'Marwari')	727
+('Tibetan', 'English-Spanish')	829
+('Tibetan', 'English-Tamil')	1216
+('Tibetan', 'Assamese')	1445
+('Tibetan', 'Jinghpaw')	1204
+('Tibetan', 'Arabic')	2075
+('Tibetan', 'Nawatl')	830
+('Tibetan', 'Santali (Bengali Script)')	587
+('Tibetan', 'Vietnamese')	1453
+('Tibetan', 'Bangla (Bangladesh)')	690
+('Tibetan', 'German')	1369
+('Tibetan', 'Mixe')	599
+('Tibetan', 'isiXhosa')	658
+('Tibetan', 'Sinhala')	741
+('Tibetan', 'Kannada')	2731
+('Tibetan', 'Telugu')	2532
+('Tibetan', 'Khmer')	855
+('Tibetan', 'Odia')	1503
+('Tibetan', 'Urdu')	1861
+('Tibetan', 'Nepali')	1590
+('Tibetan', 'Italian')	2435
+('Tibetan', 'Greek')	507
+('Tibetan', 'Malay')	995
+('Tibetan', 'Sanskrit')	1324
+('Tibetan', 'Chinese (Traditional)')	1043
+('Tibetan', 'Farsi (Samim)')	1313
+('Tibetan', 'Kabyle (Taqbaylit)')	799
+('Tibetan', 'Gondi (South Bastar)')	1241
+('Turkish', 'Basa Jawa')	717
+('Turkish', 'Japanese')	894
+('Turkish', 'Portuguese')	930
+('Turkish', 'English')	1138
+('Turkish', 'Farsi')	740
+('Turkish', 'English-Kannada')	591
+('Turkish', 'Filipino')	688
+('Turkish', 'Chhattisgarhi')	904
+('Turkish', 'Bahasa Indonesia')	1086
+('Turkish', 'French')	1051
+('Turkish', 'Kiswahili')	672
+('Turkish', 'Chinese (Simplified)')	831
+('Turkish', 'Malayalam')	911
+('Turkish', 'Tamil')	1066
+('Turkish', 'Korean')	933
+('Turkish', 'Marathi')	1055
+('Turkish', 'Konkani')	796
+('Turkish', 'Gondi')	523
+('Turkish', 'Serbian (Latin Script)')	653
+('Turkish', 'Bengali')	983
+('Turkish', 'Punjabi')	757
+('Turkish', 'Thai')	724
+('Turkish', 'English-Tamil')	626
+('Turkish', 'Assamese')	783
+('Turkish', 'Jinghpaw')	661
+('Turkish', 'Arabic')	943
+('Turkish', 'Nawatl')	605
+('Turkish', 'Vietnamese')	802
+('Turkish', 'German')	826
+('Turkish', 'Kannada')	1066
+('Turkish', 'Telugu')	1012
+('Turkish', 'Khmer')	500
+('Turkish', 'Odia')	686
+('Turkish', 'Urdu')	866
+('Turkish', 'Nepali')	753
+('Turkish', 'Italian')	1056
+('Turkish', 'Malay')	681
+('Turkish', 'Sanskrit')	739
+('Turkish', 'Chinese (Traditional)')	659
+('Turkish', 'Farsi (Samim)')	637
+('Turkish', 'Gondi (South Bastar)')	613
+('Basa Jawa', 'Portuguese')	1938
+('Basa Jawa', 'Igbo')	601
+('Basa Jawa', 'Farsi')	1535
+('Basa Jawa', 'English-Kannada')	1033
+('Basa Jawa', 'Filipino')	1332
+('Basa Jawa', 'English-Malay')	516
+('Basa Jawa', 'English-Marathi')	789
+('Basa Jawa', 'Kiswahili')	1277
+('Basa Jawa', 'Chinese (Simplified)')	1959
+('Basa Jawa', 'Russian')	789
+('Basa Jawa', 'Malayalam')	1809
+('Basa Jawa', 'Konkani')	1624
+('Basa Jawa', 'Kora (Bengali Script)')	785
+('Basa Jawa', 'Halbi')	890
+('Basa Jawa', 'Gondi')	1044
+('Basa Jawa', 'Serbian (Latin Script)')	1403
+('Basa Jawa', 'Bengali')	2141
+('Basa Jawa', 'Punjabi')	1684
+('Basa Jawa', 'Pashto')	849
+('Basa Jawa', 'Thai')	1669
+('Basa Jawa', 'Marwari')	840
+('Basa Jawa', 'Rana Tharu')	502
+('Basa Jawa', 'English-Tamil')	1184
+('Basa Jawa', 'Assamese')	1674
+('Basa Jawa', 'Jinghpaw')	1341
+('Basa Jawa', 'Arabic')	2043
+('Basa Jawa', 'Nawatl')	893
+('Basa Jawa', 'Santali (Bengali Script)')	665
+('Basa Jawa', 'Bangla (Bangladesh)')	992
+('Basa Jawa', 'German')	1389
+('Basa Jawa', 'Mixe')	593
+('Basa Jawa', 'isiXhosa')	665
+('Basa Jawa', 'Sinhala')	695
+('Basa Jawa', 'Kannada')	2798
+('Basa Jawa', 'Telugu')	2432
+('Basa Jawa', 'Khmer')	1191
+('Basa Jawa', 'Odia')	1522
+('Basa Jawa', 'Urdu')	2000
+('Basa Jawa', 'Nepali')	1623
+('Basa Jawa', 'Greek')	529
+('Basa Jawa', 'Malay')	946
+('Basa Jawa', 'Sanskrit')	1431
+('Basa Jawa', 'Farsi (Samim)')	1244
+('Basa Jawa', 'Kabyle (Taqbaylit)')	833
+('Basa Jawa', 'Gondi (South Bastar)')	1334
+('Japanese', 'Portuguese')	3402
+('Japanese', 'Igbo')	965
+('Japanese', 'Farsi')	2544
+('Japanese', 'English-Kannada')	1614
+('Japanese', 'Filipino')	1653
+('Japanese', 'English-Malay')	520
+('Japanese', 'English-Marathi')	918
+('Japanese', 'Kiswahili')	1767
+('Japanese', 'Chinese (Simplified)')	3165
+('Japanese', 'Russian')	1292
+('Japanese', 'Malayalam')	2992
+('Japanese', 'Konkani')	2353
+('Japanese', 'Kora (Bengali Script)')	1111
+('Japanese', 'Halbi')	1422
+('Japanese', 'Gondi')	1802
+('Japanese', 'Serbian (Latin Script)')	2568
+('Japanese', 'Bengali')	3669
+('Japanese', 'Punjabi')	2884
+('Japanese', 'Pashto')	1094
+('Japanese', 'Thai')	2391
+('Japanese', 'Marwari')	1050
+('Japanese', 'Rana Tharu')	537
+('Japanese', 'English-Tamil')	1651
+('Japanese', 'Assamese')	2493
+('Japanese', 'Zapoteco')	747
+('Japanese', 'Jinghpaw')	2414
+('Japanese', 'Arabic')	3566
+('Japanese', 'Nawatl')	1370
+('Japanese', 'Santali (Bengali Script)')	1047
+('Japanese', 'Bangla (Bangladesh)')	1179
+('Japanese', 'German')	2013
+('Japanese', 'Mixe')	986
+('Japanese', 'isiXhosa')	866
+('Japanese', 'Sinhala')	860
+('Japanese', 'Kannada')	5873
+('Japanese', 'Telugu')	4673
+('Japanese', 'Khmer')	1534
+('Japanese', 'Odia')	2476
+('Japanese', 'Urdu')	3587
+('Japanese', 'Nepali')	2546
+('Japanese', 'Greek')	551
+('Japanese', 'Malay')	1277
+('Japanese', 'Sanskrit')	2104
+('Japanese', 'Farsi (Samim)')	1980
+('Japanese', 'Kabyle (Taqbaylit)')	1132
+('Japanese', 'Gondi (South Bastar)')	2219
+('Portuguese', 'Igbo')	995
+('Portuguese', 'English')	6888
+('Portuguese', 'Farsi')	2180
+('Portuguese', 'English-Kannada')	1342
+('Portuguese', 'Filipino')	1558
+('Portuguese', 'Chhattisgarhi')	2903
+('Portuguese', 'Bahasa Indonesia')	4986
+('Portuguese', 'French')	6029
+('Portuguese', 'English-Malay')	550
+('Portuguese', 'English-Marathi')	862
+('Portuguese', 'Kiswahili')	2980
+('Portuguese', 'Chinese (Simplified)')	2885
+('Portuguese', 'Russian')	871
+('Portuguese', 'Malayalam')	2602
+('Portuguese', 'Tamil')	4686
+('Portuguese', 'Korean')	3699
+('Portuguese', 'Marathi')	4667
+('Portuguese', 'Konkani')	2392
+('Portuguese', 'Kora (Bengali Script)')	1026
+('Portuguese', 'Halbi')	990
+('Portuguese', 'Gondi')	1500
+('Portuguese', 'Serbian (Latin Script)')	2017
+('Portuguese', 'Bengali')	2929
+('Portuguese', 'Punjabi')	2189
+('Portuguese', 'Pashto')	1207
+('Portuguese', 'Thai')	2075
+('Portuguese', 'Marwari')	1032
+('Portuguese', 'Rana Tharu')	608
+('Portuguese', 'English-Spanish')	1075
+('Portuguese', 'English-Tamil')	1447
+('Portuguese', 'Assamese')	2323
+('Portuguese', 'Zapoteco')	603
+('Portuguese', 'Jinghpaw')	1828
+('Portuguese', 'Arabic')	3447
+('Portuguese', 'Nawatl')	1146
+('Portuguese', 'Polish')	511
+('Portuguese', 'Santali (Bengali Script)')	887
+('Portuguese', 'Vietnamese')	2137
+('Portuguese', 'Bangla (Bangladesh)')	1098
+('Portuguese', 'German')	1858
+('Portuguese', 'Mixe')	809
+('Portuguese', 'isiXhosa')	1666
+('Portuguese', 'Sinhala')	887
+('Portuguese', 'Kannada')	4593
+('Portuguese', 'Telugu')	3826
+('Portuguese', 'Khmer')	1262
+('Portuguese', 'Odia')	2174
+('Portuguese', 'Urdu')	3101
+('Portuguese', 'Nepali')	2052
+('Portuguese', 'Italian')	4526
+('Portuguese', 'Greek')	618
+('Portuguese', 'Malay')	1312
+('Portuguese', 'Sanskrit')	1693
+('Portuguese', 'Chinese (Traditional)')	1718
+('Portuguese', 'Farsi (Samim)')	2043
+('Portuguese', 'Kabyle (Taqbaylit)')	903
+('Portuguese', 'Gondi (South Bastar)')	1667
+('Igbo', 'English')	1575
+('Igbo', 'Farsi')	523
+('Igbo', 'English-Kannada')	554
+('Igbo', 'Chhattisgarhi')	823
+('Igbo', 'Bahasa Indonesia')	1427
+('Igbo', 'French')	1450
+('Igbo', 'Kiswahili')	839
+('Igbo', 'Chinese (Simplified)')	890
+('Igbo', 'Malayalam')	818
+('Igbo', 'Tamil')	1413
+('Igbo', 'Korean')	1059
+('Igbo', 'Marathi')	1290
+('Igbo', 'Konkani')	802
+('Igbo', 'Serbian (Latin Script)')	643
+('Igbo', 'Bengali')	872
+('Igbo', 'Punjabi')	648
+('Igbo', 'Thai')	632
+('Igbo', 'English-Tamil')	534
+('Igbo', 'Assamese')	838
+('Igbo', 'Jinghpaw')	574
+('Igbo', 'Arabic')	1043
+('Igbo', 'Vietnamese')	768
+('Igbo', 'German')	521
+('Igbo', 'Kannada')	1301
+('Igbo', 'Telugu')	1124
+('Igbo', 'Odia')	756
+('Igbo', 'Urdu')	943
+('Igbo', 'Nepali')	657
+('Igbo', 'Italian')	1235
+('Igbo', 'Sanskrit')	529
+('Igbo', 'Chinese (Traditional)')	612
+('Igbo', 'Farsi (Samim)')	753
+('English', 'Kurdish (Latin Script)')	527
+('English', 'Farsi')	3857
+('English', 'English-Kannada')	2042
+('English', 'Filipino')	2003
+('English', 'English-Malay')	570
+('English', 'English-Marathi')	1411
+('English', 'Kiswahili')	7076
+('English', 'Chinese (Simplified)')	4466
+('English', 'Russian')	1531
+('English', 'Malayalam')	4573
+('English', 'Konkani')	4599
+('English', 'Kora (Bengali Script)')	1990
+('English', 'Halbi')	1736
+('English', 'Gondi')	3441
+('English', 'Serbian (Latin Script)')	3346
+('English', 'Bengali')	5799
+('English', 'Punjabi')	5052
+('English', 'Pashto')	1470
+('English', 'Thai')	2995
+('English', 'Marwari')	2065
+('English', 'Rana Tharu')	729
+('English', 'English-Tamil')	2647
+('English', 'Assamese')	4366
+('English', 'Zapoteco')	881
+('English', 'Jinghpaw')	4569
+('English', 'Arabic')	6444
+('English', 'Nawatl')	1640
+('English', 'Polish')	563
+('English', 'Santali (Bengali Script)')	1799
+('English', 'Bangla (Bangladesh)')	2185
+('English', 'German')	2622
+('English', 'Mixe')	1149
+('English', 'isiXhosa')	3257
+('English', 'Sinhala')	1300
+('English', 'Kannada')	13741
+('English', 'Telugu')	9430
+('English', 'Khmer')	2211
+('English', 'Odia')	4958
+('English', 'Norwegian')	564
+('English', 'Urdu')	7158
+('English', 'Nepali')	4117
+('English', 'Greek')	739
+('English', 'Malay')	1926
+('English', 'Sanskrit')	2796
+('English', 'Farsi (Samim)')	4225
+('English', 'Kabyle (Taqbaylit)')	1308
+('English', 'Gondi (South Bastar)')	2980
+('Kurdish (Latin Script)', 'Bahasa Indonesia')	509
+('Kurdish (Latin Script)', 'French')	502
+('Farsi', 'English-Kannada')	961
+('Farsi', 'Filipino')	1308
+('Farsi', 'Chhattisgarhi')	2087
+('Farsi', 'Bahasa Indonesia')	3706
+('Farsi', 'French')	3351
+('Farsi', 'English-Marathi')	716
+('Farsi', 'Kiswahili')	1298
+('Farsi', 'Chinese (Simplified)')	2114
+('Farsi', 'Russian')	710
+('Farsi', 'Malayalam')	2024
+('Farsi', 'Tamil')	3454
+('Farsi', 'Korean')	2677
+('Farsi', 'Marathi')	3265
+('Farsi', 'Konkani')	1530
+('Farsi', 'Kora (Bengali Script)')	693
+('Farsi', 'Halbi')	691
+('Farsi', 'Gondi')	1084
+('Farsi', 'Serbian (Latin Script)')	1446
+('Farsi', 'Bengali')	2127
+('Farsi', 'Punjabi')	1412
+('Farsi', 'Pashto')	807
+('Farsi', 'Thai')	1685
+('Farsi', 'Marwari')	724
+('Farsi', 'English-Spanish')	912
+('Farsi', 'English-Tamil')	1042
+('Farsi', 'Assamese')	1622
+('Farsi', 'Zapoteco')	535
+('Farsi', 'Jinghpaw')	1841
+('Farsi', 'Arabic')	2210
+('Farsi', 'Nawatl')	853
+('Farsi', 'Santali (Bengali Script)')	655
+('Farsi', 'Vietnamese')	1746
+('Farsi', 'Bangla (Bangladesh)')	734
+('Farsi', 'German')	1369
+('Farsi', 'Mixe')	623
+('Farsi', 'isiXhosa')	709
+('Farsi', 'Sinhala')	729
+('Farsi', 'Kannada')	3093
+('Farsi', 'Telugu')	2659
+('Farsi', 'Khmer')	956
+('Farsi', 'Odia')	1269
+('Farsi', 'Urdu')	1962
+('Farsi', 'Nepali')	1826
+('Farsi', 'Italian')	3220
+('Farsi', 'Greek')	566
+('Farsi', 'Malay')	1068
+('Farsi', 'Sanskrit')	1190
+('Farsi', 'Chinese (Traditional)')	1168
+('Farsi', 'Farsi (Samim)')	1184
+('Farsi', 'Kabyle (Taqbaylit)')	827
+('Farsi', 'Gondi (South Bastar)')	1147
+('English-Kannada', 'Filipino')	971
+('English-Kannada', 'Chhattisgarhi')	1601
+('English-Kannada', 'Bahasa Indonesia')	1921
+('English-Kannada', 'French')	1819
+('English-Kannada', 'English-Marathi')	913
+('English-Kannada', 'Kiswahili')	864
+('English-Kannada', 'Chinese (Simplified)')	1280
+('English-Kannada', 'Russian')	551
+('English-Kannada', 'Malayalam')	1279
+('English-Kannada', 'Tamil')	1865
+('English-Kannada', 'Korean')	1607
+('English-Kannada', 'Marathi')	1867
+('English-Kannada', 'Konkani')	1132
+('English-Kannada', 'Halbi')	760
+('English-Kannada', 'Gondi')	775
+('English-Kannada', 'Serbian (Latin Script)')	953
+('English-Kannada', 'Bengali')	1375
+('English-Kannada', 'Punjabi')	1269
+('English-Kannada', 'Pashto')	636
+('English-Kannada', 'Thai')	1122
+('English-Kannada', 'English-Spanish')	620
+('English-Kannada', 'English-Tamil')	1060
+('English-Kannada', 'Assamese')	969
+('English-Kannada', 'Jinghpaw')	843
+('English-Kannada', 'Arabic')	1339
+('English-Kannada', 'Nawatl')	735
+('English-Kannada', 'Vietnamese')	1095
+('English-Kannada', 'Bangla (Bangladesh)')	648
+('English-Kannada', 'German')	924
+('English-Kannada', 'Mixe')	628
+('English-Kannada', 'Sinhala')	557
+('English-Kannada', 'Kannada')	1895
+('English-Kannada', 'Telugu')	1534
+('English-Kannada', 'Khmer')	668
+('English-Kannada', 'Odia')	846
+('English-Kannada', 'Urdu')	1214
+('English-Kannada', 'Nepali')	958
+('English-Kannada', 'Italian')	1624
+('English-Kannada', 'Malay')	719
+('English-Kannada', 'Sanskrit')	1015
+('English-Kannada', 'Chinese (Traditional)')	851
+('English-Kannada', 'Farsi (Samim)')	839
+('English-Kannada', 'Kabyle (Taqbaylit)')	582
+('English-Kannada', 'Gondi (South Bastar)')	980
+('Filipino', 'Chhattisgarhi')	1654
+('Filipino', 'Bahasa Indonesia')	1944
+('Filipino', 'French')	1928
+('Filipino', 'English-Marathi')	665
+('Filipino', 'Kiswahili')	991
+('Filipino', 'Chinese (Simplified)')	1444
+('Filipino', 'Russian')	622
+('Filipino', 'Malayalam')	1429
+('Filipino', 'Tamil')	1945
+('Filipino', 'Korean')	1773
+('Filipino', 'Marathi')	1840
+('Filipino', 'Konkani')	1151
+('Filipino', 'Kora (Bengali Script)')	572
+('Filipino', 'Halbi')	698
+('Filipino', 'Gondi')	746
+('Filipino', 'Serbian (Latin Script)')	1170
+('Filipino', 'Bengali')	1494
+('Filipino', 'Punjabi')	1162
+('Filipino', 'Pashto')	627
+('Filipino', 'Thai')	1278
+('Filipino', 'Marwari')	514
+('Filipino', 'English-Spanish')	826
+('Filipino', 'English-Tamil')	936
+('Filipino', 'Assamese')	1106
+('Filipino', 'Jinghpaw')	1133
+('Filipino', 'Arabic')	1348
+('Filipino', 'Nawatl')	877
+('Filipino', 'Santali (Bengali Script)')	517
+('Filipino', 'Vietnamese')	1221
+('Filipino', 'Bangla (Bangladesh)')	583
+('Filipino', 'German')	1102
+('Filipino', 'Mixe')	590
+('Filipino', 'isiXhosa')	615
+('Filipino', 'Sinhala')	693
+('Filipino', 'Kannada')	1843
+('Filipino', 'Telugu')	1618
+('Filipino', 'Khmer')	782
+('Filipino', 'Odia')	1005
+('Filipino', 'Urdu')	1368
+('Filipino', 'Nepali')	1286
+('Filipino', 'Italian')	1787
+('Filipino', 'Greek')	507
+('Filipino', 'Malay')	919
+('Filipino', 'Sanskrit')	1132
+('Filipino', 'Chinese (Traditional)')	916
+('Filipino', 'Farsi (Samim)')	822
+('Filipino', 'Kabyle (Taqbaylit)')	690
+('Filipino', 'Gondi (South Bastar)')	973
+('Chhattisgarhi', 'English-Malay')	508
+('Chhattisgarhi', 'English-Marathi')	1023
+('Chhattisgarhi', 'Kiswahili')	1426
+('Chhattisgarhi', 'Chinese (Simplified)')	2875
+('Chhattisgarhi', 'Russian')	1101
+('Chhattisgarhi', 'Malayalam')	2490
+('Chhattisgarhi', 'Konkani')	2404
+('Chhattisgarhi', 'Kora (Bengali Script)')	1049
+('Chhattisgarhi', 'Halbi')	1515
+('Chhattisgarhi', 'Gondi')	2085
+('Chhattisgarhi', 'Serbian (Latin Script)')	2088
+('Chhattisgarhi', 'Bengali')	3404
+('Chhattisgarhi', 'Punjabi')	2932
+('Chhattisgarhi', 'Pashto')	1092
+('Chhattisgarhi', 'Thai')	2047
+('Chhattisgarhi', 'Marwari')	1186
+('Chhattisgarhi', 'Rana Tharu')	597
+('Chhattisgarhi', 'English-Tamil')	1555
+('Chhattisgarhi', 'Assamese')	2484
+('Chhattisgarhi', 'Zapoteco')	673
+('Chhattisgarhi', 'Jinghpaw')	1974
+('Chhattisgarhi', 'Arabic')	3007
+('Chhattisgarhi', 'Nawatl')	1245
+('Chhattisgarhi', 'Santali (Bengali Script)')	1000
+('Chhattisgarhi', 'Bangla (Bangladesh)')	1243
+('Chhattisgarhi', 'German')	1819
+('Chhattisgarhi', 'Mixe')	901
+('Chhattisgarhi', 'isiXhosa')	776
+('Chhattisgarhi', 'Sinhala')	831
+('Chhattisgarhi', 'Kannada')	5301
+('Chhattisgarhi', 'Telugu')	4379
+('Chhattisgarhi', 'Khmer')	1317
+('Chhattisgarhi', 'Odia')	2602
+('Chhattisgarhi', 'Urdu')	3440
+('Chhattisgarhi', 'Nepali')	2265
+('Chhattisgarhi', 'Greek')	570
+('Chhattisgarhi', 'Malay')	1269
+('Chhattisgarhi', 'Sanskrit')	1994
+('Chhattisgarhi', 'Farsi (Samim)')	2035
+('Chhattisgarhi', 'Kabyle (Taqbaylit)')	992
+('Chhattisgarhi', 'Gondi (South Bastar)')	2543
+('Bahasa Indonesia', 'English-Malay')	550
+('Bahasa Indonesia', 'English-Marathi')	1240
+('Bahasa Indonesia', 'Kiswahili')	3186
+('Bahasa Indonesia', 'Chinese (Simplified)')	4415
+('Bahasa Indonesia', 'Russian')	1445
+('Bahasa Indonesia', 'Malayalam')	4208
+('Bahasa Indonesia', 'Konkani')	4366
+('Bahasa Indonesia', 'Kora (Bengali Script)')	1828
+('Bahasa Indonesia', 'Halbi')	1706
+('Bahasa Indonesia', 'Gondi')	3258
+('Bahasa Indonesia', 'Serbian (Latin Script)')	3194
+('Bahasa Indonesia', 'Bengali')	5428
+('Bahasa Indonesia', 'Punjabi')	4570
+('Bahasa Indonesia', 'Pashto')	1456
+('Bahasa Indonesia', 'Thai')	2939
+('Bahasa Indonesia', 'Marwari')	2025
+('Bahasa Indonesia', 'Rana Tharu')	709
+('Bahasa Indonesia', 'English-Tamil')	2327
+('Bahasa Indonesia', 'Assamese')	4255
+('Bahasa Indonesia', 'Zapoteco')	847
+('Bahasa Indonesia', 'Jinghpaw')	4264
+('Bahasa Indonesia', 'Arabic')	5911
+('Bahasa Indonesia', 'Nawatl')	1596
+('Bahasa Indonesia', 'Polish')	555
+('Bahasa Indonesia', 'Santali (Bengali Script)')	1710
+('Bahasa Indonesia', 'Bangla (Bangladesh)')	2146
+('Bahasa Indonesia', 'German')	2516
+('Bahasa Indonesia', 'Mixe')	1109
+('Bahasa Indonesia', 'isiXhosa')	1492
+('Bahasa Indonesia', 'Sinhala')	1254
+('Bahasa Indonesia', 'Kannada')	12506
+('Bahasa Indonesia', 'Telugu')	8564
+('Bahasa Indonesia', 'Khmer')	2179
+('Bahasa Indonesia', 'Odia')	4600
+('Bahasa Indonesia', 'Norwegian')	547
+('Bahasa Indonesia', 'Urdu')	6511
+('Bahasa Indonesia', 'Nepali')	3967
+('Bahasa Indonesia', 'Greek')	706
+('Bahasa Indonesia', 'Malay')	1934
+('Bahasa Indonesia', 'Sanskrit')	2634
+('Bahasa Indonesia', 'Farsi (Samim)')	4174
+('Bahasa Indonesia', 'Kabyle (Taqbaylit)')	1300
+('Bahasa Indonesia', 'Gondi (South Bastar)')	2812
+('French', 'English-Malay')	550
+('French', 'English-Marathi')	1282
+('French', 'Kiswahili')	4169
+('French', 'Chinese (Simplified)')	4225
+('French', 'Russian')	1384
+('French', 'Malayalam')	3899
+('French', 'Konkani')	4052
+('French', 'Kora (Bengali Script)')	1629
+('French', 'Halbi')	1580
+('French', 'Gondi')	3021
+('French', 'Serbian (Latin Script)')	2948
+('French', 'Bengali')	4863
+('French', 'Punjabi')	4133
+('French', 'Pashto')	1406
+('French', 'Thai')	2823
+('French', 'Marwari')	1863
+('French', 'Rana Tharu')	685
+('French', 'English-Tamil')	2283
+('French', 'Assamese')	3877
+('French', 'Zapoteco')	809
+('French', 'Jinghpaw')	3731
+('French', 'Arabic')	5889
+('French', 'Nawatl')	1474
+('French', 'Polish')	555
+('French', 'Santali (Bengali Script)')	1586
+('French', 'Bangla (Bangladesh)')	1923
+('French', 'German')	2538
+('French', 'Mixe')	1066
+('French', 'isiXhosa')	2092
+('French', 'Sinhala')	1179
+('French', 'Kannada')	10740
+('French', 'Telugu')	7517
+('French', 'Khmer')	2061
+('French', 'Odia')	4024
+('French', 'Norwegian')	509
+('French', 'Urdu')	5767
+('French', 'Nepali')	3498
+('French', 'Greek')	692
+('French', 'Malay')	1795
+('French', 'Sanskrit')	2467
+('French', 'Farsi (Samim)')	4016
+('French', 'Kabyle (Taqbaylit)')	1273
+('French', 'Gondi (South Bastar)')	2515
+('English-Malay', 'Chinese (Simplified)')	550
+('English-Malay', 'Malayalam')	550
+('English-Malay', 'Tamil')	550
+('English-Malay', 'Korean')	550
+('English-Malay', 'Marathi')	550
+('English-Malay', 'Bengali')	550
+('English-Malay', 'Thai')	543
+('English-Malay', 'English-Tamil')	532
+('English-Malay', 'Arabic')	550
+('English-Malay', 'Kannada')	550
+('English-Malay', 'Telugu')	561
+('English-Malay', 'Urdu')	512
+('English-Malay', 'Italian')	550
+('English-Marathi', 'Kiswahili')	550
+('English-Marathi', 'Chinese (Simplified)')	793
+('English-Marathi', 'Malayalam')	800
+('English-Marathi', 'Tamil')	1244
+('English-Marathi', 'Korean')	994
+('English-Marathi', 'Marathi')	1291
+('English-Marathi', 'Konkani')	762
+('English-Marathi', 'Halbi')	505
+('English-Marathi', 'Gondi')	580
+('English-Marathi', 'Serbian (Latin Script)')	692
+('English-Marathi', 'Bengali')	926
+('English-Marathi', 'Punjabi')	835
+('English-Marathi', 'Pashto')	573
+('English-Marathi', 'Thai')	797
+('English-Marathi', 'English-Tamil')	758
+('English-Marathi', 'Assamese')	755
+('English-Marathi', 'Jinghpaw')	630
+('English-Marathi', 'Arabic')	849
+('English-Marathi', 'Vietnamese')	763
+('English-Marathi', 'German')	583
+('English-Marathi', 'Kannada')	1160
+('English-Marathi', 'Telugu')	988
+('English-Marathi', 'Khmer')	520
+('English-Marathi', 'Odia')	603
+('English-Marathi', 'Urdu')	743
+('English-Marathi', 'Nepali')	725
+('English-Marathi', 'Italian')	1032
+('English-Marathi', 'Malay')	553
+('English-Marathi', 'Sanskrit')	751
+('English-Marathi', 'Chinese (Traditional)')	548
+('English-Marathi', 'Farsi (Samim)')	631
+('English-Marathi', 'Gondi (South Bastar)')	677
+('Kiswahili', 'Chinese (Simplified)')	1511
+('Kiswahili', 'Russian')	514
+('Kiswahili', 'Malayalam')	1367
+('Kiswahili', 'Tamil')	2624
+('Kiswahili', 'Korean')	1920
+('Kiswahili', 'Marathi')	2199
+('Kiswahili', 'Konkani')	1313
+('Kiswahili', 'Kora (Bengali Script)')	688
+('Kiswahili', 'Halbi')	545
+('Kiswahili', 'Gondi')	758
+('Kiswahili', 'Serbian (Latin Script)')	1446
+('Kiswahili', 'Bengali')	1598
+('Kiswahili', 'Punjabi')	1178
+('Kiswahili', 'Pashto')	819
+('Kiswahili', 'Thai')	1300
+('Kiswahili', 'Marwari')	576
+('Kiswahili', 'English-Spanish')	659
+('Kiswahili', 'English-Tamil')	926
+('Kiswahili', 'Assamese')	1368
+('Kiswahili', 'Jinghpaw')	1266
+('Kiswahili', 'Arabic')	1953
+('Kiswahili', 'Nawatl')	773
+('Kiswahili', 'Vietnamese')	1192
+('Kiswahili', 'Bangla (Bangladesh)')	639
+('Kiswahili', 'German')	1133
+('Kiswahili', 'isiXhosa')	1978
+('Kiswahili', 'Sinhala')	570
+('Kiswahili', 'Kannada')	2234
+('Kiswahili', 'Telugu')	1801
+('Kiswahili', 'Khmer')	731
+('Kiswahili', 'Odia')	1207
+('Kiswahili', 'Urdu')	1452
+('Kiswahili', 'Nepali')	1231
+('Kiswahili', 'Italian')	2273
+('Kiswahili', 'Malay')	870
+('Kiswahili', 'Sanskrit')	1013
+('Kiswahili', 'Chinese (Traditional)')	882
+('Kiswahili', 'Farsi (Samim)')	1053
+('Kiswahili', 'Kabyle (Taqbaylit)')	653
+('Kiswahili', 'Gondi (South Bastar)')	795
+('Chinese (Simplified)', 'Russian')	794
+('Chinese (Simplified)', 'Malayalam')	2525
+('Chinese (Simplified)', 'Tamil')	4326
+('Chinese (Simplified)', 'Korean')	3641
+('Chinese (Simplified)', 'Marathi')	4273
+('Chinese (Simplified)', 'Konkani')	2274
+('Chinese (Simplified)', 'Kora (Bengali Script)')	925
+('Chinese (Simplified)', 'Halbi')	1100
+('Chinese (Simplified)', 'Gondi')	1467
+('Chinese (Simplified)', 'Serbian (Latin Script)')	1554
+('Chinese (Simplified)', 'Bengali')	2903
+('Chinese (Simplified)', 'Punjabi')	2195
+('Chinese (Simplified)', 'Pashto')	1081
+('Chinese (Simplified)', 'Thai')	1881
+('Chinese (Simplified)', 'Marwari')	1099
+('Chinese (Simplified)', 'Rana Tharu')	601
+('Chinese (Simplified)', 'English-Spanish')	1049
+('Chinese (Simplified)', 'English-Tamil')	1466
+('Chinese (Simplified)', 'Assamese')	2114
+('Chinese (Simplified)', 'Zapoteco')	523
+('Chinese (Simplified)', 'Jinghpaw')	1770
+('Chinese (Simplified)', 'Arabic')	3036
+('Chinese (Simplified)', 'Nawatl')	1118
+('Chinese (Simplified)', 'Santali (Bengali Script)')	881
+('Chinese (Simplified)', 'Vietnamese')	1967
+('Chinese (Simplified)', 'Bangla (Bangladesh)')	1119
+('Chinese (Simplified)', 'German')	1479
+('Chinese (Simplified)', 'Mixe')	711
+('Chinese (Simplified)', 'isiXhosa')	849
+('Chinese (Simplified)', 'Sinhala')	771
+('Chinese (Simplified)', 'Kannada')	4206
+('Chinese (Simplified)', 'Telugu')	3682
+('Chinese (Simplified)', 'Khmer')	1328
+('Chinese (Simplified)', 'Odia')	2246
+('Chinese (Simplified)', 'Urdu')	2848
+('Chinese (Simplified)', 'Nepali')	2113
+('Chinese (Simplified)', 'Italian')	4198
+('Chinese (Simplified)', 'Greek')	608
+('Chinese (Simplified)', 'Malay')	1668
+('Chinese (Simplified)', 'Sanskrit')	1645
+('Chinese (Simplified)', 'Chinese (Traditional)')	1569
+('Chinese (Simplified)', 'Farsi (Samim)')	1908
+('Chinese (Simplified)', 'Kabyle (Taqbaylit)')	907
+('Chinese (Simplified)', 'Gondi (South Bastar)')	1540
+('Russian', 'Malayalam')	839
+('Russian', 'Tamil')	1459
+('Russian', 'Korean')	1259
+('Russian', 'Marathi')	1420
+('Russian', 'Konkani')	707
+('Russian', 'Serbian (Latin Script)')	766
+('Russian', 'Bengali')	1071
+('Russian', 'Punjabi')	900
+('Russian', 'Thai')	762
+('Russian', 'Assamese')	772
+('Russian', 'Jinghpaw')	697
+('Russian', 'Arabic')	861
+('Russian', 'Nawatl')	522
+('Russian', 'Vietnamese')	676
+('Russian', 'German')	681
+('Russian', 'Kannada')	1394
+('Russian', 'Telugu')	1175
+('Russian', 'Odia')	812
+('Russian', 'Urdu')	1060
+('Russian', 'Nepali')	688
+('Russian', 'Italian')	1448
+('Russian', 'Sanskrit')	802
+('Russian', 'Chinese (Traditional)')	571
+('Russian', 'Farsi (Samim)')	536
+('Russian', 'Gondi (South Bastar)')	747
+('Malayalam', 'Tamil')	4161
+('Malayalam', 'Korean')	3206
+('Malayalam', 'Marathi')	4126
+('Malayalam', 'Konkani')	2180
+('Malayalam', 'Kora (Bengali Script)')	852
+('Malayalam', 'Halbi')	887
+('Malayalam', 'Gondi')	1407
+('Malayalam', 'Serbian (Latin Script)')	1493
+('Malayalam', 'Bengali')	2729
+('Malayalam', 'Punjabi')	1993
+('Malayalam', 'Pashto')	1147
+('Malayalam', 'Thai')	1759
+('Malayalam', 'Marwari')	1041
+('Malayalam', 'Rana Tharu')	545
+('Malayalam', 'English-Spanish')	1093
+('Malayalam', 'English-Tamil')	1434
+('Malayalam', 'Assamese')	2175
+('Malayalam', 'Zapoteco')	578
+('Malayalam', 'Jinghpaw')	1932
+('Malayalam', 'Arabic')	3034
+('Malayalam', 'Nawatl')	1070
+('Malayalam', 'Santali (Bengali Script)')	739
+('Malayalam', 'Vietnamese')	1900
+('Malayalam', 'Bangla (Bangladesh)')	851
+('Malayalam', 'German')	1645
+('Malayalam', 'Mixe')	715
+('Malayalam', 'isiXhosa')	851
+('Malayalam', 'Sinhala')	782
+('Malayalam', 'Kannada')	3973
+('Malayalam', 'Telugu')	3498
+('Malayalam', 'Khmer')	1179
+('Malayalam', 'Odia')	1965
+('Malayalam', 'Urdu')	2767
+('Malayalam', 'Nepali')	2177
+('Malayalam', 'Italian')	3799
+('Malayalam', 'Greek')	519
+('Malayalam', 'Malay')	1348
+('Malayalam', 'Sanskrit')	1687
+('Malayalam', 'Chinese (Traditional)')	1273
+('Malayalam', 'Farsi (Samim)')	1866
+('Malayalam', 'Kabyle (Taqbaylit)')	873
+('Malayalam', 'Gondi (South Bastar)')	1501
+('Tamil', 'Konkani')	4132
+('Tamil', 'Kora (Bengali Script)')	1654
+('Tamil', 'Halbi')	1611
+('Tamil', 'Gondi')	3351
+('Tamil', 'Serbian (Latin Script)')	2916
+('Tamil', 'Bengali')	5287
+('Tamil', 'Punjabi')	4526
+('Tamil', 'Pashto')	1445
+('Tamil', 'Thai')	2828
+('Tamil', 'Marwari')	1953
+('Tamil', 'Rana Tharu')	699
+('Tamil', 'English-Tamil')	2165
+('Tamil', 'Assamese')	4090
+('Tamil', 'Zapoteco')	833
+('Tamil', 'Jinghpaw')	3984
+('Tamil', 'Arabic')	5558
+('Tamil', 'Nawatl')	1525
+('Tamil', 'Polish')	541
+('Tamil', 'Santali (Bengali Script)')	1620
+('Tamil', 'Bangla (Bangladesh)')	1971
+('Tamil', 'German')	2426
+('Tamil', 'Mixe')	1071
+('Tamil', 'isiXhosa')	1252
+('Tamil', 'Sinhala')	1268
+('Tamil', 'Kannada')	11740
+('Tamil', 'Telugu')	8249
+('Tamil', 'Khmer')	2169
+('Tamil', 'Odia')	4677
+('Tamil', 'Norwegian')	547
+('Tamil', 'Urdu')	6260
+('Tamil', 'Nepali')	3746
+('Tamil', 'Greek')	682
+('Tamil', 'Malay')	1878
+('Tamil', 'Sanskrit')	2578
+('Tamil', 'Farsi (Samim)')	3877
+('Tamil', 'Kabyle (Taqbaylit)')	1255
+('Tamil', 'Gondi (South Bastar)')	2711
+('Korean', 'Konkani')	2590
+('Korean', 'Kora (Bengali Script)')	1050
+('Korean', 'Halbi')	1485
+('Korean', 'Gondi')	1774
+('Korean', 'Serbian (Latin Script)')	2778
+('Korean', 'Bengali')	4010
+('Korean', 'Punjabi')	3231
+('Korean', 'Pashto')	1180
+('Korean', 'Thai')	2515
+('Korean', 'Marwari')	1140
+('Korean', 'Rana Tharu')	580
+('Korean', 'English-Tamil')	1713
+('Korean', 'Assamese')	2717
+('Korean', 'Zapoteco')	762
+('Korean', 'Jinghpaw')	2641
+('Korean', 'Arabic')	3851
+('Korean', 'Nawatl')	1430
+('Korean', 'Polish')	520
+('Korean', 'Santali (Bengali Script)')	1091
+('Korean', 'Bangla (Bangladesh)')	1182
+('Korean', 'German')	2014
+('Korean', 'Mixe')	970
+('Korean', 'isiXhosa')	1009
+('Korean', 'Sinhala')	976
+('Korean', 'Kannada')	6392
+('Korean', 'Telugu')	5173
+('Korean', 'Khmer')	1728
+('Korean', 'Odia')	2778
+('Korean', 'Norwegian')	508
+('Korean', 'Urdu')	3718
+('Korean', 'Nepali')	2718
+('Korean', 'Greek')	635
+('Korean', 'Malay')	1533
+('Korean', 'Sanskrit')	2227
+('Korean', 'Farsi (Samim)')	2220
+('Korean', 'Kabyle (Taqbaylit)')	1159
+('Korean', 'Gondi (South Bastar)')	2425
+('Marathi', 'Konkani')	4381
+('Marathi', 'Kora (Bengali Script)')	1771
+('Marathi', 'Halbi')	1750
+('Marathi', 'Gondi')	3442
+('Marathi', 'Serbian (Latin Script)')	2749
+('Marathi', 'Bengali')	5329
+('Marathi', 'Punjabi')	4497
+('Marathi', 'Pashto')	1459
+('Marathi', 'Thai')	2741
+('Marathi', 'Marwari')	2081
+('Marathi', 'Rana Tharu')	675
+('Marathi', 'English-Tamil')	2221
+('Marathi', 'Assamese')	4231
+('Marathi', 'Zapoteco')	770
+('Marathi', 'Jinghpaw')	3433
+('Marathi', 'Arabic')	5694
+('Marathi', 'Nawatl')	1467
+('Marathi', 'Polish')	541
+('Marathi', 'Santali (Bengali Script)')	1580
+('Marathi', 'Bangla (Bangladesh)')	2134
+('Marathi', 'German')	2433
+('Marathi', 'Mixe')	1035
+('Marathi', 'isiXhosa')	1259
+('Marathi', 'Sinhala')	1159
+('Marathi', 'Kannada')	12333
+('Marathi', 'Telugu')	8758
+('Marathi', 'Khmer')	2113
+('Marathi', 'Odia')	4860
+('Marathi', 'Norwegian')	511
+('Marathi', 'Urdu')	6549
+('Marathi', 'Nepali')	3637
+('Marathi', 'Greek')	706
+('Marathi', 'Malay')	1880
+('Marathi', 'Sanskrit')	2584
+('Marathi', 'Farsi (Samim)')	4064
+('Marathi', 'Kabyle (Taqbaylit)')	1200
+('Marathi', 'Gondi (South Bastar)')	2879
+('Konkani', 'Kora (Bengali Script)')	1042
+('Konkani', 'Halbi')	867
+('Konkani', 'Gondi')	1674
+('Konkani', 'Serbian (Latin Script)')	1102
+('Konkani', 'Bengali')	2739
+('Konkani', 'Punjabi')	2134
+('Konkani', 'Pashto')	1022
+('Konkani', 'Thai')	1495
+('Konkani', 'Marwari')	1352
+('Konkani', 'English-Spanish')	827
+('Konkani', 'English-Tamil')	1142
+('Konkani', 'Assamese')	2280
+('Konkani', 'Jinghpaw')	1346
+('Konkani', 'Arabic')	3114
+('Konkani', 'Nawatl')	814
+('Konkani', 'Santali (Bengali Script)')	835
+('Konkani', 'Vietnamese')	1519
+('Konkani', 'Bangla (Bangladesh)')	1077
+('Konkani', 'German')	1595
+('Konkani', 'Mixe')	604
+('Konkani', 'isiXhosa')	666
+('Konkani', 'Sinhala')	752
+('Konkani', 'Kannada')	4295
+('Konkani', 'Telugu')	3948
+('Konkani', 'Khmer')	1092
+('Konkani', 'Odia')	2458
+('Konkani', 'Urdu')	2844
+('Konkani', 'Nepali')	1749
+('Konkani', 'Italian')	3596
+('Konkani', 'Malay')	1013
+('Konkani', 'Sanskrit')	1523
+('Konkani', 'Chinese (Traditional)')	1239
+('Konkani', 'Farsi (Samim)')	2647
+('Konkani', 'Kabyle (Taqbaylit)')	720
+('Konkani', 'Gondi (South Bastar)')	1276
+('Kora (Bengali Script)', 'Gondi')	741
+('Kora (Bengali Script)', 'Serbian (Latin Script)')	568
+('Kora (Bengali Script)', 'Bengali')	1743
+('Kora (Bengali Script)', 'Punjabi')	1013
+('Kora (Bengali Script)', 'Pashto')	501
+('Kora (Bengali Script)', 'Thai')	654
+('Kora (Bengali Script)', 'English-Tamil')	515
+('Kora (Bengali Script)', 'Assamese')	929
+('Kora (Bengali Script)', 'Jinghpaw')	708
+('Kora (Bengali Script)', 'Arabic')	1131
+('Kora (Bengali Script)', 'Santali (Bengali Script)')	936
+('Kora (Bengali Script)', 'Vietnamese')	532
+('Kora (Bengali Script)', 'Bangla (Bangladesh)')	638
+('Kora (Bengali Script)', 'German')	752
+('Kora (Bengali Script)', 'Kannada')	1699
+('Kora (Bengali Script)', 'Telugu')	1469
+('Kora (Bengali Script)', 'Khmer')	559
+('Kora (Bengali Script)', 'Odia')	1079
+('Kora (Bengali Script)', 'Urdu')	1139
+('Kora (Bengali Script)', 'Nepali')	740
+('Kora (Bengali Script)', 'Italian')	1535
+('Kora (Bengali Script)', 'Sanskrit')	779
+('Kora (Bengali Script)', 'Chinese (Traditional)')	538
+('Kora (Bengali Script)', 'Farsi (Samim)')	702
+('Kora (Bengali Script)', 'Gondi (South Bastar)')	508
+('Halbi', 'Gondi')	805
+('Halbi', 'Serbian (Latin Script)')	737
+('Halbi', 'Bengali')	1264
+('Halbi', 'Punjabi')	1199
+('Halbi', 'Thai')	810
+('Halbi', 'English-Tamil')	629
+('Halbi', 'Assamese')	873
+('Halbi', 'Jinghpaw')	628
+('Halbi', 'Arabic')	953
+('Halbi', 'Nawatl')	575
+('Halbi', 'Vietnamese')	664
+('Halbi', 'German')	604
+('Halbi', 'Kannada')	1693
+('Halbi', 'Telugu')	1559
+('Halbi', 'Odia')	942
+('Halbi', 'Urdu')	1305
+('Halbi', 'Nepali')	707
+('Halbi', 'Italian')	1400
+('Halbi', 'Sanskrit')	730
+('Halbi', 'Chinese (Traditional)')	708
+('Halbi', 'Farsi (Samim)')	602
+('Halbi', 'Gondi (South Bastar)')	1397
+('Gondi', 'Serbian (Latin Script)')	683
+('Gondi', 'Bengali')	1734
+('Gondi', 'Punjabi')	1885
+('Gondi', 'Pashto')	719
+('Gondi', 'Thai')	886
+('Gondi', 'Marwari')	942
+('Gondi', 'English-Spanish')	631
+('Gondi', 'English-Tamil')	854
+('Gondi', 'Assamese')	1424
+('Gondi', 'Jinghpaw')	888
+('Gondi', 'Arabic')	1817
+('Gondi', 'Nawatl')	505
+('Gondi', 'Santali (Bengali Script)')	552
+('Gondi', 'Vietnamese')	1043
+('Gondi', 'Bangla (Bangladesh)')	942
+('Gondi', 'German')	965
+('Gondi', 'Kannada')	3437
+('Gondi', 'Telugu')	2827
+('Gondi', 'Khmer')	696
+('Gondi', 'Odia')	1572
+('Gondi', 'Urdu')	2107
+('Gondi', 'Nepali')	1211
+('Gondi', 'Italian')	2522
+('Gondi', 'Malay')	764
+('Gondi', 'Sanskrit')	850
+('Gondi', 'Chinese (Traditional)')	836
+('Gondi', 'Farsi (Samim)')	1580
+('Gondi', 'Gondi (South Bastar)')	1166
+('Serbian (Latin Script)', 'Bengali')	1855
+('Serbian (Latin Script)', 'Punjabi')	1331
+('Serbian (Latin Script)', 'Pashto')	582
+('Serbian (Latin Script)', 'Thai')	1494
+('Serbian (Latin Script)', 'English-Spanish')	791
+('Serbian (Latin Script)', 'English-Tamil')	983
+('Serbian (Latin Script)', 'Assamese')	1326
+('Serbian (Latin Script)', 'Zapoteco')	551
+('Serbian (Latin Script)', 'Jinghpaw')	1286
+('Serbian (Latin Script)', 'Arabic')	1533
+('Serbian (Latin Script)', 'Nawatl')	995
+('Serbian (Latin Script)', 'Vietnamese')	1426
+('Serbian (Latin Script)', 'German')	1149
+('Serbian (Latin Script)', 'Mixe')	751
+('Serbian (Latin Script)', 'isiXhosa')	712
+('Serbian (Latin Script)', 'Sinhala')	578
+('Serbian (Latin Script)', 'Kannada')	2531
+('Serbian (Latin Script)', 'Telugu')	2063
+('Serbian (Latin Script)', 'Khmer')	815
+('Serbian (Latin Script)', 'Odia')	999
+('Serbian (Latin Script)', 'Urdu')	1867
+('Serbian (Latin Script)', 'Nepali')	1446
+('Serbian (Latin Script)', 'Italian')	2638
+('Serbian (Latin Script)', 'Malay')	745
+('Serbian (Latin Script)', 'Sanskrit')	1309
+('Serbian (Latin Script)', 'Chinese (Traditional)')	1052
+('Serbian (Latin Script)', 'Farsi (Samim)')	760
+('Serbian (Latin Script)', 'Kabyle (Taqbaylit)')	776
+('Serbian (Latin Script)', 'Gondi (South Bastar)')	1127
+('Bengali', 'Punjabi')	2948
+('Bengali', 'Pashto')	1120
+('Bengali', 'Thai')	2040
+('Bengali', 'Marwari')	1097
+('Bengali', 'Rana Tharu')	571
+('Bengali', 'English-Spanish')	1037
+('Bengali', 'English-Tamil')	1511
+('Bengali', 'Assamese')	2575
+('Bengali', 'Zapoteco')	621
+('Bengali', 'Jinghpaw')	2071
+('Bengali', 'Arabic')	3127
+('Bengali', 'Nawatl')	1159
+('Bengali', 'Polish')	526
+('Bengali', 'Santali (Bengali Script)')	1580
+('Bengali', 'Vietnamese')	1997
+('Bengali', 'Bangla (Bangladesh)')	1115
+('Bengali', 'German')	1841
+('Bengali', 'Mixe')	822
+('Bengali', 'isiXhosa')	839
+('Bengali', 'Sinhala')	787
+('Bengali', 'Kannada')	5119
+('Bengali', 'Telugu')	4476
+('Bengali', 'Khmer')	1331
+('Bengali', 'Odia')	3166
+('Bengali', 'Urdu')	3441
+('Bengali', 'Nepali')	2161
+('Bengali', 'Italian')	4434
+('Bengali', 'Greek')	602
+('Bengali', 'Malay')	1274
+('Bengali', 'Sanskrit')	1883
+('Bengali', 'Chinese (Traditional)')	1447
+('Bengali', 'Farsi (Samim)')	2022
+('Bengali', 'Kabyle (Taqbaylit)')	998
+('Bengali', 'Gondi (South Bastar)')	2152
+('Punjabi', 'Pashto')	776
+('Punjabi', 'Thai')	1651
+('Punjabi', 'Marwari')	1036
+('Punjabi', 'Rana Tharu')	594
+('Punjabi', 'English-Spanish')	820
+('Punjabi', 'English-Tamil')	1230
+('Punjabi', 'Assamese')	2126
+('Punjabi', 'Zapoteco')	515
+('Punjabi', 'Jinghpaw')	1639
+('Punjabi', 'Arabic')	2381
+('Punjabi', 'Nawatl')	1001
+('Punjabi', 'Santali (Bengali Script)')	918
+('Punjabi', 'Vietnamese')	1509
+('Punjabi', 'Bangla (Bangladesh)')	961
+('Punjabi', 'German')	1374
+('Punjabi', 'Mixe')	670
+('Punjabi', 'isiXhosa')	682
+('Punjabi', 'Sinhala')	741
+('Punjabi', 'Kannada')	4519
+('Punjabi', 'Telugu')	3803
+('Punjabi', 'Khmer')	1079
+('Punjabi', 'Odia')	2459
+('Punjabi', 'Urdu')	3078
+('Punjabi', 'Nepali')	1616
+('Punjabi', 'Italian')	3479
+('Punjabi', 'Malay')	983
+('Punjabi', 'Sanskrit')	1565
+('Punjabi', 'Chinese (Traditional)')	1242
+('Punjabi', 'Farsi (Samim)')	1837
+('Punjabi', 'Kabyle (Taqbaylit)')	814
+('Punjabi', 'Gondi (South Bastar)')	1939
+('Pashto', 'Thai')	808
+('Pashto', 'Marwari')	634
+('Pashto', 'English-Spanish')	565
+('Pashto', 'English-Tamil')	722
+('Pashto', 'Assamese')	1023
+('Pashto', 'Jinghpaw')	717
+('Pashto', 'Arabic')	1199
+('Pashto', 'Nawatl')	501
+('Pashto', 'Vietnamese')	851
+('Pashto', 'Bangla (Bangladesh)')	641
+('Pashto', 'German')	724
+('Pashto', 'isiXhosa')	531
+('Pashto', 'Kannada')	1456
+('Pashto', 'Telugu')	1350
+('Pashto', 'Khmer')	625
+('Pashto', 'Odia')	917
+('Pashto', 'Urdu')	875
+('Pashto', 'Nepali')	875
+('Pashto', 'Italian')	1349
+('Pashto', 'Malay')	659
+('Pashto', 'Sanskrit')	671
+('Pashto', 'Chinese (Traditional)')	539
+('Pashto', 'Farsi (Samim)')	1252
+('Pashto', 'Kabyle (Taqbaylit)')	511
+('Pashto', 'Gondi (South Bastar)')	527
+('Thai', 'Marwari')	668
+('Thai', 'English-Spanish')	858
+('Thai', 'English-Tamil')	1021
+('Thai', 'Assamese')	1557
+('Thai', 'Jinghpaw')	1475
+('Thai', 'Arabic')	1859
+('Thai', 'Nawatl')	894
+('Thai', 'Santali (Bengali Script)')	552
+('Thai', 'Vietnamese')	1591
+('Thai', 'Bangla (Bangladesh)')	751
+('Thai', 'German')	1340
+('Thai', 'Mixe')	622
+('Thai', 'isiXhosa')	694
+('Thai', 'Sinhala')	705
+('Thai', 'Kannada')	2689
+('Thai', 'Telugu')	2333
+('Thai', 'Khmer')	1083
+('Thai', 'Odia')	1401
+('Thai', 'Urdu')	1944
+('Thai', 'Nepali')	1526
+('Thai', 'Italian')	2701
+('Thai', 'Malay')	983
+('Thai', 'Sanskrit')	1426
+('Thai', 'Chinese (Traditional)')	1077
+('Thai', 'Farsi (Samim)')	1106
+('Thai', 'Kabyle (Taqbaylit)')	848
+('Thai', 'Gondi (South Bastar)')	1158
+('Marwari', 'English-Tamil')	706
+('Marwari', 'Assamese')	1303
+('Marwari', 'Jinghpaw')	514
+('Marwari', 'Arabic')	1401
+('Marwari', 'Vietnamese')	751
+('Marwari', 'Bangla (Bangladesh)')	858
+('Marwari', 'German')	615
+('Marwari', 'Kannada')	2042
+('Marwari', 'Telugu')	1661
+('Marwari', 'Khmer')	731
+('Marwari', 'Odia')	1173
+('Marwari', 'Urdu')	1241
+('Marwari', 'Nepali')	958
+('Marwari', 'Italian')	1724
+('Marwari', 'Malay')	594
+('Marwari', 'Sanskrit')	603
+('Marwari', 'Chinese (Traditional)')	684
+('Marwari', 'Farsi (Samim)')	1235
+('Rana Tharu', 'Arabic')	526
+('Rana Tharu', 'Kannada')	687
+('Rana Tharu', 'Telugu')	624
+('Rana Tharu', 'Urdu')	543
+('Rana Tharu', 'Nepali')	581
+('Rana Tharu', 'Italian')	687
+('English-Spanish', 'English-Tamil')	775
+('English-Spanish', 'Assamese')	871
+('English-Spanish', 'Jinghpaw')	953
+('English-Spanish', 'Arabic')	1111
+('English-Spanish', 'Nawatl')	730
+('English-Spanish', 'Bangla (Bangladesh)')	552
+('English-Spanish', 'German')	697
+('English-Spanish', 'isiXhosa')	524
+('English-Spanish', 'Kannada')	1613
+('English-Spanish', 'Telugu')	1338
+('English-Spanish', 'Khmer')	569
+('English-Spanish', 'Odia')	842
+('English-Spanish', 'Urdu')	1023
+('English-Spanish', 'Nepali')	960
+('English-Spanish', 'Malay')	661
+('English-Spanish', 'Sanskrit')	682
+('English-Spanish', 'Farsi (Samim)')	840
+('English-Spanish', 'Kabyle (Taqbaylit)')	587
+('English-Spanish', 'Gondi (South Bastar)')	552
+('English-Tamil', 'Assamese')	1148
+('English-Tamil', 'Jinghpaw')	997
+('English-Tamil', 'Arabic')	1546
+('English-Tamil', 'Nawatl')	761
+('English-Tamil', 'Santali (Bengali Script)')	577
+('English-Tamil', 'Vietnamese')	1105
+('English-Tamil', 'Bangla (Bangladesh)')	688
+('English-Tamil', 'German')	912
+('English-Tamil', 'isiXhosa')	593
+('English-Tamil', 'Sinhala')	575
+('English-Tamil', 'Kannada')	2076
+('English-Tamil', 'Telugu')	1758
+('English-Tamil', 'Khmer')	799
+('English-Tamil', 'Odia')	1186
+('English-Tamil', 'Urdu')	1497
+('English-Tamil', 'Nepali')	1308
+('English-Tamil', 'Italian')	1927
+('English-Tamil', 'Malay')	952
+('English-Tamil', 'Sanskrit')	1023
+('English-Tamil', 'Chinese (Traditional)')	918
+('English-Tamil', 'Farsi (Samim)')	1079
+('English-Tamil', 'Kabyle (Taqbaylit)')	618
+('English-Tamil', 'Gondi (South Bastar)')	848
+('Assamese', 'Jinghpaw')	1417
+('Assamese', 'Arabic')	2933
+('Assamese', 'Nawatl')	833
+('Assamese', 'Santali (Bengali Script)')	612
+('Assamese', 'Vietnamese')	1574
+('Assamese', 'Bangla (Bangladesh)')	951
+('Assamese', 'German')	1485
+('Assamese', 'Mixe')	607
+('Assamese', 'isiXhosa')	804
+('Assamese', 'Sinhala')	756
+('Assamese', 'Kannada')	4136
+('Assamese', 'Telugu')	3606
+('Assamese', 'Khmer')	1000
+('Assamese', 'Odia')	2472
+('Assamese', 'Urdu')	2814
+('Assamese', 'Nepali')	1686
+('Assamese', 'Italian')	3613
+('Assamese', 'Greek')	515
+('Assamese', 'Malay')	1191
+('Assamese', 'Sanskrit')	1444
+('Assamese', 'Chinese (Traditional)')	1244
+('Assamese', 'Farsi (Samim)')	2026
+('Assamese', 'Kabyle (Taqbaylit)')	765
+('Assamese', 'Gondi (South Bastar)')	1372
+('Zapoteco', 'Jinghpaw')	511
+('Zapoteco', 'Arabic')	606
+('Zapoteco', 'Nawatl')	572
+('Zapoteco', 'Vietnamese')	513
+('Zapoteco', 'Mixe')	605
+('Zapoteco', 'Kannada')	778
+('Zapoteco', 'Telugu')	673
+('Zapoteco', 'Urdu')	569
+('Zapoteco', 'Nepali')	517
+('Zapoteco', 'Italian')	823
+('Zapoteco', 'Sanskrit')	611
+('Jinghpaw', 'Arabic')	2088
+('Jinghpaw', 'Nawatl')	877
+('Jinghpaw', 'Santali (Bengali Script)')	674
+('Jinghpaw', 'Vietnamese')	1634
+('Jinghpaw', 'Bangla (Bangladesh)')	524
+('Jinghpaw', 'German')	1171
+('Jinghpaw', 'Mixe')	660
+('Jinghpaw', 'isiXhosa')	689
+('Jinghpaw', 'Sinhala')	846
+('Jinghpaw', 'Kannada')	3142
+('Jinghpaw', 'Telugu')	2394
+('Jinghpaw', 'Khmer')	876
+('Jinghpaw', 'Odia')	1163
+('Jinghpaw', 'Urdu')	1844
+('Jinghpaw', 'Nepali')	1920
+('Jinghpaw', 'Italian')	3178
+('Jinghpaw', 'Malay')	1091
+('Jinghpaw', 'Sanskrit')	1312
+('Jinghpaw', 'Chinese (Traditional)')	959
+('Jinghpaw', 'Farsi (Samim)')	1274
+('Jinghpaw', 'Kabyle (Taqbaylit)')	843
+('Jinghpaw', 'Gondi (South Bastar)')	1194
+('Arabic', 'Nawatl')	1066
+('Arabic', 'Santali (Bengali Script)')	983
+('Arabic', 'Vietnamese')	2269
+('Arabic', 'Bangla (Bangladesh)')	1261
+('Arabic', 'German')	1800
+('Arabic', 'Mixe')	766
+('Arabic', 'isiXhosa')	1133
+('Arabic', 'Sinhala')	860
+('Arabic', 'Kannada')	5731
+('Arabic', 'Telugu')	4393
+('Arabic', 'Khmer')	1313
+('Arabic', 'Odia')	2606
+('Arabic', 'Urdu')	3336
+('Arabic', 'Nepali')	2343
+('Arabic', 'Italian')	5256
+('Arabic', 'Greek')	591
+('Arabic', 'Malay')	1554
+('Arabic', 'Sanskrit')	1748
+('Arabic', 'Chinese (Traditional)')	1629
+('Arabic', 'Farsi (Samim)')	3429
+('Arabic', 'Kabyle (Taqbaylit)')	929
+('Arabic', 'Gondi (South Bastar)')	1544
+('Nawatl', 'Vietnamese')	909
+('Nawatl', 'German')	809
+('Nawatl', 'Mixe')	715
+('Nawatl', 'Kannada')	1396
+('Nawatl', 'Telugu')	1248
+('Nawatl', 'Khmer')	561
+('Nawatl', 'Odia')	787
+('Nawatl', 'Urdu')	1082
+('Nawatl', 'Nepali')	980
+('Nawatl', 'Italian')	1485
+('Nawatl', 'Malay')	709
+('Nawatl', 'Sanskrit')	956
+('Nawatl', 'Chinese (Traditional)')	839
+('Nawatl', 'Farsi (Samim)')	610
+('Nawatl', 'Kabyle (Taqbaylit)')	616
+('Nawatl', 'Gondi (South Bastar)')	715
+('Polish', 'Kannada')	563
+('Polish', 'Telugu')	512
+('Polish', 'Italian')	527
+('Santali (Bengali Script)', 'Vietnamese')	679
+('Santali (Bengali Script)', 'German')	627
+('Santali (Bengali Script)', 'Kannada')	1452
+('Santali (Bengali Script)', 'Telugu')	1204
+('Santali (Bengali Script)', 'Odia')	914
+('Santali (Bengali Script)', 'Urdu')	1045
+('Santali (Bengali Script)', 'Nepali')	709
+('Santali (Bengali Script)', 'Italian')	1478
+('Santali (Bengali Script)', 'Sanskrit')	615
+('Santali (Bengali Script)', 'Farsi (Samim)')	660
+('Vietnamese', 'Bangla (Bangladesh)')	701
+('Vietnamese', 'German')	1255
+('Vietnamese', 'Mixe')	637
+('Vietnamese', 'isiXhosa')	635
+('Vietnamese', 'Sinhala')	704
+('Vietnamese', 'Kannada')	2792
+('Vietnamese', 'Telugu')	2344
+('Vietnamese', 'Khmer')	1023
+('Vietnamese', 'Odia')	1369
+('Vietnamese', 'Urdu')	2037
+('Vietnamese', 'Nepali')	1635
+('Vietnamese', 'Malay')	1292
+('Vietnamese', 'Sanskrit')	1336
+('Vietnamese', 'Farsi (Samim)')	1352
+('Vietnamese', 'Kabyle (Taqbaylit)')	819
+('Vietnamese', 'Gondi (South Bastar)')	1153
+('Bangla (Bangladesh)', 'German')	782
+('Bangla (Bangladesh)', 'Kannada')	2097
+('Bangla (Bangladesh)', 'Telugu')	1796
+('Bangla (Bangladesh)', 'Khmer')	1137
+('Bangla (Bangladesh)', 'Odia')	1063
+('Bangla (Bangladesh)', 'Urdu')	1235
+('Bangla (Bangladesh)', 'Nepali')	1196
+('Bangla (Bangladesh)', 'Italian')	1800
+('Bangla (Bangladesh)', 'Malay')	517
+('Bangla (Bangladesh)', 'Sanskrit')	679
+('Bangla (Bangladesh)', 'Chinese (Traditional)')	718
+('Bangla (Bangladesh)', 'Farsi (Samim)')	1162
+('Bangla (Bangladesh)', 'Gondi (South Bastar)')	630
+('German', 'Mixe')	610
+('German', 'isiXhosa')	598
+('German', 'Sinhala')	661
+('German', 'Kannada')	2342
+('German', 'Telugu')	2109
+('German', 'Khmer')	863
+('German', 'Odia')	1239
+('German', 'Urdu')	1754
+('German', 'Nepali')	1315
+('German', 'Italian')	2501
+('German', 'Malay')	847
+('German', 'Sanskrit')	1337
+('German', 'Chinese (Traditional)')	1003
+('German', 'Farsi (Samim)')	1119
+('German', 'Kabyle (Taqbaylit)')	721
+('German', 'Gondi (South Bastar)')	981
+('Mixe', 'Kannada')	975
+('Mixe', 'Telugu')	862
+('Mixe', 'Odia')	557
+('Mixe', 'Urdu')	704
+('Mixe', 'Nepali')	629
+('Mixe', 'Italian')	1085
+('Mixe', 'Sanskrit')	731
+('Mixe', 'Chinese (Traditional)')	518
+('isiXhosa', 'Kannada')	1193
+('isiXhosa', 'Telugu')	973
+('isiXhosa', 'Odia')	763
+('isiXhosa', 'Urdu')	848
+('isiXhosa', 'Nepali')	678
+('isiXhosa', 'Italian')	1238
+('isiXhosa', 'Malay')	629
+('isiXhosa', 'Sanskrit')	542
+('isiXhosa', 'Chinese (Traditional)')	596
+('isiXhosa', 'Farsi (Samim)')	603
+('Sinhala', 'Kannada')	1070
+('Sinhala', 'Telugu')	929
+('Sinhala', 'Odia')	659
+('Sinhala', 'Urdu')	784
+('Sinhala', 'Nepali')	734
+('Sinhala', 'Italian')	1069
+('Sinhala', 'Malay')	709
+('Sinhala', 'Sanskrit')	699
+('Sinhala', 'Chinese (Traditional)')	533
+('Sinhala', 'Farsi (Samim)')	614
+('Kannada', 'Telugu')	8579
+('Kannada', 'Khmer')	2133
+('Kannada', 'Odia')	4758
+('Kannada', 'Norwegian')	552
+('Kannada', 'Urdu')	6197
+('Kannada', 'Nepali')	3346
+('Kannada', 'Italian')	8983
+('Kannada', 'Greek')	704
+('Kannada', 'Malay')	1863
+('Kannada', 'Sanskrit')	2343
+('Kannada', 'Chinese (Traditional)')	2145
+('Kannada', 'Farsi (Samim)')	4132
+('Kannada', 'Kabyle (Taqbaylit)')	1226
+('Kannada', 'Gondi (South Bastar)')	2755
+('Telugu', 'Khmer')	1614
+('Telugu', 'Odia')	4114
+('Telugu', 'Urdu')	5182
+('Telugu', 'Nepali')	2731
+('Telugu', 'Italian')	6751
+('Telugu', 'Greek')	635
+('Telugu', 'Malay')	1530
+('Telugu', 'Sanskrit')	2187
+('Telugu', 'Chinese (Traditional)')	1744
+('Telugu', 'Farsi (Samim)')	3324
+('Telugu', 'Kabyle (Taqbaylit)')	1111
+('Telugu', 'Gondi (South Bastar)')	2428
+('Khmer', 'Odia')	1069
+('Khmer', 'Urdu')	1455
+('Khmer', 'Nepali')	1403
+('Khmer', 'Italian')	1908
+('Khmer', 'Malay')	795
+('Khmer', 'Sanskrit')	721
+('Khmer', 'Chinese (Traditional)')	681
+('Khmer', 'Farsi (Samim)')	980
+('Khmer', 'Kabyle (Taqbaylit)')	548
+('Khmer', 'Gondi (South Bastar)')	683
+('Odia', 'Urdu')	3658
+('Odia', 'Nepali')	1698
+('Odia', 'Italian')	3759
+('Odia', 'Malay')	1115
+('Odia', 'Sanskrit')	1456
+('Odia', 'Chinese (Traditional)')	1181
+('Odia', 'Farsi (Samim)')	2005
+('Odia', 'Kabyle (Taqbaylit)')	700
+('Odia', 'Gondi (South Bastar)')	1431
+('Norwegian', 'Italian')	509
+('Urdu', 'Nepali')	2347
+('Urdu', 'Italian')	5017
+('Urdu', 'Greek')	520
+('Urdu', 'Malay')	1206
+('Urdu', 'Sanskrit')	2009
+('Urdu', 'Chinese (Traditional)')	1475
+('Urdu', 'Farsi (Samim)')	2359
+('Urdu', 'Kabyle (Taqbaylit)')	886
+('Urdu', 'Gondi (South Bastar)')	2038
+('Nepali', 'Italian')	3173
+('Nepali', 'Malay')	1077
+('Nepali', 'Sanskrit')	1410
+('Nepali', 'Chinese (Traditional)')	1040
+('Nepali', 'Farsi (Samim)')	1497
+('Nepali', 'Kabyle (Taqbaylit)')	787
+('Nepali', 'Gondi (South Bastar)')	1083
+('Italian', 'Greek')	676
+('Italian', 'Malay')	1801
+('Italian', 'Sanskrit')	2355
+('Italian', 'Farsi (Samim)')	3412
+('Italian', 'Kabyle (Taqbaylit)')	1273
+('Italian', 'Gondi (South Bastar)')	2262
+('Malay', 'Sanskrit')	907
+('Malay', 'Chinese (Traditional)')	840
+('Malay', 'Farsi (Samim)')	1119
+('Malay', 'Kabyle (Taqbaylit)')	607
+('Malay', 'Gondi (South Bastar)')	796
+('Sanskrit', 'Chinese (Traditional)')	958
+('Sanskrit', 'Farsi (Samim)')	1082
+('Sanskrit', 'Kabyle (Taqbaylit)')	794
+('Sanskrit', 'Gondi (South Bastar)')	1158
+('Chinese (Traditional)', 'Farsi (Samim)')	920
+('Chinese (Traditional)', 'Kabyle (Taqbaylit)')	578
+('Chinese (Traditional)', 'Gondi (South Bastar)')	919
+('Farsi (Samim)', 'Kabyle (Taqbaylit)')	598
+('Farsi (Samim)', 'Gondi (South Bastar)')	983
+('Kabyle (Taqbaylit)', 'Gondi (South Bastar)')	543
+('Korean', 'Tangkhul')	728
+('Korean', 'Korku')	1147
+('Korean', 'Kurukh')	852
+('Korean', 'Dutch')	1386
+('Korean', 'English-Telugu')	1272
+('Korean', 'Pawari')	571
+('Korean', 'Lusoga')	1955
+('Korean', 'Marathi-Kolami')	929
+('Korean', 'Papiamento (Aruba)')	782
+('Korean', 'English-Surjapuri')	1021
+('Korean', 'English-French')	548
+('Korean', 'English-Hindi')	2698
+('Korean', 'Haryanvi')	982
+('Korean', 'Triqui')	752
+('Korean', 'Hebrew')	715
+('Korean', "Tu'un savi")	508
+('Korean', 'Surjapuri')	1325
+('Korean', 'Esperanto')	1512
+('Tangkhul', 'Spanish')	712
+('Tangkhul', 'English')	775
+('Tangkhul', 'Chhattisgarhi')	603
+('Tangkhul', 'Sanskrit')	511
+('Tangkhul', 'Tamil')	710
+('Tangkhul', 'Hindi')	754
+('Tangkhul', 'Bahasa Indonesia')	754
+('Tangkhul', 'Malayalam')	508
+('Tangkhul', 'French')	725
+('Tangkhul', 'Portuguese')	605
+('Tangkhul', 'Italian')	669
+('Tangkhul', 'Bengali')	506
+('Tangkhul', 'Telugu')	578
+('Tangkhul', 'Japanese')	726
+('Tangkhul', 'Urdu')	537
+('Tangkhul', 'Kannada')	683
+('Tangkhul', 'Arabic')	520
+('Tangkhul', 'Marathi')	702
+('Tangkhul', 'Vietnamese')	520
+('Tangkhul', 'Serbian (Latin Script)')	552
+('Tangkhul', 'Filipino')	558
+('Nawatl', 'Dutch')	684
+('Nawatl', 'English-Telugu')	585
+('Nawatl', 'Nahuatl')	1009
+('Nawatl', 'Lusoga')	683
+('Nawatl', 'English-Surjapuri')	506
+('Nawatl', 'English-Hindi')	922
+('Nawatl', 'Haryanvi')	507
+('Nawatl', 'Triqui')	515
+('Nawatl', 'Surjapuri')	629
+('Nawatl', 'Esperanto')	709
+('Spanish', 'Korku')	1355
+('Spanish', 'Kurukh')	816
+('Spanish', 'Dutch')	1466
+('Spanish', 'English-Telugu')	1384
+('Spanish', 'Pawari')	565
+('Spanish', 'Nahuatl')	1797
+('Spanish', 'Lusoga')	2438
+('Spanish', 'English-Korean')	530
+('Spanish', 'Marathi-Kolami')	1003
+('Spanish', 'Papiamento (Aruba)')	822
+('Spanish', 'English-Surjapuri')	1034
+('Spanish', 'English-French')	562
+('Spanish', 'Santali-Bengali (Bengali Script)')	500
+('Spanish', 'English-Hindi')	2750
+('Spanish', 'Haryanvi')	969
+('Spanish', 'Triqui')	819
+('Spanish', 'Hebrew')	725
+('Spanish', "Tu'un savi")	572
+('Spanish', 'Surjapuri')	1442
+('Spanish', 'Lao')	671
+('Spanish', 'Esperanto')	1327
+('Punjabi', 'Korku')	1030
+('Punjabi', 'Kurukh')	682
+('Punjabi', 'Dutch')	965
+('Punjabi', 'English-Telugu')	900
+('Punjabi', 'Nahuatl')	918
+('Punjabi', 'Lusoga')	1145
+('Punjabi', 'Marathi-Kolami')	829
+('Punjabi', 'English-Surjapuri')	823
+('Punjabi', 'English-Hindi')	1750
+('Punjabi', 'Haryanvi')	908
+('Punjabi', 'Triqui')	501
+('Punjabi', 'Surjapuri')	1176
+('Punjabi', 'Esperanto')	671
+('Tibetan', 'Korku')	789
+('Tibetan', 'Kurukh')	556
+('Tibetan', 'Dutch')	900
+('Tibetan', 'English-Telugu')	915
+('Tibetan', 'Nahuatl')	870
+('Tibetan', 'Lusoga')	1266
+('Tibetan', 'Marathi-Kolami')	809
+('Tibetan', 'English-Surjapuri')	772
+('Tibetan', 'English-Hindi')	1709
+('Tibetan', 'Haryanvi')	734
+('Tibetan', 'Hebrew')	542
+('Tibetan', 'Surjapuri')	1099
+('Tibetan', 'Esperanto')	661
+('Turkish', 'Dutch')	622
+('Turkish', 'English-Telugu')	501
+('Turkish', 'Lusoga')	740
+('Turkish', 'English-Hindi')	709
+('Korku', 'Farsi')	737
+('Korku', 'English-Telugu')	577
+('Korku', 'English')	1715
+('Korku', 'Chhattisgarhi')	1210
+('Korku', 'Konkani')	924
+('Korku', 'Sanskrit')	735
+('Korku', 'Gondi (South Bastar)')	743
+('Korku', 'German')	786
+('Korku', 'Nahuatl')	521
+('Korku', 'Tamil')	1678
+('Korku', 'Hindi')	1734
+('Korku', 'Lusoga')	733
+('Korku', 'Bahasa Indonesia')	1599
+('Korku', 'Malayalam')	917
+('Korku', 'French')	1524
+('Korku', 'Marathi-Kolami')	569
+('Korku', 'Kiswahili')	540
+('Korku', 'Portuguese')	1049
+('Korku', 'Gondi')	826
+('Korku', 'Thai')	828
+('Korku', 'Italian')	1372
+('Korku', 'Bengali')	1087
+('Korku', 'Nepali')	704
+('Korku', 'English-Tamil')	635
+('Korku', 'Telugu')	1584
+('Korku', 'English-Hindi')	813
+('Korku', 'Haryanvi')	582
+('Korku', 'Odia')	850
+('Korku', 'Japanese')	1145
+('Korku', 'Urdu')	1241
+('Korku', 'English-Kannada')	652
+('Korku', 'Assamese')	919
+('Korku', 'Kannada')	1715
+('Korku', 'Arabic')	972
+('Korku', 'Chinese (Traditional)')	669
+('Korku', 'Khmer')	506
+('Korku', 'Marathi')	1734
+('Korku', 'Vietnamese')	665
+('Korku', 'Basa Jawa')	794
+('Korku', 'Serbian (Latin Script)')	667
+('Korku', 'Gujarati')	1060
+('Korku', 'Surjapuri')	679
+('Korku', 'Marwari')	533
+('Korku', 'Kora (Bengali Script)')	531
+('Korku', 'Filipino')	652
+('Korku', 'Chinese (Simplified)')	861
+('Kurukh', 'English')	869
+('Kurukh', 'Chhattisgarhi')	816
+('Kurukh', 'Konkani')	534
+('Kurukh', 'Sanskrit')	575
+('Kurukh', 'Gondi (South Bastar)')	550
+('Kurukh', 'Tamil')	844
+('Kurukh', 'Hindi')	879
+('Kurukh', 'Bahasa Indonesia')	844
+('Kurukh', 'Malayalam')	639
+('Kurukh', 'French')	820
+('Kurukh', 'Portuguese')	570
+('Kurukh', 'Thai')	567
+('Kurukh', 'Italian')	805
+('Kurukh', 'Bengali')	731
+('Kurukh', 'Nepali')	556
+('Kurukh', 'English-Tamil')	521
+('Kurukh', 'Telugu')	815
+('Kurukh', 'English-Hindi')	689
+('Kurukh', 'Odia')	603
+('Kurukh', 'Japanese')	834
+('Kurukh', 'Urdu')	687
+('Kurukh', 'Assamese')	531
+('Kurukh', 'Kannada')	842
+('Kurukh', 'Arabic')	591
+('Kurukh', 'Marathi')	832
+('Kurukh', 'Basa Jawa')	558
+('Kurukh', 'Serbian (Latin Script)')	550
+('Kurukh', 'Gujarati')	675
+('Kurukh', 'Surjapuri')	561
+('Kurukh', 'Filipino')	500
+('Kurukh', 'Chinese (Simplified)')	682
+('Bangla (Bangladesh)', 'Dutch')	611
+('Bangla (Bangladesh)', 'Lusoga')	704
+('Bangla (Bangladesh)', 'Marathi-Kolami')	537
+('Bangla (Bangladesh)', 'English-Hindi')	764
+('Bangla (Bangladesh)', 'Surjapuri')	598
+('Farsi', 'Dutch')	1007
+('Farsi', 'English-Telugu')	863
+('Farsi', 'Nahuatl')	1037
+('Farsi', 'Lusoga')	1139
+('Farsi', 'Marathi-Kolami')	674
+('Farsi', 'Papiamento (Aruba)')	592
+('Farsi', 'English-Surjapuri')	618
+('Farsi', 'English-Hindi')	1543
+('Farsi', 'Haryanvi')	586
+('Farsi', 'Triqui')	515
+('Farsi', 'Hebrew')	571
+('Farsi', 'Surjapuri')	863
+('Farsi', 'Esperanto')	787
+('Dutch', 'English-Telugu')	668
+('Dutch', 'English')	1796
+('Dutch', 'Chhattisgarhi')	1097
+('Dutch', 'Russian')	510
+('Dutch', 'Konkani')	1145
+('Dutch', 'Sanskrit')	910
+('Dutch', 'Gondi (South Bastar)')	607
+('Dutch', 'German')	1068
+('Dutch', 'Nahuatl')	572
+('Dutch', 'isiXhosa')	516
+('Dutch', 'Tamil')	1687
+('Dutch', 'Hindi')	1743
+('Dutch', 'Lusoga')	900
+('Dutch', 'Bahasa Indonesia')	1697
+('Dutch', 'Malayalam')	1147
+('Dutch', 'French')	1671
+('Dutch', 'Malay')	697
+('Dutch', 'Kiswahili')	954
+('Dutch', 'Sinhala')	523
+('Dutch', 'Portuguese')	1221
+('Dutch', 'Gondi')	739
+('Dutch', 'Thai')	930
+('Dutch', 'Italian')	1640
+('Dutch', 'Bengali')	1227
+('Dutch', 'Nepali')	1023
+('Dutch', 'English-Tamil')	689
+('Dutch', 'Telugu')	1607
+('Dutch', 'English-Hindi')	793
+('Dutch', 'Odia')	1011
+('Dutch', 'Japanese')	1358
+('Dutch', 'Urdu')	1254
+('Dutch', 'English-Kannada')	639
+('Dutch', 'Assamese')	1115
+('Dutch', 'Kannada')	1615
+('Dutch', 'Arabic')	1391
+('Dutch', 'Chinese (Traditional)')	858
+('Dutch', 'Khmer')	630
+('Dutch', 'Marathi')	1633
+('Dutch', 'Vietnamese')	859
+('Dutch', 'Basa Jawa')	1024
+('Dutch', 'Serbian (Latin Script)')	866
+('Dutch', 'Gujarati')	1232
+('Dutch', 'Surjapuri')	565
+('Dutch', 'Marwari')	575
+('Dutch', 'Kora (Bengali Script)')	517
+('Dutch', 'Filipino')	762
+('Dutch', 'Chinese (Simplified)')	1132
+('English-Telugu', 'English')	1605
+('English-Telugu', 'Chhattisgarhi')	1150
+('English-Telugu', 'Konkani')	912
+('English-Telugu', 'Sanskrit')	868
+('English-Telugu', 'Gondi (South Bastar)')	705
+('English-Telugu', 'German')	775
+('English-Telugu', 'Nahuatl')	623
+('English-Telugu', 'Tamil')	1540
+('English-Telugu', 'Hindi')	1548
+('English-Telugu', 'Lusoga')	841
+('English-Telugu', 'Bahasa Indonesia')	1533
+('English-Telugu', 'Malayalam')	1063
+('English-Telugu', 'French')	1493
+('English-Telugu', 'Malay')	668
+('English-Telugu', 'Marathi-Kolami')	533
+('English-Telugu', 'Kiswahili')	673
+('English-Telugu', 'Sinhala')	511
+('English-Telugu', 'Portuguese')	1226
+('English-Telugu', 'Gondi')	584
+('English-Telugu', 'Thai')	802
+('English-Telugu', 'Italian')	1421
+('English-Telugu', 'Bengali')	1189
+('English-Telugu', 'Nepali')	1042
+('English-Telugu', 'English-Surjapuri')	529
+('English-Telugu', 'English-Tamil')	727
+('English-Telugu', 'Telugu')	1366
+('English-Telugu', 'English-Hindi')	1090
+('English-Telugu', 'Haryanvi')	522
+('English-Telugu', 'Odia')	791
+('English-Telugu', 'Japanese')	1238
+('English-Telugu', 'Urdu')	1171
+('English-Telugu', 'English-Kannada')	706
+('English-Telugu', 'Assamese')	961
+('English-Telugu', 'Kannada')	1453
+('English-Telugu', 'Arabic')	1176
+('English-Telugu', 'Chinese (Traditional)')	804
+('English-Telugu', 'Khmer')	667
+('English-Telugu', 'Marathi')	1450
+('English-Telugu', 'Vietnamese')	1045
+('English-Telugu', 'Basa Jawa')	996
+('English-Telugu', 'Serbian (Latin Script)')	908
+('English-Telugu', 'Gujarati')	1051
+('English-Telugu', 'Surjapuri')	701
+('English-Telugu', 'Filipino')	784
+('English-Telugu', 'Chinese (Simplified)')	1099
+('English-Telugu', 'Esperanto')	618
+('English', 'Pawari')	571
+('English', 'Lusoga')	7702
+('English', 'English-Korean')	607
+('English', 'Marathi-Kolami')	1251
+('English', 'Papiamento (Aruba)')	946
+('English', 'English-Surjapuri')	1112
+('English', 'English-French')	597
+('English', 'Santali-Bengali (Bengali Script)')	623
+('English', 'English-Hindi')	4039
+('English', 'Haryanvi')	1064
+('English', 'Triqui')	819
+('English', 'Hebrew')	942
+('English', "Tu'un savi")	584
+('English', 'Surjapuri')	1654
+('English', 'Esperanto')	1952
+('Chhattisgarhi', 'Pawari')	554
+('Chhattisgarhi', 'Lusoga')	1818
+('Chhattisgarhi', 'Marathi-Kolami')	1086
+('Chhattisgarhi', 'Papiamento (Aruba)')	531
+('Chhattisgarhi', 'English-Surjapuri')	1076
+('Chhattisgarhi', 'English-French')	521
+('Chhattisgarhi', 'English-Hindi')	2450
+('Chhattisgarhi', 'Haryanvi')	1041
+('Chhattisgarhi', 'Triqui')	680
+('Chhattisgarhi', 'Hebrew')	610
+('Chhattisgarhi', 'Surjapuri')	1411
+('Chhattisgarhi', 'Esperanto')	1254
+('Russian', 'Nahuatl')	542
+('Russian', 'Lusoga')	583
+('Russian', 'English-Hindi')	814
+('Konkani', 'Nahuatl')	845
+('Konkani', 'Lusoga')	1137
+('Konkani', 'Marathi-Kolami')	840
+('Konkani', 'English-Surjapuri')	675
+('Konkani', 'English-Hindi')	1615
+('Konkani', 'Haryanvi')	731
+('Konkani', 'Hebrew')	569
+('Konkani', 'Surjapuri')	1043
+('Konkani', 'Esperanto')	595
+('Sanskrit', 'Nahuatl')	868
+('Sanskrit', 'Lusoga')	1068
+('Sanskrit', 'Marathi-Kolami')	635
+('Sanskrit', 'English-Surjapuri')	654
+('Sanskrit', 'English-Hindi')	1359
+('Sanskrit', 'Haryanvi')	705
+('Sanskrit', 'Triqui')	583
+('Sanskrit', 'Surjapuri')	850
+('Sanskrit', 'Esperanto')	969
+('Gondi (South Bastar)', 'Nahuatl')	769
+('Gondi (South Bastar)', 'Lusoga')	1004
+('Gondi (South Bastar)', 'Marathi-Kolami')	659
+('Gondi (South Bastar)', 'English-Surjapuri')	770
+('Gondi (South Bastar)', 'English-Hindi')	1482
+('Gondi (South Bastar)', 'Haryanvi')	757
+('Gondi (South Bastar)', 'Surjapuri')	902
+('Gondi (South Bastar)', 'Esperanto')	696
+('German', 'Nahuatl')	788
+('German', 'Lusoga')	1093
+('German', 'Marathi-Kolami')	582
+('German', 'English-Hindi')	1283
+('German', 'Haryanvi')	588
+('German', 'Hebrew')	590
+('German', 'Surjapuri')	699
+('German', 'Esperanto')	759
+('Pawari', 'Tamil')	571
+('Pawari', 'Hindi')	571
+('Pawari', 'Bahasa Indonesia')	571
+('Pawari', 'French')	571
+('Pawari', 'Portuguese')	530
+('Pawari', 'Italian')	545
+('Pawari', 'Bengali')	516
+('Pawari', 'Telugu')	560
+('Pawari', 'English-Hindi')	516
+('Pawari', 'Japanese')	545
+('Pawari', 'Urdu')	554
+('Pawari', 'Kannada')	571
+('Pawari', 'Marathi')	571
+('Pawari', 'Basa Jawa')	508
+('Nahuatl', 'Lusoga')	761
+('Nahuatl', 'Malayalam')	1081
+('Nahuatl', 'Malay')	688
+('Nahuatl', 'Kiswahili')	738
+('Nahuatl', 'Portuguese')	1362
+('Nahuatl', 'Gondi')	580
+('Nahuatl', 'Thai')	938
+('Nahuatl', 'Bengali')	1311
+('Nahuatl', 'Nepali')	1056
+('Nahuatl', 'English-Surjapuri')	577
+('Nahuatl', 'English-Tamil')	646
+('Nahuatl', 'Telugu')	1331
+('Nahuatl', 'English-Hindi')	936
+('Nahuatl', 'Odia')	813
+('Nahuatl', 'Triqui')	593
+('Nahuatl', 'Urdu')	1211
+('Nahuatl', 'English-Kannada')	730
+('Nahuatl', 'Assamese')	838
+('Nahuatl', 'Kannada')	1641
+('Nahuatl', 'Arabic')	1192
+('Nahuatl', 'Khmer')	568
+('Nahuatl', 'Serbian (Latin Script)')	960
+('Nahuatl', 'Gujarati')	1023
+('Nahuatl', 'Surjapuri')	641
+('Nahuatl', 'Filipino')	819
+('Nahuatl', 'Chinese (Simplified)')	1165
+('Nahuatl', 'Esperanto')	715
+('isiXhosa', 'Lusoga')	1769
+('isiXhosa', 'English-Hindi')	725
+('Tamil', 'Lusoga')	2388
+('Tamil', 'English-Korean')	580
+('Tamil', 'Marathi-Kolami')	1137
+('Tamil', 'Papiamento (Aruba)')	908
+('Tamil', 'English-Surjapuri')	1049
+('Tamil', 'English-French')	548
+('Tamil', 'Santali-Bengali (Bengali Script)')	575
+('Tamil', 'English-Hindi')	3462
+('Tamil', 'Haryanvi')	1034
+('Tamil', 'Triqui')	806
+('Tamil', 'Hebrew')	845
+('Tamil', "Tu'un savi")	570
+('Tamil', 'Surjapuri')	1552
+('Tamil', 'Esperanto')	1617
+('Hindi', 'Lusoga')	2737
+('Hindi', 'English-Korean')	591
+('Hindi', 'Marathi-Kolami')	1289
+('Hindi', 'Papiamento (Aruba)')	946
+('Hindi', 'English-Surjapuri')	1106
+('Hindi', 'English-French')	569
+('Hindi', 'Santali-Bengali (Bengali Script)')	613
+('Hindi', 'English-Hindi')	3988
+('Hindi', 'Haryanvi')	1064
+('Hindi', 'Triqui')	806
+('Hindi', 'Hebrew')	921
+('Hindi', "Tu'un savi")	584
+('Hindi', 'Surjapuri')	1648
+('Hindi', 'Esperanto')	1718
+('Lusoga', 'Bahasa Indonesia')	2566
+('Lusoga', 'Malayalam')	1363
+('Lusoga', 'French')	4231
+('Lusoga', 'Malay')	778
+('Lusoga', 'Marathi-Kolami')	600
+('Lusoga', 'Kiswahili')	3992
+('Lusoga', 'Sinhala')	605
+('Lusoga', 'Portuguese')	2920
+('Lusoga', 'Gondi')	812
+('Lusoga', 'Thai')	1170
+('Lusoga', 'Italian')	2124
+('Lusoga', 'Bengali')	1500
+('Lusoga', 'Nepali')	1096
+('Lusoga', 'English-Surjapuri')	597
+('Lusoga', 'English-Tamil')	831
+('Lusoga', 'Telugu')	1718
+('Lusoga', 'English-Hindi')	1295
+('Lusoga', 'Haryanvi')	526
+('Lusoga', 'Odia')	1017
+('Lusoga', 'Japanese')	1826
+('Lusoga', 'Urdu')	1528
+('Lusoga', 'English-Kannada')	969
+('Lusoga', 'Assamese')	1121
+('Lusoga', 'Kannada')	2127
+('Lusoga', 'Arabic')	1838
+('Lusoga', 'Chinese (Traditional)')	912
+('Lusoga', 'Khmer')	748
+('Lusoga', 'Marathi')	2192
+('Lusoga', 'Vietnamese')	1163
+('Lusoga', 'Hebrew')	507
+('Lusoga', 'Basa Jawa')	1375
+('Lusoga', 'Serbian (Latin Script)')	1270
+('Lusoga', 'Gujarati')	1361
+('Lusoga', 'Surjapuri')	762
+('Lusoga', 'Marwari')	633
+('Lusoga', 'Filipino')	1080
+('Lusoga', 'Chinese (Simplified)')	1328
+('Lusoga', 'Esperanto')	778
+('Bahasa Indonesia', 'English-Korean')	549
+('Bahasa Indonesia', 'Marathi-Kolami')	1134
+('Bahasa Indonesia', 'Papiamento (Aruba)')	946
+('Bahasa Indonesia', 'English-Surjapuri')	1067
+('Bahasa Indonesia', 'English-French')	579
+('Bahasa Indonesia', 'Santali-Bengali (Bengali Script)')	601
+('Bahasa Indonesia', 'English-Hindi')	3559
+('Bahasa Indonesia', 'Haryanvi')	1048
+('Bahasa Indonesia', 'Triqui')	806
+('Bahasa Indonesia', 'Hebrew')	905
+('Bahasa Indonesia', "Tu'un savi")	584
+('Bahasa Indonesia', 'Surjapuri')	1565
+('Bahasa Indonesia', 'Esperanto')	1616
+('Malayalam', 'Marathi-Kolami')	747
+('Malayalam', 'Papiamento (Aruba)')	538
+('Malayalam', 'English-Surjapuri')	778
+('Malayalam', 'English-French')	502
+('Malayalam', 'English-Hindi')	2021
+('Malayalam', 'Haryanvi')	769
+('Malayalam', 'Triqui')	599
+('Malayalam', 'Hebrew')	571
+('Malayalam', 'Surjapuri')	1102
+('Malayalam', 'Esperanto')	863
+('French', 'English-Korean')	514
+('French', 'Marathi-Kolami')	1160
+('French', 'Papiamento (Aruba)')	861
+('French', 'English-Surjapuri')	1060
+('French', 'English-French')	564
+('French', 'Santali-Bengali (Bengali Script)')	542
+('French', 'English-Hindi')	3249
+('French', 'Haryanvi')	1011
+('French', 'Triqui')	768
+('French', 'Hebrew')	914
+('French', "Tu'un savi")	522
+('French', 'Surjapuri')	1507
+('French', 'Esperanto')	1529
+('English-Korean', 'Italian')	528
+('English-Korean', 'Telugu')	500
+('English-Korean', 'Japanese')	517
+('English-Korean', 'Arabic')	530
+('English-Korean', 'Marathi')	566
+('Malay', 'English-Surjapuri')	512
+('Malay', 'English-Hindi')	948
+('Malay', 'Surjapuri')	574
+('Marathi-Kolami', 'Portuguese')	830
+('Marathi-Kolami', 'Gondi')	594
+('Marathi-Kolami', 'Thai')	756
+('Marathi-Kolami', 'Italian')	955
+('Marathi-Kolami', 'Bengali')	857
+('Marathi-Kolami', 'Nepali')	745
+('Marathi-Kolami', 'English-Tamil')	812
+('Marathi-Kolami', 'Telugu')	1014
+('Marathi-Kolami', 'English-Hindi')	1121
+('Marathi-Kolami', 'Haryanvi')	504
+('Marathi-Kolami', 'Japanese')	905
+('Marathi-Kolami', 'Urdu')	784
+('Marathi-Kolami', 'English-Kannada')	898
+('Marathi-Kolami', 'Assamese')	670
+('Marathi-Kolami', 'Kannada')	1174
+('Marathi-Kolami', 'Arabic')	771
+('Marathi-Kolami', 'Chinese (Traditional)')	632
+('Marathi-Kolami', 'Khmer')	551
+('Marathi-Kolami', 'Marathi')	1289
+('Marathi-Kolami', 'Vietnamese')	611
+('Marathi-Kolami', 'Basa Jawa')	750
+('Marathi-Kolami', 'Serbian (Latin Script)')	663
+('Marathi-Kolami', 'Gujarati')	688
+('Marathi-Kolami', 'Surjapuri')	658
+('Marathi-Kolami', 'Filipino')	619
+('Marathi-Kolami', 'Chinese (Simplified)')	795
+('Kiswahili', 'English-Hindi')	1327
+('Kiswahili', 'Hebrew')	563
+('Kiswahili', 'Surjapuri')	659
+('Kiswahili', 'Esperanto')	675
+('Sinhala', 'English-Hindi')	742
+('Portuguese', 'Papiamento (Aruba)')	672
+('Portuguese', 'English-Surjapuri')	852
+('Portuguese', 'English-French')	548
+('Portuguese', 'English-Hindi')	2196
+('Portuguese', 'Haryanvi')	814
+('Portuguese', 'Triqui')	682
+('Portuguese', 'Hebrew')	698
+('Portuguese', 'Surjapuri')	1094
+('Portuguese', 'Esperanto')	1141
+('Gondi', 'English-Hindi')	1058
+('Gondi', 'Haryanvi')	621
+('Gondi', 'Surjapuri')	805
+('Thai', 'English-Surjapuri')	714
+('Thai', 'English-Hindi')	1596
+('Thai', 'Haryanvi')	722
+('Thai', 'Triqui')	547
+('Thai', 'Hebrew')	520
+('Thai', 'Surjapuri')	909
+('Thai', 'Esperanto')	844
+('Italian', 'Papiamento (Aruba)')	842
+('Italian', 'English-Surjapuri')	1012
+('Italian', 'English-French')	558
+('Italian', 'English-Hindi')	2877
+('Italian', 'Haryanvi')	935
+('Italian', 'Triqui')	796
+('Italian', 'Hebrew')	848
+('Italian', "Tu'un savi")	570
+('Italian', 'Surjapuri')	1389
+('Italian', 'Esperanto')	1480
+('Papiamento (Aruba)', 'Bengali')	575
+('Papiamento (Aruba)', 'Telugu')	743
+('Papiamento (Aruba)', 'Japanese')	656
+('Papiamento (Aruba)', 'Assamese')	516
+('Papiamento (Aruba)', 'Kannada')	880
+('Papiamento (Aruba)', 'Arabic')	701
+('Papiamento (Aruba)', 'Marathi')	946
+('Papiamento (Aruba)', 'Gujarati')	596
+('Papiamento (Aruba)', 'Chinese (Simplified)')	688
+('Bengali', 'English-Surjapuri')	870
+('Bengali', 'Santali-Bengali (Bengali Script)')	599
+('Bengali', 'English-Hindi')	2199
+('Bengali', 'Haryanvi')	906
+('Bengali', 'Triqui')	700
+('Bengali', 'Hebrew')	721
+('Bengali', 'Surjapuri')	1241
+('Bengali', 'Esperanto')	983
+('Nepali', 'English-Surjapuri')	719
+('Nepali', 'English-Hindi')	1684
+('Nepali', 'Haryanvi')	632
+('Nepali', 'Triqui')	552
+('Nepali', 'Surjapuri')	960
+('Nepali', 'Esperanto')	758
+('English-Surjapuri', 'English-Tamil')	535
+('English-Surjapuri', 'Telugu')	1050
+('English-Surjapuri', 'English-Hindi')	832
+('English-Surjapuri', 'Odia')	639
+('English-Surjapuri', 'Japanese')	1014
+('English-Surjapuri', 'Urdu')	867
+('English-Surjapuri', 'English-Kannada')	678
+('English-Surjapuri', 'Assamese')	624
+('English-Surjapuri', 'Kannada')	1098
+('English-Surjapuri', 'Arabic')	774
+('English-Surjapuri', 'Chinese (Traditional)')	669
+('English-Surjapuri', 'Marathi')	1107
+('English-Surjapuri', 'Vietnamese')	734
+('English-Surjapuri', 'Basa Jawa')	649
+('English-Surjapuri', 'Serbian (Latin Script)')	598
+('English-Surjapuri', 'Gujarati')	730
+('English-Surjapuri', 'Surjapuri')	939
+('English-Surjapuri', 'Filipino')	553
+('English-Surjapuri', 'Chinese (Simplified)')	857
+('English-Tamil', 'English-Hindi')	1480
+('English-Tamil', 'Haryanvi')	566
+('English-Tamil', 'Surjapuri')	829
+('English-Tamil', 'Esperanto')	539
+('Telugu', 'English-French')	535
+('Telugu', 'Santali-Bengali (Bengali Script)')	520
+('Telugu', 'English-Hindi')	2622
+('Telugu', 'Haryanvi')	1020
+('Telugu', 'Triqui')	701
+('Telugu', 'Hebrew')	696
+('Telugu', 'Surjapuri')	1433
+('Telugu', 'Lao')	518
+('Telugu', 'Esperanto')	1114
+('English-French', 'Japanese')	538
+('English-French', 'Kannada')	526
+('English-French', 'Marathi')	534
+('English-French', 'Chinese (Simplified)')	501
+('Santali-Bengali (Bengali Script)', 'Kannada')	523
+('Santali-Bengali (Bengali Script)', 'Marathi')	543
+('Santali (Bengali Script)', 'English-Hindi')	519
+('English-Hindi', 'Haryanvi')	810
+('English-Hindi', 'Odia')	1339
+('English-Hindi', 'Japanese')	2607
+('English-Hindi', 'Triqui')	527
+('English-Hindi', 'Urdu')	1928
+('English-Hindi', 'English-Kannada')	1550
+('English-Hindi', 'Assamese')	1473
+('English-Hindi', 'Kannada')	3035
+('English-Hindi', 'Arabic')	1947
+('English-Hindi', 'Chinese (Traditional)')	1072
+('English-Hindi', 'Khmer')	870
+('English-Hindi', 'Marathi')	3366
+('English-Hindi', 'Vietnamese')	1622
+('English-Hindi', 'Hebrew')	536
+('English-Hindi', 'Basa Jawa')	1661
+('English-Hindi', 'Serbian (Latin Script)')	1423
+('English-Hindi', 'Gujarati')	1970
+('English-Hindi', 'Surjapuri')	1061
+('English-Hindi', 'Marwari')	676
+('English-Hindi', 'Kora (Bengali Script)')	550
+('English-Hindi', 'English-Malay')	508
+('English-Hindi', 'Filipino')	1302
+('English-Hindi', 'Chinese (Simplified)')	1951
+('English-Hindi', 'Esperanto')	838
+('Haryanvi', 'Odia')	633
+('Haryanvi', 'Japanese')	913
+('Haryanvi', 'Urdu')	886
+('Haryanvi', 'English-Kannada')	608
+('Haryanvi', 'Assamese')	629
+('Haryanvi', 'Kannada')	1064
+('Haryanvi', 'Arabic')	738
+('Haryanvi', 'Chinese (Traditional)')	566
+('Haryanvi', 'Marathi')	1064
+('Haryanvi', 'Vietnamese')	620
+('Haryanvi', 'Basa Jawa')	658
+('Haryanvi', 'Serbian (Latin Script)')	653
+('Haryanvi', 'Gujarati')	845
+('Haryanvi', 'Surjapuri')	655
+('Haryanvi', 'Filipino')	651
+('Haryanvi', 'Chinese (Simplified)')	735
+('Odia', 'Hebrew')	527
+('Odia', 'Surjapuri')	955
+('Odia', 'Esperanto')	533
+('Japanese', 'Triqui')	740
+('Japanese', 'Hebrew')	712
+('Japanese', 'Surjapuri')	1357
+('Japanese', 'Esperanto')	1395
+('Triqui', 'Urdu')	652
+('Triqui', 'Assamese')	561
+('Triqui', 'Kannada')	742
+('Triqui', 'Arabic')	566
+('Triqui', 'Marathi')	768
+('Triqui', 'Basa Jawa')	525
+('Triqui', 'Serbian (Latin Script)')	610
+('Triqui', 'Gujarati')	590
+('Triqui', 'Chinese (Simplified)')	719
+('Urdu', 'Hebrew')	593
+('Urdu', 'Surjapuri')	1180
+('Urdu', 'Esperanto')	1076
+('English-Kannada', 'Surjapuri')	778
+('English-Kannada', 'Esperanto')	601
+('Assamese', 'Hebrew')	565
+('Assamese', 'Surjapuri')	777
+('Assamese', 'Esperanto')	645
+('Kannada', 'Hebrew')	819
+('Kannada', "Tu'un savi")	536
+('Kannada', 'Surjapuri')	1585
+('Kannada', 'Lao')	580
+('Kannada', 'Esperanto')	1315
+('Arabic', 'Hebrew')	702
+('Arabic', 'Surjapuri')	1072
+('Arabic', 'Esperanto')	899
+('Chinese (Traditional)', 'Surjapuri')	836
+('Chinese (Traditional)', 'Esperanto')	602
+('Khmer', 'Surjapuri')	536
+('Marathi', 'Hebrew')	791
+('Marathi', "Tu'un savi")	508
+('Marathi', 'Surjapuri')	1594
+('Marathi', 'Esperanto')	1540
+('Vietnamese', 'Hebrew')	541
+('Vietnamese', 'Surjapuri')	896
+('Vietnamese', 'Esperanto')	869
+('Hebrew', 'Basa Jawa')	577
+('Hebrew', 'Serbian (Latin Script)')	539
+('Hebrew', 'Gujarati')	696
+('Hebrew', 'Chinese (Simplified)')	586
+('Basa Jawa', 'Surjapuri')	955
+('Basa Jawa', 'Esperanto')	775
+('Serbian (Latin Script)', 'Surjapuri')	741
+('Serbian (Latin Script)', 'Esperanto')	1222
+('Gujarati', 'Surjapuri')	1137
+('Gujarati', 'Esperanto')	758
+("Tu'un savi", 'Chinese (Simplified)')	500
+('Surjapuri', 'Marwari')	526
+('Surjapuri', 'Filipino')	673
+('Surjapuri', 'Chinese (Simplified)')	1159
+('Filipino', 'Esperanto')	750
+('Chinese (Simplified)', 'Esperanto')	901
+('English', 'Afrikaans')	3147
+('English', 'Amharic')	2633
+('English', 'Anii')	1012
+('English', 'CiNyanja')	708
+('English', 'Fulfulde Mbororoore')	555
+('English', 'Ng’aturkana')	2190
+('English', 'Tiv')	746
+('Afrikaans', 'Amharic')	683
+('Afrikaans', 'Anii')	516
+('Afrikaans', 'CiNyanja')	540
+('Afrikaans', 'French')	2104
+('Afrikaans', 'isiXhosa')	1807
+('Afrikaans', 'Kiswahili')	2027
+('Afrikaans', 'Lusoga')	1886
+('Afrikaans', 'Ng’aturkana')	868
+('Afrikaans', 'Portuguese')	1460
+('Afrikaans', 'Spanish')	944
+('Amharic', 'French')	1670
+('Amharic', 'isiXhosa')	580
+('Amharic', 'Kiswahili')	1760
+('Amharic', 'Lusoga')	1808
+('Amharic', 'Ng’aturkana')	719
+('Amharic', 'Portuguese')	1246
+('Amharic', 'Spanish')	1178
+('Anii', 'French')	907
+('Anii', 'Kiswahili')	754
+('Anii', 'Lusoga')	877
+('Anii', 'Portuguese')	650
+('CiNyanja', 'French')	545
+('CiNyanja', 'isiXhosa')	541
+('CiNyanja', 'Kiswahili')	604
+('CiNyanja', 'Lusoga')	600
+('French', 'Ng’aturkana')	1266
+('isiXhosa', 'Ng’aturkana')	711
+('Kiswahili', 'Ng’aturkana')	1865
+('Kiswahili', 'Tiv')	501
+('Lusoga', 'Ng’aturkana')	1604
+('Lusoga', 'Tiv')	521
+('Ng’aturkana', 'Portuguese')	880
+('German', 'tarahumara')	537
+('German', 'Romanian')	933
+('Surjapuri', 'Halbi')	724
+('Surjapuri', 'Pashto')	594
+('Surjapuri', 'Farsi (Samim)')	754
+('Surjapuri', 'Romanian')	525
+('Kannada', 'tarahumara')	960
+('Kannada', 'Maithili')	1330
+('Kannada', 'Romanian')	1859
+('Kannada', 'Chatino')	711
+('Lusoga', 'tarahumara')	527
+('Lusoga', 'Halbi')	628
+('Lusoga', 'Pashto')	612
+('Lusoga', 'Farsi (Samim)')	882
+('Lusoga', 'English-Spanish')	569
+('Lusoga', 'Romanian')	752
+('Serbian (Latin Script)', 'tarahumara')	687
+('Serbian (Latin Script)', 'Romanian')	824
+('tarahumara', 'Japanese')	970
+('tarahumara', 'Malayalam')	778
+('tarahumara', 'Chhattisgarhi')	839
+('tarahumara', 'French')	1026
+('tarahumara', 'Nawatl')	747
+('tarahumara', 'Bahasa Indonesia')	1074
+('tarahumara', 'Nahuatl')	878
+('tarahumara', 'Chinese (Simplified)')	834
+('tarahumara', 'Bengali')	836
+('tarahumara', 'Farsi')	741
+('tarahumara', 'Italian')	1069
+('tarahumara', 'Filipino')	565
+('tarahumara', 'Gondi (South Bastar)')	515
+('tarahumara', 'Tamil')	1064
+('tarahumara', 'Tibetan')	551
+('tarahumara', 'Arabic')	801
+('tarahumara', 'Urdu')	686
+('tarahumara', 'Korean')	944
+('tarahumara', 'Spanish')	1093
+('tarahumara', 'English')	1101
+('tarahumara', 'Hindi')	1071
+('tarahumara', 'Telugu')	882
+('tarahumara', 'English-Hindi')	672
+('tarahumara', 'English-Spanish')	522
+('tarahumara', 'Marathi')	1021
+('tarahumara', 'Portuguese')	842
+('tarahumara', 'Punjabi')	580
+('tarahumara', 'Vietnamese')	627
+('tarahumara', 'Thai')	636
+('tarahumara', 'Basa Jawa')	571
+('tarahumara', 'Gujarati')	649
+('Japanese', 'Romanian')	1349
+('Japanese', 'Chatino')	685
+('Malayalam', 'Maithili')	751
+('Malayalam', 'Romanian')	1189
+('Malayalam', 'Chatino')	567
+('Chhattisgarhi', 'Romanian')	1160
+('Chhattisgarhi', 'Chatino')	591
+('French', 'Maithili')	1322
+('French', 'Romanian')	1925
+('French', 'Chatino')	760
+('Nawatl', 'Romanian')	616
+('Nawatl', 'Chatino')	575
+('Bahasa Indonesia', 'Maithili')	1330
+('Bahasa Indonesia', 'Romanian')	1950
+('Bahasa Indonesia', 'Chatino')	760
+('Nahuatl', 'Halbi')	534
+('Nahuatl', 'Farsi (Samim)')	675
+('Nahuatl', 'Chatino')	567
+('Chinese (Simplified)', 'Maithili')	519
+('Chinese (Simplified)', 'Romanian')	1130
+('Chinese (Simplified)', 'Chatino')	598
+('Bengali', 'Maithili')	538
+('Bengali', 'Romanian')	1207
+('Bengali', 'Chatino')	581
+('Farsi', 'Romanian')	1016
+('Italian', 'Maithili')	1211
+('Italian', 'Romanian')	1951
+('Italian', 'Chatino')	734
+('Filipino', 'Romanian')	735
+('Halbi', 'English-Hindi')	1110
+('Gondi (South Bastar)', 'Romanian')	577
+('Tamil', 'Maithili')	1330
+('Tamil', 'Romanian')	1810
+('Tamil', 'Chatino')	744
+('Tibetan', 'Romanian')	882
+('Arabic', 'Maithili')	1194
+('Arabic', 'Romanian')	1478
+('Arabic', 'Chatino')	547
+('Urdu', 'Maithili')	888
+('Urdu', 'Romanian')	1345
+('Urdu', 'Chatino')	534
+('Korean', 'Maithili')	630
+('Korean', 'Romanian')	1406
+('Korean', 'Chatino')	700
+('Spanish', 'Maithili')	900
+('Spanish', 'Romanian')	1699
+('Spanish', 'Chatino')	728
+('English', 'Maithili')	1345
+('English', 'Romanian')	2068
+('English', 'Chatino')	760
+('Hindi', 'Maithili')	1330
+('Hindi', 'Romanian')	2052
+('Hindi', 'Chatino')	755
+('Telugu', 'Maithili')	1057
+('Telugu', 'Romanian')	1546
+('Telugu', 'Chatino')	627
+('Kora (Bengali Script)', 'Romanian')	576
+('Pashto', 'English-Hindi')	910
+('Pashto', 'Romanian')	549
+('Farsi (Samim)', 'Maithili')	1275
+('Farsi (Samim)', 'English-Hindi')	1248
+('Farsi (Samim)', 'Dutch')	877
+('Farsi (Samim)', 'Romanian')	845
+('Maithili', 'Marathi')	1330
+('Maithili', 'Portuguese')	808
+('Maithili', 'Punjabi')	597
+('Maithili', 'Gujarati')	593
+('English-Hindi', 'English-Spanish')	878
+('English-Hindi', 'Romanian')	917
+('English-Spanish', 'Dutch')	516
+('English-Spanish', 'Romanian')	585
+('Marathi', 'Romanian')	1971
+('Marathi', 'Chatino')	730
+('Portuguese', 'Romanian')	1326
+('Portuguese', 'Chatino')	584
+('Punjabi', 'Romanian')	891
+('Punjabi', 'Chatino')	531
+('Vietnamese', 'Romanian')	884
+('Dutch', 'Romanian')	639
+('Thai', 'Romanian')	874
+('Basa Jawa', 'Romanian')	952
+('Romanian', 'Gujarati')	1133
+('Gujarati', 'Chatino')	547
+('Mixteco', 'Kannada')	1091
+('Mixteco', 'English-Tamil')	510
+('Mixteco', 'French')	1204
+('Mixteco', 'Spanish')	1241
+('Mixteco', 'Italian')	1140
+('Mixteco', 'English')	1297
+('Mixteco', 'Bahasa Indonesia')	1236
+('Mixteco', 'Arabic')	794
+('Mixteco', 'Marathi')	1134
+('Mixteco', 'Nahuatl')	956
+('Mixteco', 'Jinghpaw')	768
+('Mixteco', 'Hindi')	1261
+('Mixteco', 'Tamil')	1183
+('Mixteco', 'tarahumara')	723
+('Mixteco', 'Nawatl')	741
+('Mixteco', 'Mixe')	623
+('Mixteco', 'Zapoteco')	500
+('Mixteco', 'Chhattisgarhi')	940
+('Mixteco', 'English-Hindi')	615
+('Gondi (South Bastar)', 'Odia-Kui')	895
+('English-Kannada', 'English-Odia')	730
+('English-Kannada', 'tarahumara')	558
+('English-Kannada', 'Odia-Kui')	957
+('Kannada', 'English-Odia')	765
+('Kannada', 'Odia-Kui')	1362
+('English-Odia', 'English-Tamil')	564
+('English-Odia', 'French')	765
+('English-Odia', 'Spanish')	636
+('English-Odia', 'Italian')	586
+('English-Odia', 'English')	765
+('English-Odia', 'Bahasa Indonesia')	765
+('English-Odia', 'English-Marathi')	502
+('English-Odia', 'Marathi')	755
+('English-Odia', 'Hindi')	765
+('English-Odia', 'Tamil')	765
+('English-Odia', 'Odia-Kui')	712
+('English-Odia', 'Chhattisgarhi')	640
+('English-Odia', 'English-Hindi')	752
+('Malay', 'tarahumara')	567
+('English-Tamil', 'Odia-Kui')	781
+('French', 'Odia-Kui')	1320
+('Marathi-Kolami', 'English-Marathi')	766
+('Marathi-Kolami', 'Halbi')	522
+('Marathi-Kolami', 'Odia-Kui')	562
+('Spanish', 'Odia-Kui')	1130
+('Italian', 'Odia-Kui')	1109
+('English', 'Odia-Kui')	1362
+('Bahasa Indonesia', 'Odia-Kui')	1354
+('Arabic', 'Odia-Kui')	799
+('English-Marathi', 'Odia-Kui')	627
+('English-Marathi', 'English-Hindi')	1050
+('Marathi', 'Odia-Kui')	1352
+('Nahuatl', 'Jinghpaw')	898
+('Nahuatl', 'Mixe')	752
+('Nahuatl', 'Zapoteco')	596
+('Jinghpaw', 'tarahumara')	588
+('Jinghpaw', 'Odia-Kui')	556
+('Jinghpaw', 'English-Hindi')	1495
+('Hindi', 'Odia-Kui')	1362
+('Tamil', 'Odia-Kui')	1331
+('tarahumara', 'Mixe')	630
+('tarahumara', 'Zapoteco')	518
+('Mixe', 'English-Hindi')	754
+('Halbi', 'Odia-Kui')	678
+('Odia-Kui', 'Chhattisgarhi')	1149
+('Odia-Kui', 'English-Hindi')	1073
+('Bahasa Indonesia', 'Garo')	566
+('Bahasa Indonesia', 'Santali (Ol Chiki)')	1197
+('Bahasa Indonesia', 'Amharic')	1154
+('Bahasa Indonesia', 'Sahariya')	1055
+('Bahasa Indonesia', 'Cebuano-Cebu')	552
+('Bahasa Indonesia', 'Yoruba')	1019
+('Bahasa Indonesia', 'Luganda')	1187
+('Bahasa Indonesia', 'Macedonian')	1216
+('Bahasa Indonesia', 'Basa Sunda')	506
+('Bahasa Indonesia', 'Tagalog')	1210
+('Bahasa Indonesia', 'Kinyarwanda')	564
+('Garo', 'Chhattisgarhi')	520
+('Garo', 'Korean')	561
+('Garo', 'French')	570
+('Garo', 'Portuguese')	521
+('Garo', 'Telugu')	522
+('Garo', 'Hindi')	566
+('Garo', 'Kannada')	531
+('Garo', 'Japanese')	510
+('Garo', 'English-Hindi')	526
+('Garo', 'Spanish')	539
+('Garo', 'Tamil')	542
+('Garo', 'English')	598
+('Garo', 'Marathi')	547
+('Kabyle (Taqbaylit)', 'Romanian')	592
+('Kabyle (Taqbaylit)', 'English-Hindi')	788
+('Kabyle (Taqbaylit)', 'Lusoga')	612
+('Kabyle (Taqbaylit)', 'English-Telugu')	524
+('Farsi', 'Santali (Ol Chiki)')	610
+('Farsi', 'Odia-Kui')	573
+('Farsi', 'Amharic')	541
+('Farsi', 'Luganda')	511
+('Farsi', 'Macedonian')	778
+('Farsi', 'Tagalog')	605
+('Filipino', 'Santali (Ol Chiki)')	532
+('Filipino', 'Odia-Kui')	600
+('Filipino', 'Amharic')	528
+('Chhattisgarhi', 'Santali (Ol Chiki)')	989
+('Chhattisgarhi', 'Amharic')	700
+('Chhattisgarhi', 'Sahariya')	617
+('Chhattisgarhi', 'Yoruba')	642
+('Chhattisgarhi', 'Luganda')	763
+('Chhattisgarhi', 'Macedonian')	767
+('Chhattisgarhi', 'Tagalog')	628
+('ChiShona', 'Lusoga')	502
+('ChiShona', 'English')	674
+('English-Odia', 'Korean')	608
+('English-Odia', 'Telugu')	590
+('English-Odia', 'Chinese (Simplified)')	522
+('English-Odia', 'Japanese')	633
+('English-Odia', 'Bengali')	540
+('English-Odia', 'Konkani')	545
+('English-Odia', 'Punjabi')	566
+('English-Marathi', 'Lusoga')	552
+('English-Marathi', 'English-Telugu')	502
+('Assamese', 'Santali (Ol Chiki)')	726
+('Assamese', 'Odia-Kui')	634
+('Assamese', 'Amharic')	567
+('Assamese', 'Romanian')	1209
+('Assamese', 'Sahariya')	722
+('Assamese', 'Yoruba')	589
+('Assamese', 'Luganda')	560
+('Assamese', 'Macedonian')	850
+('Assamese', 'Tagalog')	732
+('Halbi', 'Santali (Ol Chiki)')	534
+('Halbi', 'Haryanvi')	544
+('Halbi', 'Kurukh')	556
+('Halbi', 'English-Surjapuri')	515
+('Sanskrit', 'Santali (Ol Chiki)')	674
+('Sanskrit', 'Odia-Kui')	690
+('Sanskrit', 'Amharic')	594
+('Sanskrit', 'Romanian')	879
+('Sanskrit', 'Yoruba')	509
+('Sanskrit', 'Luganda')	607
+('Sanskrit', 'Macedonian')	630
+('Santali (Ol Chiki)', 'Korean')	1093
+('Santali (Ol Chiki)', 'French')	1077
+('Santali (Ol Chiki)', 'Nepali')	650
+('Santali (Ol Chiki)', 'Portuguese')	706
+('Santali (Ol Chiki)', 'Telugu')	996
+('Santali (Ol Chiki)', 'Thai')	585
+('Santali (Ol Chiki)', 'Basa Jawa')	687
+('Santali (Ol Chiki)', 'Gondi')	529
+('Santali (Ol Chiki)', 'Italian')	1039
+('Santali (Ol Chiki)', 'Urdu')	984
+('Santali (Ol Chiki)', 'Hindi')	1260
+('Santali (Ol Chiki)', 'Arabic')	735
+('Santali (Ol Chiki)', 'Vietnamese')	526
+('Santali (Ol Chiki)', 'Chinese (Simplified)')	672
+('Santali (Ol Chiki)', 'Malayalam')	744
+('Santali (Ol Chiki)', 'Odia')	851
+('Santali (Ol Chiki)', 'Tibetan')	687
+('Santali (Ol Chiki)', 'Kannada')	1061
+('Santali (Ol Chiki)', 'English-Tamil')	504
+('Santali (Ol Chiki)', 'Serbian (Latin Script)')	573
+('Santali (Ol Chiki)', 'Japanese')	1070
+('Santali (Ol Chiki)', 'Bengali')	1125
+('Santali (Ol Chiki)', 'Jinghpaw')	594
+('Santali (Ol Chiki)', 'English-Hindi')	757
+('Santali (Ol Chiki)', 'Lusoga')	514
+('Santali (Ol Chiki)', 'Konkani')	589
+('Santali (Ol Chiki)', 'Spanish')	1003
+('Santali (Ol Chiki)', 'Tamil')	1234
+('Santali (Ol Chiki)', 'English')	1255
+('Santali (Ol Chiki)', 'Gondi (South Bastar)')	663
+('Santali (Ol Chiki)', 'English-Kannada')	552
+('Santali (Ol Chiki)', 'Gujarati')	1009
+('Santali (Ol Chiki)', 'Marathi')	1213
+('Santali (Ol Chiki)', 'Punjabi')	886
+('Korean', 'Odia-Kui')	1099
+('Korean', 'Amharic')	914
+('Korean', 'Sahariya')	748
+('Korean', 'Cebuano-Cebu')	519
+('Korean', 'Yoruba')	808
+('Korean', 'Luganda')	954
+('Korean', 'Macedonian')	1071
+('Korean', 'Tagalog')	823
+('Haryanvi', 'Odia-Kui')	561
+('Farsi (Samim)', 'Odia-Kui')	597
+('Farsi (Samim)', 'Sahariya')	970
+('Farsi (Samim)', 'Yoruba')	519
+('Farsi (Samim)', 'Luganda')	522
+('Farsi (Samim)', 'Macedonian')	559
+('Farsi (Samim)', 'English-Telugu')	718
+('Farsi (Samim)', 'Tagalog')	699
+('French', 'Sahariya')	1055
+('French', 'Cebuano-Cebu')	515
+('French', 'Yoruba')	1227
+('French', 'Luganda')	1921
+('French', 'Macedonian')	1216
+('French', 'Tagalog')	1059
+('French', 'Kinyarwanda')	1410
+('Nepali', 'Odia-Kui')	705
+('Nepali', 'Amharic')	562
+('Nepali', 'Romanian')	940
+('Nepali', 'Yoruba')	502
+('Nepali', 'Luganda')	612
+('Nepali', 'Macedonian')	676
+('Nepali', 'Tagalog')	570
+('Odia-Kui', 'Portuguese')	855
+('Odia-Kui', 'Telugu')	1200
+('Odia-Kui', 'Thai')	670
+('Odia-Kui', 'Basa Jawa')	708
+('Odia-Kui', 'Gondi')	744
+('Odia-Kui', 'Urdu')	994
+('Odia-Kui', 'Vietnamese')	603
+('Odia-Kui', 'Chinese (Simplified)')	850
+('Odia-Kui', 'Malayalam')	812
+('Odia-Kui', 'Odia')	821
+('Odia-Kui', 'Tibetan')	808
+('Odia-Kui', 'Serbian (Latin Script)')	553
+('Odia-Kui', 'Japanese')	1085
+('Odia-Kui', 'Bengali')	1044
+('Odia-Kui', 'German')	653
+('Odia-Kui', 'Lusoga')	625
+('Odia-Kui', 'Kiswahili')	559
+('Odia-Kui', 'Konkani')	814
+('Odia-Kui', 'Surjapuri')	619
+('Odia-Kui', 'Gujarati')	995
+('Odia-Kui', 'Punjabi')	1086
+('Portuguese', 'Sahariya')	609
+('Portuguese', 'Cebuano-Cebu')	504
+('Portuguese', 'Yoruba')	877
+('Portuguese', 'Luganda')	1342
+('Portuguese', 'Macedonian')	1024
+('Portuguese', 'Tagalog')	662
+('Portuguese', 'Kinyarwanda')	874
+('Telugu', 'Amharic')	770
+('Telugu', 'Sahariya')	885
+('Telugu', 'Cebuano-Cebu')	510
+('Telugu', 'Yoruba')	770
+('Telugu', 'Luganda')	844
+('Telugu', 'Macedonian')	1064
+('Telugu', 'Tagalog')	896
+('Thai', 'Amharic')	672
+('Thai', 'Yoruba')	538
+('Thai', 'Luganda')	631
+('Thai', 'Macedonian')	659
+('Thai', 'Tagalog')	520
+('Basa Jawa', 'Amharic')	697
+('Basa Jawa', 'Yoruba')	566
+('Basa Jawa', 'Luganda')	550
+('Basa Jawa', 'Macedonian')	777
+('Gondi', 'Romanian')	503
+('Gondi', 'Macedonian')	533
+('Bangla (Bangladesh)', 'Romanian')	635
+('Italian', 'Amharic')	920
+('Italian', 'Sahariya')	899
+('Italian', 'Cebuano-Cebu')	516
+('Italian', 'Yoruba')	941
+('Italian', 'Luganda')	1033
+('Italian', 'Macedonian')	1175
+('Italian', 'Tagalog')	1065
+('Urdu', 'Amharic')	721
+('Urdu', 'Sahariya')	683
+('Urdu', 'Yoruba')	823
+('Urdu', 'Luganda')	680
+('Urdu', 'Macedonian')	792
+('Urdu', 'Tagalog')	690
+('Hindi', 'Amharic')	1243
+('Hindi', 'Sahariya')	1055
+('Hindi', 'Cebuano-Cebu')	545
+('Hindi', 'Yoruba')	1050
+('Hindi', 'Luganda')	1225
+('Hindi', 'Macedonian')	1216
+('Hindi', 'Basa Sunda')	506
+('Hindi', 'Tagalog')	1218
+('Hindi', 'Kinyarwanda')	606
+('Amharic', 'Arabic')	872
+('Amharic', 'Vietnamese')	569
+('Amharic', 'Chinese (Simplified)')	720
+('Amharic', 'Malayalam')	606
+('Amharic', 'Tibetan')	562
+('Amharic', 'Kannada')	907
+('Amharic', 'Serbian (Latin Script)')	733
+('Amharic', 'Japanese')	799
+('Amharic', 'Bengali')	770
+('Amharic', 'Jinghpaw')	533
+('Amharic', 'Luganda')	723
+('Amharic', 'English-Hindi')	767
+('Amharic', 'Konkani')	566
+('Amharic', 'Tamil')	1008
+('Amharic', 'Gondi (South Bastar)')	515
+('Amharic', 'Kinyarwanda')	731
+('Amharic', 'Gujarati')	628
+('Amharic', 'Marathi')	986
+('Amharic', 'Punjabi')	508
+('Arabic', 'Sahariya')	1019
+('Arabic', 'Yoruba')	899
+('Arabic', 'Luganda')	996
+('Arabic', 'Macedonian')	989
+('Arabic', 'Tagalog')	865
+('Arabic', 'Kinyarwanda')	513
+('Romanian', 'Esperanto')	555
+('Romanian', 'Odia')	979
+('Romanian', 'Malay')	590
+('Romanian', 'English-Tamil')	721
+('Romanian', 'Jinghpaw')	871
+('Romanian', 'Khmer')	618
+('Romanian', 'Chinese (Traditional)')	744
+('Romanian', 'Kiswahili')	698
+('Romanian', 'Konkani')	1018
+('Romanian', 'English-Telugu')	603
+('Romanian', 'Sinhala')	537
+('Romanian', 'Igbo')	555
+('Romanian', 'English-Kannada')	589
+('Vietnamese', 'Yoruba')	608
+('Vietnamese', 'Luganda')	641
+('Vietnamese', 'Macedonian')	788
+('Vietnamese', 'Tagalog')	623
+('Esperanto', 'Jinghpaw')	659
+('Sahariya', 'Chinese (Simplified)')	643
+('Sahariya', 'Malayalam')	708
+('Sahariya', 'Kannada')	1055
+('Sahariya', 'Japanese')	609
+('Sahariya', 'Bengali')	532
+('Sahariya', 'English-Hindi')	527
+('Sahariya', 'Konkani')	801
+('Sahariya', 'Spanish')	867
+('Sahariya', 'Tamil')	1055
+('Sahariya', 'English')	1039
+('Sahariya', 'Gujarati')	569
+('Sahariya', 'Marathi')	1055
+('Sahariya', 'Punjabi')	685
+('Chinese (Simplified)', 'Yoruba')	659
+('Chinese (Simplified)', 'Luganda')	731
+('Chinese (Simplified)', 'Macedonian')	972
+('Chinese (Simplified)', 'Tagalog')	1032
+('Ewe', 'English')	532
+('Malayalam', 'Yoruba')	581
+('Malayalam', 'Luganda')	732
+('Malayalam', 'Macedonian')	970
+('Malayalam', 'Tagalog')	717
+('Odia', 'Yoruba')	526
+('Odia', 'Luganda')	530
+('Odia', 'Macedonian')	718
+('Odia', 'Tagalog')	630
+('Tibetan', 'Yoruba')	515
+('Tibetan', 'Luganda')	601
+('Tibetan', 'Macedonian')	666
+('isiXhosa', 'Luganda')	889
+('isiXhosa', 'Kinyarwanda')	895
+('Cebuano-Cebu', 'Kannada')	526
+('Cebuano-Cebu', 'Japanese')	504
+('Cebuano-Cebu', 'Spanish')	526
+('Cebuano-Cebu', 'Tamil')	531
+('Cebuano-Cebu', 'English')	574
+('Cebuano-Cebu', 'Marathi')	515
+('Dutch', 'Jinghpaw')	826
+('Dutch', 'Macedonian')	514
+('Kannada', 'Yoruba')	988
+('Kannada', 'Luganda')	1061
+('Kannada', 'Macedonian')	1160
+('Kannada', 'Tagalog')	1151
+('Malay', 'Macedonian')	535
+('Malay', 'Tagalog')	1070
+('English-Tamil', 'Tagalog')	506
+('Yoruba', 'Japanese')	744
+('Yoruba', 'Bengali')	726
+('Yoruba', 'German')	524
+('Yoruba', 'Luganda')	627
+('Yoruba', 'English-Hindi')	507
+('Yoruba', 'Lusoga')	727
+('Yoruba', 'Kiswahili')	873
+('Yoruba', 'Konkani')	567
+('Yoruba', 'Spanish')	947
+('Yoruba', 'Igbo')	669
+('Yoruba', 'Tamil')	992
+('Yoruba', 'English')	1430
+('Yoruba', 'Gujarati')	818
+('Yoruba', 'Marathi')	957
+('Yoruba', 'Punjabi')	586
+('Serbian (Latin Script)', 'Luganda')	642
+('Serbian (Latin Script)', 'Macedonian')	666
+('Japanese', 'Luganda')	871
+('Japanese', 'Macedonian')	1089
+('Japanese', 'Tagalog')	576
+('Bengali', 'Luganda')	801
+('Bengali', 'Macedonian')	959
+('Bengali', 'Tagalog')	665
+('Marathi-Kolami', 'Pashto')	548
+('Jinghpaw', 'Luganda')	553
+('Jinghpaw', 'Lusoga')	1020
+('Jinghpaw', 'Macedonian')	626
+('Jinghpaw', 'English-Telugu')	809
+('Jinghpaw', 'Surjapuri')	534
+('Jinghpaw', 'Tagalog')	581
+('German', 'Luganda')	558
+('German', 'Macedonian')	640
+('Luganda', 'English-Hindi')	668
+('Luganda', 'Lusoga')	2021
+('Luganda', 'Kiswahili')	1658
+('Luganda', 'Konkani')	572
+('Luganda', 'Spanish')	1174
+('Luganda', 'Igbo')	696
+('Luganda', 'Tamil')	1104
+('Luganda', 'English')	2845
+('Luganda', 'Kinyarwanda')	868
+('Luganda', 'English-Kannada')	522
+('Luganda', 'Gujarati')	679
+('Luganda', 'Marathi')	988
+('Luganda', 'Punjabi')	619
+('English-Hindi', 'Macedonian')	650
+('English-Hindi', 'Igbo')	695
+('Lusoga', 'Macedonian')	604
+('Lusoga', 'Igbo')	707
+('Lusoga', 'Kinyarwanda')	1700
+('Pashto', 'English-Telugu')	510
+('Macedonian', 'Chinese (Traditional)')	577
+('Macedonian', 'Kiswahili')	642
+('Macedonian', 'Konkani')	779
+('Macedonian', 'Spanish')	1111
+('Macedonian', 'Tamil')	1216
+('Macedonian', 'English')	1216
+('Macedonian', 'Gondi (South Bastar)')	507
+('Macedonian', 'Gujarati')	874
+('Macedonian', 'Marathi')	1207
+('Macedonian', 'Punjabi')	705
+('Kiswahili', 'Kinyarwanda')	1775
+('Konkani', 'Tagalog')	550
+('English-Telugu', 'English-Spanish')	597
+('Spanish', 'Tagalog')	804
+('Spanish', 'Kinyarwanda')	546
+('Basa Sunda', 'Tamil')	506
+('Basa Sunda', 'English')	506
+('Basa Sunda', 'Marathi')	506
+('Tagalog', 'Tamil')	1142
+('Tagalog', 'English')	1202
+('Tagalog', 'Gujarati')	692
+('Tagalog', 'Marathi')	1168
+('English', 'Ateso')	726
+('English', 'Kinyarwanda')	2328
+('English', 'Acholi')	590
+('Kannada', 'English-Urdu')	773
+('French', 'English-Urdu')	836
+('Bahasa Indonesia', 'English-Urdu')	931
+('English-Urdu', 'Italian')	688
+('English-Urdu', 'Tamil')	897
+('English-Urdu', 'Spanish')	653
+('English-Urdu', 'English')	1041
+('English-Urdu', 'Hindi')	1045
+('English-Urdu', 'Korean')	537
+('English-Urdu', 'Telugu')	695
+('English-Urdu', 'Marathi')	859
+('French', 'Xitsonga')	1117
+('French', 'Setswana')	1341
+('French', 'Tshivenḓa')	1055
+('French', 'Sepedi')	1248
+('French', 'isiZulu')	1636
+('French', 'Chinyanja')	1033
+('French', 'Siswati')	1281
+('French', 'IciBemba')	696
+('French', 'isiNdebele')	1152
+('French', 'SiLozi')	542
+('Xitsonga', 'Portuguese')	689
+('Xitsonga', 'Sepedi')	1367
+('Xitsonga', 'Afrikaans')	1252
+('Xitsonga', 'isiZulu')	1476
+('Xitsonga', 'Siswati')	1599
+('Xitsonga', 'IciBemba')	712
+('Xitsonga', 'isiXhosa')	1359
+('Xitsonga', 'Kiswahili')	1254
+('Xitsonga', 'isiNdebele')	1356
+('Xitsonga', 'SiLozi')	591
+('Xitsonga', 'Sesotho')	647
+('Xitsonga', 'Ng’aturkana')	558
+('Setswana', 'Portuguese')	1031
+('Setswana', 'Sepedi')	1369
+('Setswana', 'Afrikaans')	1298
+('Setswana', 'Tamil')	516
+('Setswana', 'isiZulu')	1595
+('Setswana', 'Siswati')	1227
+('Setswana', 'IciBemba')	720
+('Setswana', 'isiXhosa')	1408
+('Setswana', 'Bahasa Indonesia')	701
+('Setswana', 'Kiswahili')	1491
+('Setswana', 'isiNdebele')	1207
+('Setswana', 'SiLozi')	575
+('Setswana', 'Hindi')	718
+('Setswana', 'Sesotho')	631
+('Setswana', 'Ng’aturkana')	884
+('Portuguese', 'Tshivenḓa')	664
+('Portuguese', 'Sepedi')	767
+('Portuguese', 'isiZulu')	1040
+('Portuguese', 'Chinyanja')	667
+('Portuguese', 'Siswati')	694
+('Portuguese', 'isiNdebele')	765
+('English', 'Sepedi')	2316
+('English', 'isiZulu')	3139
+('English', 'Chinyanja')	1119
+('English', 'Siswati')	2112
+('English', 'IciBemba')	951
+('English', 'Asante Twi')	560
+('English', 'isiNdebele')	1943
+('English', 'SiLozi')	628
+('English', 'Sesotho')	1056
+('Tshivenḓa', 'Sepedi')	1244
+('Tshivenḓa', 'Afrikaans')	1249
+('Tshivenḓa', 'isiZulu')	1288
+('Tshivenḓa', 'Siswati')	1375
+('Tshivenḓa', 'IciBemba')	737
+('Tshivenḓa', 'isiXhosa')	1123
+('Tshivenḓa', 'Kiswahili')	1231
+('Tshivenḓa', 'isiNdebele')	1121
+('Tshivenḓa', 'SiLozi')	583
+('Tshivenḓa', 'Ng’aturkana')	570
+('Sepedi', 'Afrikaans')	1424
+('Sepedi', 'isiZulu')	1760
+('Sepedi', 'Siswati')	1382
+('Sepedi', 'IciBemba')	733
+('Sepedi', 'isiXhosa')	1610
+('Sepedi', 'Bahasa Indonesia')	714
+('Sepedi', 'Kiswahili')	1345
+('Sepedi', 'isiNdebele')	1213
+('Sepedi', 'SiLozi')	567
+('Sepedi', 'Hindi')	800
+('Sepedi', 'Sesotho')	836
+('Sepedi', 'Ng’aturkana')	676
+('Afrikaans', 'Marathi')	763
+('Afrikaans', 'Tamil')	751
+('Afrikaans', 'isiZulu')	1685
+('Afrikaans', 'Siswati')	1333
+('Afrikaans', 'IciBemba')	684
+('Afrikaans', 'Bahasa Indonesia')	1055
+('Afrikaans', 'isiNdebele')	1235
+('Afrikaans', 'SiLozi')	559
+('Afrikaans', 'Hindi')	1151
+('Afrikaans', 'Kannada')	719
+('Afrikaans', 'Sesotho')	632
+('Marathi', 'Chinyanja')	830
+('Tamil', 'Chinyanja')	1050
+('isiZulu', 'Siswati')	1546
+('isiZulu', 'IciBemba')	783
+('isiZulu', 'isiXhosa')	1820
+('isiZulu', 'Bahasa Indonesia')	728
+('isiZulu', 'Kiswahili')	1992
+('isiZulu', 'isiNdebele')	1418
+('isiZulu', 'SiLozi')	546
+('isiZulu', 'Hindi')	824
+('isiZulu', 'Sesotho')	888
+('isiZulu', 'Ng’aturkana')	1007
+('Chinyanja', 'Bahasa Indonesia')	1065
+('Chinyanja', 'Kiswahili')	579
+('Chinyanja', 'Hindi')	1135
+('Chinyanja', 'Kannada')	952
+('Siswati', 'IciBemba')	668
+('Siswati', 'isiXhosa')	1280
+('Siswati', 'Bahasa Indonesia')	578
+('Siswati', 'Kiswahili')	1363
+('Siswati', 'isiNdebele')	1546
+('Siswati', 'SiLozi')	565
+('Siswati', 'Hindi')	582
+('Siswati', 'Sesotho')	667
+('Siswati', 'Ng’aturkana')	634
+('IciBemba', 'isiXhosa')	678
+('IciBemba', 'Kiswahili')	843
+('IciBemba', 'isiNdebele')	624
+('IciBemba', 'SiLozi')	565
+('isiXhosa', 'isiNdebele')	1193
+('isiXhosa', 'SiLozi')	555
+('isiXhosa', 'Sesotho')	828
+('Bahasa Indonesia', 'isiNdebele')	506
+('Bahasa Indonesia', 'Sesotho')	668
+('Bahasa Indonesia', 'Ng’aturkana')	500
+('Kiswahili', 'isiNdebele')	1361
+('Kiswahili', 'SiLozi')	547
+('isiNdebele', 'SiLozi')	549
+('isiNdebele', 'Sesotho')	653
+('isiNdebele', 'Ng’aturkana')	638
+('Hindi', 'Sesotho')	745
+('Hindi', 'Ng’aturkana')	573
+('Spanish', 'Vagadi')	735
+('Gujarati', 'Vagadi')	564
+('Farsi (Samim)', 'Vagadi')	901
+('Bahasa Indonesia', 'Vagadi')	923
+('Kannada', 'Vagadi')	923
+('Telugu', 'Vagadi')	753
+('Italian', 'Vagadi')	778
+('Sahariya', 'Vagadi')	840
+('Marathi', 'Vagadi')	923
+('Hindi', 'Vagadi')	923
+('Tamil', 'Vagadi')	923
+('Portuguese', 'Vagadi')	545
+('Arabic', 'Vagadi')	906
+('Vagadi', 'Urdu')	555
+('Vagadi', 'French')	923
+('Vagadi', 'English')	907
+('Vagadi', 'Korean')	720
+('Vagadi', 'Assamese')	598
+('Vagadi', 'Chinese (Simplified)')	561
+('Vagadi', 'Konkani')	688
+('Vagadi', 'Malayalam')	580
+('Vagadi', 'Japanese')	530
+('Tamil', 'Kochila Tharu')	702
+('Ng’aturkana', 'Luganda')	820
+('Ng’aturkana', 'Lunyole')	745
+('Lámnsoʼ', 'English')	919
+('Lámnsoʼ', 'Kiswahili')	832
+('Siswati', 'Luganda')	562
+('Siswati', 'Lunyole')	504
+('English', 'Afaan Oromo')	962
+('English', 'Lunyole')	1290
+('English', 'Kochila Tharu')	780
+('English', 'Dhopadhola')	937
+('Afaan Oromo', 'Kiswahili')	765
+('Bahasa Indonesia', 'Kochila Tharu')	754
+('Luganda', 'Lunyole')	684
+('Luganda', 'Sepedi')	591
+('Luganda', 'Xitsonga')	525
+('Lunyole', 'Sepedi')	547
+('Lunyole', 'Portuguese')	551
+('Lunyole', 'Kiswahili')	940
+('Kannada', 'Kochila Tharu')	656
+('Chinyanja', 'Korean')	764
+('Portuguese', 'Kochila Tharu')	502
+('Portuguese', 'Dhopadhola')	505
+('Kochila Tharu', 'Hindi')	754
+('Dhopadhola', 'Kiswahili')	746
+('English-Bengali', 'English')	593
+('English-Bengali', 'Marathi')	612
+('English-Bengali', 'Hindi')	631
+('English-Bengali', 'English-Hindi')	528
+('Halbi', 'Korku')	586
+('Greek', 'English-Hindi')	524
+('Spanish', 'Kochila Tharu')	605
+('Kochila Tharu', 'Marathi')	620
+('Kochila Tharu', 'Italian')	617
+('Kochila Tharu', 'French')	619
+('Bengali', 'Odia-Ho')	603
+('Bengali', 'Mixteco')	934
+('Tamil', 'Odia-Ho')	678
+('Japanese', 'Odia-Ho')	551
+('Japanese', 'Mixteco')	1056
+('Gondi (South Bastar)', 'Odia-Ho')	501
+('Nepali', 'Mixteco')	728
+('French', 'Odia-Ho')	667
+('English', 'Odia-Ho')	709
+('Hindi', 'Odia-Ho')	709
+('Korku', 'Odia-Kui')	531
+('Gujarati', 'Odia-Ho')	591
+('Gujarati', 'Mixteco')	646
+('Marathi', 'Odia-Ho')	709
+('Malayalam', 'Mixteco')	749
+('Odia-Ho', 'Chhattisgarhi')	608
+('Odia-Ho', 'Punjabi')	619
+('Odia-Ho', 'Kannada')	709
+('Odia-Ho', 'Odia-Kui')	709
+('Odia-Ho', 'Telugu')	709
+('Odia-Ho', 'Odia')	665
+('Odia-Ho', 'Spanish')	593
+('Odia-Ho', 'Bahasa Indonesia')	701
+('Odia-Ho', 'Urdu')	632
+('Odia-Ho', 'Korean')	590
+('Odia-Ho', 'Italian')	622
+('Sanskrit', 'Mixteco')	671
+('Punjabi', 'Mixteco')	617
+('Telugu', 'Mixteco')	892
+('Mixe', 'Esperanto')	512
+('Urdu', 'Mixteco')	767
+('Korean', 'Mixteco')	1037
+('Kiswahili', 'Lugbarati')	611
+('Kiswahili', 'Maa')	634
+('Kiswahili', 'Kikamba')	545
+('Sepedi', 'Kinyarwanda')	760
+('Lugbarati', 'Maa')	500
+('Lugbarati', 'English')	919
+('Kinyarwanda', 'isiNdebele')	732
+('Kinyarwanda', 'Afrikaans')	928
+('Kinyarwanda', 'isiZulu')	1041
+('Maa', 'English')	777
+('Maa', 'French')	528
+('English', 'Kikamba')	691
+('Serbian (Latin Script)', 'Afrikaans')	520
+('Korean', 'Afrikaans')	577
+('Spanish', 'isiZulu')	609
+('Afrikaans', 'Italian')	783
+('Afrikaans', 'Urdu')	541
+('English', 'Hausa (Nigeria)')	626
+('Spanish', 'English-Maithili')	515
+('Spanish', 'Sindhi')	660
+('French', 'English-Maithili')	551
+('French', 'Sindhi')	760
+('Korku', 'Farsi (Samim)')	587
+('Tamil', 'English-Maithili')	551
+('Tamil', 'Sindhi')	767
+('English', 'English-Maithili')	556
+('English', 'Sindhi')	767
+('English-Maithili', 'Bahasa Indonesia')	551
+('English-Maithili', 'Hindi')	551
+('English-Maithili', 'Marathi')	551
+('English-Maithili', 'Kannada')	551
+('English-Maithili', 'Telugu')	551
+('English-Maithili', 'Italian')	527
+('Bahasa Indonesia', 'Sindhi')	767
+('Korean', 'Sindhi')	692
+('Hindi', 'Sindhi')	767
+('Marathi', 'Sindhi')	767
+('Kannada', 'Sindhi')	767
+('English-Hindi', 'Sindhi')	515
+('Telugu', 'Sindhi')	700
+('Italian', 'Sindhi')	740
+('Thai', 'Mixteco')	621
+('Sanskrit', 'tarahumara')	592
+('Tibetan', 'Mixteco')	506
+('tarahumara', 'Konkani')	544
+('tarahumara', 'Chinese (Traditional)')	579
+('tarahumara', 'Triqui')	524
+('tarahumara', 'Assamese')	576
+('tarahumara', 'Nepali')	610
+('Vietnamese', 'Mixteco')	632
+('Portuguese', 'Mixteco')	894
+('Konkani', 'Mixteco')	518
+('Jinghpaw', 'Korku')	531
+('German', 'Mixteco')	587
+('Mixteco', 'Chinese (Simplified)')	759
+('Mixteco', 'Filipino')	521
+('Mixteco', 'Farsi')	671
+('Mixteco', 'Serbian (Latin Script)')	676
+('Mixteco', 'Basa Jawa')	609
+('isiZulu', 'Lusoga')	1705
+('Oluwanga', 'Afrikaans')	756
+('Oluwanga', 'French')	1064
+('Oluwanga', 'isiXhosa')	610
+('Oluwanga', 'Kiswahili')	1450
+('Oluwanga', 'Luganda')	737
+('Oluwanga', 'Lusoga')	1192
+('Oluwanga', 'Ng’aturkana')	1203
+('Oluwanga', 'Siswati')	543
+('Afrikaans', 'Luganda')	855
+('Lusoga', 'Siswati')	1166
+('Hindi', 'Czech')	604
+('Punjabi', 'Vagadi')	547
+('Italian', 'Czech')	724
+('Arabic', 'Afrikaans')	693
+('French', 'Czech')	556
+('Czech', 'Marathi')	570
+('Czech', 'Bahasa Indonesia')	598
+('Czech', 'English')	751
+('Nahuatl', 'Kabyle (Taqbaylit)')	512
+('Lusoga', 'Afaan Oromo')	647
+('Afaan Oromo', 'Amharic')	636
+('Italian', 'Chinyanja')	896
+('Japanese', 'Chinyanja')	657
+('Chinyanja', 'Arabic')	566
+('Chinyanja', 'Spanish')	738
+('Chinyanja', 'Chhattisgarhi')	547
+('Chinyanja', 'Gujarati')	515
+('Chinyanja', 'Bengali')	519
+('Portuguese', 'Oluwanga')	686
+('Amharic', 'isiZulu')	641
+('Amharic', 'Oluwanga')	513
+('Amharic', 'Setswana')	550
+('English', 'Oluwanga')	1621
+('English', 'Sesotho (Lesotho)')	510
+('isiNdebele', 'Oluwanga')	583
+('isiZulu', 'Oluwanga')	910
+('Kikamba', 'Oluwanga')	566
+('Maa', 'Ng’aturkana')	686
+('Maa', 'Oluwanga')	637
+('Oluwanga', 'Sepedi')	653
+('Oluwanga', 'Setswana')	810
+('English', 'Lumasaaba')	1020
+('French', 'Lumasaaba')	729
+('French', 'Lunyole')	681
+('Luganda', 'Lugbarati')	541
+('Luganda', 'Lumasaaba')	601
+('Lugbarati', 'Lusoga')	659
+('Lumasaaba', 'Lunyole')	531
+('Lumasaaba', 'Lusoga')	638
+('Lunyole', 'Lusoga')	915
+('Italian', 'Setswana')	512
+('Lusoga', 'Setswana')	1426
+('Hindi', 'English-Khasi')	557
+('Spanish', 'English-Khasi')	502
+('Tamil', 'English-Khasi')	557
+('English', 'English-Khasi')	557
+('Kannada', 'English-Khasi')	557
+('Arabic', 'English-Khasi')	550
+('Arabic', 'English-Maithili')	504
+('Bahasa Indonesia', 'English-Khasi')	557
+('Gujarati', 'English-Khasi')	501
+('Farsi (Samim)', 'English-Khasi')	523
+('French', 'English-Khasi')	541
+('Korean', 'English-Khasi')	557
+('Konkani', 'English-Khasi')	509
+('Italian', 'English-Khasi')	512
+('English-Khasi', 'Marathi')	557
+('English-Khasi', 'Japanese')	536
+('English-Khasi', 'Telugu')	537
+('Bengali', 'Sindhi')	649
+('Urdu', 'Sindhi')	504
+('Japanese', 'Sindhi')	642
+('Punjabi', 'Sindhi')	500
+('Chhattisgarhi', 'Sindhi')	640
+('Tibetan', 'Sindhi')	554
+('Malayalam', 'Sindhi')	588
+('Arabic', 'Sindhi')	606
+('Portuguese', 'Sindhi')	542
+('Sindhi', 'Gujarati')	607
+('Konkani', 'Maithili')	922
+('Odia', 'Maithili')	654
+('Lusoga', 'Maa')	569
+('Sindhi', 'Chinese (Simplified)')	520
+('Sindhi', 'Konkani')	533
+('Runyankore', 'English')	500
+('Lumasaaba', 'Portuguese')	531
+('Afrikaans', 'Sesotho (South Africa)')	821
+('ChiTonga', 'CiNyanja')	555
+('ChiTonga', 'English')	593
+('ChiTonga', 'IciBemba')	599
+('ChiTonga', 'isiZulu')	515
+('ChiTonga', 'Kiswahili')	500
+('CiNyanja', 'IciBemba')	616
+('CiNyanja', 'isiZulu')	559
+('CiNyanja', 'Sepedi')	537
+('CiNyanja', 'Sesotho (South Africa)')	504
+('CiNyanja', 'Setswana')	503
+('CiNyanja', 'Tshivenḓa')	536
+('CiNyanja', 'Xitsonga')	508
+('English', 'Sesotho (South Africa)')	1260
+('French', 'Sesotho (South Africa)')	743
+('IciBemba', 'Kinyarwanda')	538
+('IciBemba', 'Sesotho (South Africa)')	523
+('isiNdebele', 'Sesotho (South Africa)')	708
+('isiXhosa', 'Sesotho (South Africa)')	788
+('isiZulu', 'Sesotho (South Africa)')	1015
+('Kinyarwanda', 'Sesotho (South Africa)')	530
+('Kinyarwanda', 'Setswana')	884
+('Kinyarwanda', 'Siswati')	802
+('Kinyarwanda', 'Tshivenḓa')	744
+('Kinyarwanda', 'Xitsonga')	782
+('Kiswahili', 'Sesotho (South Africa)')	912
+('Sepedi', 'Sesotho (South Africa)')	795
+('Sesotho (South Africa)', 'Setswana')	740
+('Sesotho (South Africa)', 'Siswati')	862
+('Sesotho (South Africa)', 'Tshivenḓa')	871
+('Sesotho (South Africa)', 'Xitsonga')	814
+('Kiswahili', 'Lumasaaba')	665
+('Dhopadhola', 'French')	590
+('Dhopadhola', 'Lusoga')	695
+('French', 'Lámnsoʼ')	558
+('Lámnsoʼ', 'Lusoga')	627
+('Lusoga', 'Sepedi')	1133
+('Lusoga', 'Sesotho (South Africa)')	916
+('Lusoga', 'Tshivenḓa')	1120
+('Lusoga', 'Xitsonga')	1143
+('Assamese', 'Maithili')	764
+('Maithili', 'Nepali')	523
+('Maithili', 'Marwari')	572
+('IciBemba', 'Lusoga')	664
+('isiNdebele', 'Lusoga')	1005
+('Spanish', 'Kora (Bengali Script)-Bengali')	506
+('Kora (Bengali Script)-Bengali', 'English')	634
+('Kora (Bengali Script)-Bengali', 'Bahasa Indonesia')	619
+('Kora (Bengali Script)-Bengali', 'Marathi')	533
+('Kora (Bengali Script)-Bengali', 'Tamil')	635
+('Kora (Bengali Script)-Bengali', 'French')	539
+('Kora (Bengali Script)-Bengali', 'Hindi')	649
+('Kora (Bengali Script)-Bengali', 'Bengali')	649
+('English', 'Tigrigna')	553
+('isiNdebele', 'Luganda')	516
+('isiZulu', 'Luganda')	768
+('Kinyarwanda', 'Ng’aturkana')	872
+('Kinyarwanda', 'Oluwanga')	693
+('Luganda', 'Setswana')	796
+('Lumasaaba', 'Ng’aturkana')	500
+('Oluwanga', 'Tshivenḓa')	571
+('Bahasa Indonesia', 'Ukrainian (Cyrillic Script)')	712
+('Tamil', 'Ukrainian (Cyrillic Script)')	643
+('Hindi', 'Ukrainian (Cyrillic Script)')	797
+('Ukrainian (Cyrillic Script)', 'English')	812
+('Ukrainian (Cyrillic Script)', 'French')	575
+('isiZulu', 'Lunyole')	586
+('Kinyarwanda', 'Lunyole')	573
+('Lunyole', 'Oluwanga')	652
+('Setswana', 'Lunyole')	696
+('Lunyole', 'Afrikaans')	621
+('Lunyole', 'isiXhosa')	503

@@ -1,0 +1,109 @@
+('Hindi', 'Korean')	7848
+('Hindi', 'Marathi')	15014
+('Hindi', 'Italian')	10678
+('Hindi', 'English')	25479
+('Hindi', 'French')	13565
+('Hindi', 'Chhattisgarhi')	7177
+('Hindi', 'Tamil')	15733
+('Hindi', 'Bahasa Indonesia')	18058
+('Hindi', 'Japanese')	6991
+('Korean', 'Marathi')	6966
+('Korean', 'Italian')	6251
+('Korean', 'English')	8298
+('Korean', 'French')	6771
+('Korean', 'Tamil')	7019
+('Korean', 'Bahasa Indonesia')	7882
+('Korean', 'Japanese')	5906
+('Marathi', 'Italian')	9552
+('Marathi', 'English')	15234
+('Marathi', 'French')	11617
+('Marathi', 'Chhattisgarhi')	5768
+('Marathi', 'Tamil')	12851
+('Marathi', 'Bahasa Indonesia')	13726
+('Marathi', 'Japanese')	6572
+('Italian', 'English')	11242
+('Italian', 'French')	9796
+('Italian', 'Tamil')	9807
+('Italian', 'Bahasa Indonesia')	10504
+('Italian', 'Japanese')	5919
+('English', 'French')	16939
+('English', 'Chhattisgarhi')	6664
+('English', 'Tamil')	18030
+('English', 'Bahasa Indonesia')	20998
+('English', 'Japanese')	7137
+('French', 'Chhattisgarhi')	5219
+('French', 'Tamil')	11844
+('French', 'Bahasa Indonesia')	13023
+('French', 'Japanese')	6384
+('Chhattisgarhi', 'Tamil')	5539
+('Chhattisgarhi', 'Bahasa Indonesia')	5945
+('Tamil', 'Bahasa Indonesia')	14141
+('Tamil', 'Japanese')	6564
+('Bahasa Indonesia', 'Japanese')	6914
+('English', 'Spanish')	11428
+('Hindi', 'Gujarati')	5952
+('Hindi', 'Spanish')	9689
+('Hindi', 'Portuguese')	5084
+('Hindi', 'Bengali')	5710
+('Hindi', 'Arabic')	5952
+('Hindi', 'Kannada')	13298
+('Hindi', 'Telugu')	9121
+('Hindi', 'Urdu')	7075
+('Gujarati', 'English')	5963
+('Gujarati', 'Bahasa Indonesia')	5708
+('Gujarati', 'French')	5067
+('Gujarati', 'Tamil')	5551
+('Gujarati', 'Marathi')	5712
+('Gujarati', 'Kannada')	5659
+('Gujarati', 'Telugu')	5041
+('Spanish', 'Japanese')	5178
+('Spanish', 'Bahasa Indonesia')	9242
+('Spanish', 'French')	8627
+('Spanish', 'Tamil')	8403
+('Spanish', 'Korean')	5814
+('Spanish', 'Marathi')	8252
+('Spanish', 'Kannada')	7801
+('Spanish', 'Telugu')	6119
+('Spanish', 'Italian')	7253
+('Japanese', 'Kannada')	5873
+('Portuguese', 'English')	6888
+('Portuguese', 'French')	6029
+('English', 'Kiswahili')	7076
+('English', 'Bengali')	5799
+('English', 'Punjabi')	5052
+('English', 'Arabic')	6444
+('English', 'Kannada')	13741
+('English', 'Telugu')	9430
+('English', 'Urdu')	7158
+('Chhattisgarhi', 'Kannada')	5301
+('Bahasa Indonesia', 'Bengali')	5428
+('Bahasa Indonesia', 'Arabic')	5911
+('Bahasa Indonesia', 'Kannada')	12506
+('Bahasa Indonesia', 'Telugu')	8564
+('Bahasa Indonesia', 'Urdu')	6511
+('French', 'Arabic')	5889
+('French', 'Kannada')	10740
+('French', 'Telugu')	7517
+('French', 'Urdu')	5767
+('Tamil', 'Bengali')	5287
+('Tamil', 'Arabic')	5558
+('Tamil', 'Kannada')	11740
+('Tamil', 'Telugu')	8249
+('Tamil', 'Urdu')	6260
+('Korean', 'Kannada')	6392
+('Korean', 'Telugu')	5173
+('Marathi', 'Bengali')	5329
+('Marathi', 'Arabic')	5694
+('Marathi', 'Kannada')	12333
+('Marathi', 'Telugu')	8758
+('Marathi', 'Urdu')	6549
+('Bengali', 'Kannada')	5119
+('Arabic', 'Kannada')	5731
+('Arabic', 'Italian')	5256
+('Kannada', 'Telugu')	8579
+('Kannada', 'Urdu')	6197
+('Kannada', 'Italian')	8983
+('Telugu', 'Urdu')	5182
+('Telugu', 'Italian')	6751
+('Urdu', 'Italian')	5017
+('English', 'Lusoga')	7702
