@@ -1,3 +1,10 @@
 # LIMIT: Language Identification, Misidentification, and Translation
 
-LIMIT: Language Identification, Misidentification, and Translation
+
+
+# Cite this project
+Please consider citing our paper if you use the data, benchmarking results, or the (mis)identification hierarchical modeling approach.
+```
+include bib here
+```
+
