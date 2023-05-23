@@ -1,0 +1,38 @@
+{
+  "data": {
+    "2153": {
+      "Chinese (Simplified)": [
+        "吸吸——吸吸。哦！迪薇娅感冒了。",
+        "今天迪薇娅不能感冒呀！她还得去踢球呢！今天可是足球赛总决赛的日子呀！",
+        "吸吸——吸吸。他们赢了！他们赢得了足球赛总决赛的大奖杯！",
+        "吸吸——吸吸。“击个掌吧，鲁斯坦！”吸吸——吸吸。“棒极了，格米特！”",
+        "吸吸——吸吸。“干得漂亮，莫希特！”吸吸——吸吸。“终于拿奖了，普佳！”",
+        "吸吸——吸吸。“我们赢啦！”",
+        "啊——啊——啊嚏！",
+        "吸吸——吸吸。迪薇娅感冒好了以后才能继续踢球。她好想她的朋友们。",
+        "一个星期过去了......迪薇娅的感冒好了！她巴不得立马就见到她的朋友们！",
+        "吸吸——吸吸。哦！怎么回事？鲁斯坦好像感冒了......吸吸——吸吸。还有格米特......",
+        "吸吸——吸吸。莫希特感冒了......吸吸——吸吸。连普佳也中招了！",
+        "哦，不！大家都感冒了！吸吸——吸吸——"
+      ],
+      "English": [
+        "Sniffle sniffle.Uh-oh! Divya has the sniffles.",
+        "Divya can’t have the sniffles today! She has to PLAY!It’s the finals of the Famous Football Cup!",
+        "Sniffle, sniffle.They’ve WON!THEY’VE WON THE FAMOUS FOOTBALL CUP!",
+        "Sniffle, sniffle.\"High five, Rustam!\"Sniffle, sniffle.\"Good game, Gurmeet!\"",
+        "Sniffle, sniffle.\"Well done, Mohit!\"Sniffle, sniffle.\"You did it, Pooja!\"",
+        "Sniffle, sniffle.         \"Congratulations, everyone!\"",
+        "A-A-A-AAACHOOOO!",
+        "Sniffle, sniffle.No more football for Divya until she gets better.She misses all her friends.",
+        "A week later…No more sniffles!Divya can’t wait to see all her friends!",
+        "Sniffle, sniffle.Uh-oh! What’s this? It looks like Rustam has the sniffles now…Sniffle, sniffle.And Gurmeet...",
+        "Sniffle, sniffle.... And Mohit...Sniffle, sniffle.... And Pooja too!",
+        "OH NO!EVERYONE has the sniffles!Sniffle, sniffle."
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Chinese (Simplified)"
+  }
+}

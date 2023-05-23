@@ -1,0 +1,209 @@
+('Turkish', 'Gascon')	103
+('Bahasa Indonesia', 'Gascon')	168
+('Garo', 'Gascon')	55
+('Catalan', 'Gascon')	59
+('Kabyle (Taqbaylit)', 'Gascon')	84
+('Farsi', 'Gascon')	103
+('Filipino', 'Gascon')	95
+('Chhattisgarhi', 'Gascon')	168
+('ChiShona', 'Gascon')	22
+('English-Odia', 'Gascon')	37
+('English-Marathi', 'Gascon')	102
+('Assamese', 'Gascon')	128
+('Halbi', 'Gascon')	70
+('Sanskrit', 'Gascon')	144
+('Zeme (Southern)', 'Gascon')	22
+('Santali (Ol Chiki)', 'Gascon')	79
+('Korean', 'Gascon')	168
+('Haryanvi', 'Gascon')	48
+('Danish', 'Gascon')	59
+('English-Gujarati', 'Gascon')	59
+('Farsi (Samim)', 'Gascon')	79
+('French', 'Gascon')	168
+('Hausa', 'Gascon')	116
+('Nepali', 'Gascon')	119
+('Kumaoni', 'Gascon')	48
+('Norwegian', 'Gascon')	37
+('Odia-Kui', 'Gascon')	48
+('Portuguese', 'Gascon')	144
+('Telugu', 'Gascon')	144
+('Thai', 'Gascon')	136
+('Basa Jawa', 'Gascon')	111
+('Gondi', 'Gascon')	48
+('Bangla (Bangladesh)', 'Gascon')	68
+('Italian', 'Gascon')	144
+('Urdu', 'Gascon')	160
+('Hindi', 'Gascon')	168
+('Amharic', 'Gascon')	46
+('English-Malay', 'Gascon')	59
+('Arabic', 'Gascon')	144
+('Romanian', 'Gascon')	68
+('Vietnamese', 'Gascon')	119
+('Esperanto', 'Gascon')	168
+('Sahariya', 'Gascon')	22
+('Sambalpuri (Devanagari Script)', 'Gascon')	37
+('Chinese (Simplified)', 'Gascon')	128
+('Ewe', 'Gascon')	108
+('Russian', 'Gascon')	103
+('Malayalam', 'Gascon')	128
+('Kurukh', 'Gascon')	22
+('Nawatl', 'Gascon')	144
+('Kurdish (Arabic Script)', 'Gascon')	75
+('Odia', 'Gascon')	128
+('Tibetan', 'Gascon')	128
+('isiXhosa', 'Gascon')	79
+('Cebuano-Cebu', 'Gascon')	75
+('Dutch', 'Gascon')	128
+('Kannada', 'Gascon')	144
+('Malay', 'Gascon')	128
+('English-Tamil', 'Gascon')	110
+('Yoruba', 'Gascon')	108
+('Zou', 'Gascon')	22
+('Serbian (Latin Script)', 'Gascon')	168
+('Serbian (Cyrillic Script)', 'Gascon')	22
+('Hiligaynon', 'Gascon')	46
+('Japanese', 'Gascon')	144
+('Bengali', 'Gascon')	144
+('Swedish', 'Gascon')	37
+('Marwari', 'Gascon')	59
+('Marathi-Kolami', 'Gascon')	55
+('Jinghpaw', 'Gascon')	95
+('German', 'Gascon')	135
+('Luganda', 'Gascon')	117
+('Provençal', 'Gascon')	44
+('Paite', 'Gascon')	33
+('English-Hindi', 'Gascon')	95
+('Lusoga', 'Gascon')	136
+('Pashto', 'Gascon')	79
+('Khmer', 'Gascon')	55
+('English-isiZulu', 'Gascon')	22
+('Macedonian', 'Gascon')	68
+('Chinese (Traditional)', 'Gascon')	103
+('Kiswahili', 'Gascon')	168
+('Gascon', 'Konkani')	128
+('Gascon', 'English-Telugu')	95
+('Gascon', 'Spanish')	144
+('Gascon', 'Sinhala')	95
+('Gascon', 'Basa Sunda')	103
+('Gascon', 'Bhojpuri')	37
+('Gascon', 'Igbo')	108
+('Gascon', 'Pawari')	37
+('Gascon', 'Surjapuri')	81
+('Gascon', 'Tagalog')	37
+('Gascon', 'Lukenye')	37
+('Gascon', 'Tamil')	168
+('Gascon', 'English')	168
+('Gascon', 'Toki Pona')	44
+('Gascon', 'Gondi (South Bastar)')	70
+('Gascon', 'Ateso')	37
+('Gascon', 'English-Surjapuri')	70
+('Gascon', 'English-Spanish')	84
+('Gascon', 'Kinyarwanda')	75
+('Gascon', 'English-Kannada')	86
+('Gascon', 'Gujarati')	128
+('Gascon', 'Sadri')	22
+('Gascon', 'Marathi')	168
+('Gascon', 'Bundelkhandi')	22
+('Gascon', 'Acholi')	48
+('Gascon', 'Punjabi')	95
+('Gascon', 'Fante')	55
+('Gascon', 'Kora (Bengali Script)-Bengali')	49
+('Gascon', 'Triqui')	79
+('Gascon', 'Frisian')	33
+('Gascon', 'Zapoteco')	96
+('Gascon', 'Chatino')	57
+('Gascon', 'Papiamentu (Curacao)')	55
+('Gascon', 'tarahumara')	111
+('Gascon', 'Occitan')	59
+('Gascon', 'Nahuatl')	122
+('Gascon', 'Kikuyu')	33
+('Gascon', 'English-French')	90
+('Santali (Bengali Script)', 'Gascon')	31
+('Ñomdá', 'Gascon')	78
+('Tunisian Arabic (Latin Script)', 'Gascon')	25
+('Mixteco', 'Gascon')	63
+('Gascon', "Tu'un savi")	25
+('Gascon', 'Bodo')	47
+('Gascon', 'nuntajɨɨyi')	16
+('Gascon', 'Tangkhul')	62
+('Gascon', 'Galego')	25
+('Gascon', 'Quechua')	31
+('Gascon', 'Mixe')	105
+('Erzya', 'Gascon')	9
+('Gascon', 'Kora (Bengali Script)')	46
+('Gascon', 'Amdo Tibetan')	9
+('Gascon', 'Greek')	57
+('Gascon', "S'gaw Karen (Thai Script)")	9
+('Gascon', 'Georgian')	9
+('Gascon', 'English-Korean')	46
+('Gascon', 'Kalenjin')	31
+('Gascon', 'Dhopadhola')	24
+('Gascon', 'Tatar')	28
+('Gascon', 'Setswana')	46
+('Gascon', 'Bashkir')	46
+('Gascon', 'Kazakh (Cyrillic Script)')	9
+('Gascon', 'Afrikaans')	70
+('Korku', 'Gascon')	37
+('English-Urdu', 'Gascon')	31
+('Saurashtra (Latin Script)', 'Gascon')	15
+('Czech', 'Gascon')	15
+('Chinyanja', 'Gascon')	15
+('Albanian', 'Gascon')	15
+('English-Khasi', 'Gascon')	15
+('Asante Twi', 'Gascon')	15
+('Maithili', 'Gascon')	15
+('Mephaa', 'Gascon')	15
+('Hindi-Kurukh', 'Gascon')	15
+('Kurdish (Latin Script)', 'Gascon')	37
+('Polish', 'Gascon')	15
+('Sylheti', 'Gascon')	15
+('Chaudhary', 'Gascon')	15
+('English-Tagalog', 'Gascon')	37
+('Khasi', 'Gascon')	15
+('Karbi', 'Gascon')	15
+('Croatian', 'Gascon')	31
+('English-isiXhosa', 'Gascon')	37
+('Gascon', 'Santali (Devanagri)')	26
+('Gascon', 'Hebrew')	37
+('Gascon', 'Banjari / Lambadi (Devanagiri)')	15
+('Gascon', 'Ahirani / Khandeshi')	15
+('Gascon', 'Dholuo')	15
+('Gascon', 'English-Bengali')	37
+('Gascon', 'English-Sanskrit')	15
+('Gascon', 'Dayak (Kalimantan)')	15
+('Gascon', 'Rana Tharu')	48
+('Gascon', 'Shona')	15
+('Gascon', 'Hindi-Surjapuri')	15
+('Gascon', 'Cantonese (Traditional)')	15
+('Gascon', 'Odia-Ho')	26
+('Gascon', 'Hindi-Sadri')	15
+('Gascon', 'English-Arabic')	15
+('Gascon', 'Ukrainian (Latin Script)')	15
+('Gascon', 'Rukiga')	15
+('Gascon', 'isiNdebele')	39
+('Gascon', 'English-Maithili')	15
+('Gascon', 'English-Afrikaans')	15
+('Cantonese (Simplified)', 'Gascon')	11
+('Maithili-English', 'Gascon')	22
+('Sesotho', 'Gascon')	35
+('isiZulu', 'Gascon')	11
+('Dari', 'Gascon')	11
+('Estonian', 'Gascon')	11
+('Lao', 'Gascon')	33
+('Jèrriais', 'Gascon')	11
+('Sepedi', 'Gascon')	11
+('Sri Lankan Portuguese Creole', 'Gascon')	11
+("S'gaw Karen (Latin Script)", 'Gascon')	11
+('Krio', 'Gascon')	22
+('Dogri', 'Gascon')	22
+('Gascon', 'Finnish')	22
+('Gascon', 'Navajo')	22
+('Gascon', 'Hungarian')	38
+('Gascon', 'Santali-Bengali (Bengali Script)')	38
+('Gascon', 'Xitsonga')	22
+('Gascon', 'Kirundi')	22
+('Sranan Tongo', 'Gascon')	16
+('Lumasaaba', 'Gascon')	16
+('Gascon', "O'dam")	16
+('Gascon', 'Siswati')	24
+('English-Malayalam', 'Gascon')	8

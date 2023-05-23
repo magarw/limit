@@ -1,0 +1,28 @@
+{
+  "data": {
+    "1905": {
+      "Hindi": [
+        "\ufeff",
+        "",
+        "\ufeffHe picked up some stones."
+      ],
+      "English": [
+        "There was a crow which was very thirsty. He searched for water every where. At least he saw a   pot near a well.",
+        "He looked inside the pot. There was a little water in the pot. The crow saw some stones nearby.He thought of a plan. He picked up some stones.",
+        "He put them one by one into the pot. The water level in the pot came up. The crow drank the   water and flew away happily."
+      ]
+    },
+    "6807": {
+      "Hindi": [
+        "रक्षा बंधन की बधाईRaksha Bandhan ki badhai"
+      ],
+      "English": [
+        "\ufeffHAPPY RAKSHA BANDHAN \ufeff"
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Hindi"
+  }
+}

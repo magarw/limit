@@ -1,0 +1,58 @@
+{
+  "data": {
+    "136": {
+      "Marathi": [
+        "मी पळतो.",
+        "मी पोहतो.",
+        "मी सायकल चालवते.",
+        "मी स्केटिंग करतो.",
+        "मी पतंग उडवतो.",
+        "घर्षण: जेव्हा दोन गोष्टी हलतात किंवा एकमेकांवर आदळतात तेव्हा वेग कमी होतो.",
+        "ऊर्जा: काम करण्याची आणि हालचाल करण्याची आपली क्षमता म्हणजे ऊर्जा."
+      ],
+      "English": [
+        "I run",
+        "I swim",
+        "I cycle",
+        "I skate",
+        "I fly kites",
+        "Friction: When one surface tries to move across another and slows things down.",
+        "Energy: Our ability to do work and move."
+      ]
+    },
+    "5991": {
+      "Marathi": [
+        "बिनचे मोठे कुटुंब आहे.",
+        "हे प्रत्येकजण आहे.1. आजी2. आजोबा3. बिन (आणि मांजर)4. काकू5. काका6. बाळ7. पालक",
+        "शेवटी, त्याचे कुटुंब घेतेत्यांची दुपारची झोप.",
+        "मांजरीला सूत मिळते.आता बिन आणि मांजर खेळूशकतात.",
+        "हे खूप मजेदार आहे!",
+        "बाळ रडतो .     आई बिनला \n\n\nरागावते .     बाबा बिनला रागावतात .     आजोबा ही बिन वर रागावतात।",
+        "बिन जोरात रडतो.       बिन हळूच रडतो.       बिन झोपी जातो.",
+        "बिन जागा होतो.    घर विचित्र वाटतं.",
+        "बाळ नाही,नाही आई,आजी नाही.",
+        "आजोबा नाही.नाही बाबा.काका किंवा काकू नाहीत.",
+        "\nपाऊस पडत राहतो. मग बाबा घरी आहे ! काका-काकू पण घरी आहेत! सर्वजण ओले झाले आहेत.",
+        "\nबिनला आता सुरक्षित वाटत आहे.कधीकधी मोठे कुटुंब असणे छान असते."
+      ],
+      "English": [
+        "Bin has a big joint family.",
+        "This is everyone.1. Grandma2. Grandpa3.  Bin (and Cat)4. Uncle5. Aunt6. Their Baby7. Bin's Parents",
+        "At last, his family takestheir afternoon nap.",
+        "Cat gets the yarn.Now Bin and Cat can play.",
+        "It is so much fun!",
+        "The baby cries.Mom scolds Bin.Dad scolds Bin.Even Grandpa scolds Bin.",
+        "Bin cries loudly.Bin cries softly.Bin falls asleep.",
+        "Bin wakes up.The house seems strange.",
+        "There’s no baby,no Mom,no Grandma.",
+        "There is no Grandpa.No Dad.No Uncle or Aunt.",
+        "It starts raining.Then Dad is home! Uncle and Aunt are home too! Everyone is wet.\n",
+        "Bin feels safe now. Sometimes it is nice to have a big family.\n"
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Marathi"
+  }
+}

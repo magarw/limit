@@ -1,0 +1,58 @@
+{
+  "data": {
+    "77": {
+      "Gujarati": [
+        "હું મોટી છોકરી છું. હું ઘરમાંથી એકલી બહાર નીકળું છું.",
+        "કેટલું બધું અંધારું છે! અરે! અહીં કોઈ છે? કોઈ છે ખરું?",
+        "બહાર મને કોઈ મોટી કાળી વસ્તુ દેખાય છે. એ શું હશે?",
+        "અને આ અવાજ શાનો? કિચૂડ કિચૂડ! એ વળી શું?",
+        ". હવે, હું મોટી છોકરી છું.",
+        "મને કશાયનો ડર લાગતો નથી."
+      ],
+      "English": [
+        "I am a big girl. I go out of the house alone.",
+        "It is so dark!.. Is someone there?.. What is it?..",
+        "I can see a big dark thing outside!.. What is it?..",
+        "And that sound! \"Creak... creak... creak!\"... What is it?..",
+        "I am a big girl now!",
+        "I am not afraid of anything!"
+      ]
+    },
+    "171": {
+      "Gujarati": [
+        "ઉત્તેજિતUttejit",
+        "ઉદાસUdaas",
+        "શરમSharam",
+        "ખુશKhush"
+      ],
+      "English": [
+        "Excited",
+        "Sad",
+        "Shy",
+        "Happy"
+      ]
+    },
+    "7830": {
+      "Gujarati": [
+        "હું મોટી છોકરી છું. હું ઘરમાંથી એકલી બહાર નીકળું છું.",
+        "કેટલું બધું અંધારું છે! અરે! અહીં કોઈ છે? કોઈ છે ખરું?",
+        "બહાર મને કોઈ મોટી કાળી વસ્તુ દેખાય છે. એ શું હશે?",
+        "અને આ અવાજ શાનો? કિચૂડ કિચૂડ! એ વળી શું?",
+        ". હવે, હું મોટી છોકરી છું.",
+        "મને કશાયનો ડર લાગતો નથી."
+      ],
+      "English": [
+        "I am a big girl. I go out of the house alone.",
+        "It is so dark!.. Is someone there?.. What is it?..",
+        "I can see a big dark thing outside!.. What is it?..",
+        "And that sound! \"Creak... creak... creak!\"... What is it?..",
+        "I am a big girl now!",
+        "I am not afraid of anything!"
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Gujarati"
+  }
+}

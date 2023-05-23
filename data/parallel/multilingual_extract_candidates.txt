@@ -1,0 +1,54 @@
+Guarani-Spanish;Spanish
+Hindi-Magahi;Hindi
+English-Navajo;English
+English-Siswati;English
+English-isiNdebele;English
+Hindi-Mundari;Hindi
+Tamil-SLP Creole;Tamil
+English-Malayalam;English
+English-Xitsonga;English
+English-Tshivenḓa;English
+English-Sepedi;English
+English-Sesotho;English
+English-Kochila Tharu;English
+Hindi-Kurmali;Hindi
+English-Portuguese;English
+English-Hausa;English
+English-Setswana;English
+Hindi-Maithili;Hindi
+Hindi-Kurukh;Hindi
+English-isiZulu;English
+English-Chinese (Simplified);English
+English-Kutchi (Gujarati Script);English
+English-Tagalog;English
+English-isiXhosa;English
+English-Afrikaans;English
+English-Arabic;English
+English-Konkani;English
+English-Punjabi;English
+Hindi-Surjapuri;Hindi
+Maithili-English;English
+English-Farsi (Samim);English
+Hindi-Sadri;Hindi
+Bengali-Santali (Bengali Script);Bengali
+English-Gujarati;English
+English-Sanskrit;English
+English-Maithili;English
+English-Khasi;English
+English-Malay;English
+English-Korean;English
+English-French;English
+English-Bengali;English
+Kora (Bengali Script)-Bengali;Bengali
+Odia-Ho;Odia
+English-Odia;English
+English-Urdu;English
+English-Surjapuri;English
+Marathi-Kolami;Marathi
+Odia-Kui;Odia
+English-Marathi;English
+English-Telugu;English
+English-Kannada;English
+English-Spanish;English
+English-Tamil;English
+English-Hindi;English

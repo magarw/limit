@@ -1,0 +1,50 @@
+{
+  "data": {
+    "2410": {
+      "Telugu": [
+        "జు పాపను పట్టుకుని పాడింది. కానీ పాప ఏడుస్తూనే ఉంది.",
+        "జి డాన్స్ చేశాడు.ఏవేవో ట్రిక్కులు(చేష్టలు) చేశాడు. కానీ పాప ఏడుస్తూనే ఉంది"
+      ],
+      "English": [
+        "Zu holds the baby and sings. But the baby keeps crying.\n",
+        "Zi dances. He does tricks. But the baby keeps crying!\n"
+      ]
+    },
+    "3895": {
+      "Telugu": [
+        "మా అక్క బిస కూస్తున్న(అరుస్తున్న) రూస్టర్స్ని(కోడి పుంజుని) తరుముతుంది.నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?",
+        "నా కజిన్ క్వామె రో లో(వరుసగా) సీడ్స్(విత్తనాలను) నాటుతాడు.నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?",
+        "మా మామ ఖోట్సో క్యాటిల్(పశువులను) కాస్తాడు.నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?",
+        "విండ్(గాలి) వీచనప్పుడు అమ్మ వీట్(గోధుమ)లను డ్రైచేస్తుంది (ఆరబెడుతుంది).నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?",
+        "నాన్న స్నో(మంచు)లో మౌంటైన్స్(పర్వతాల) మీదుగా హార్స్(గుర్రపు) రైడ్(స్వారీ) చేస్తాడు.నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?",
+        "బామ్మ ఈవెనింగ్(సాయంత్రం) వరకు సాంగ్స్(పాటలు) పాడుతుంది.నేను ఏమి చెయ్యాలి? నాకు ఏమి తెలుసు?"
+      ],
+      "English": [
+        "My sister Kifue chases roosters that crow.What do I do? What do I know?",
+        "My cousin Kutloano plants seeds in a row.What do I do? What do I know?",
+        "My uncle Khotso herds the cattle that low.What do I do? What do I know?",
+        "Mama dries wheat when the wind does not blow. What do I do? What do I know?",
+        "Papa rides a horse over mountains in snow. What do I do? What do I know?",
+        "Grandma sings songs till the fire burns low.What do I do? What do I know?"
+      ]
+    },
+    "8735": {
+      "Telugu": [
+        "హే, నేను నేహా ను. నాకు ఆసక్తికరమైన ఫామిలి(కుటుంబం) ఉంది. మీరు వారిని కలవాలనుకుంటున్నారా?",
+        "వీరు నా పేరెంట్స్(తల్లిదండ్రులు). ఇద్దరూ పోస్టాఫీసులో పనిచేస్తున్నారు.",
+        "వీరు మా ఓల్డర్ బ్రదర్(అన్నయ్య), రాజ్ మరియు మా ఓల్డర్ సిస్టర్(అక్క) రోహిణి. మేము కలిసి ఆడతాము, ముఖ్యంగా సెలవుల్లో!",
+        ""
+      ],
+      "English": [
+        "Hey, I'm Neha. I have an interesting family. Do you want to meet them?",
+        "These are my parents. Both my mother and my father work in the postoffice.",
+        "This is my older brother, Raj and my older sister, Rohini. We play games together, especially during the holidays!",
+        "These are my paternal and maternal grandparents.I like it when they come to visit me."
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Telugu"
+  }
+}

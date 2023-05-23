@@ -1,0 +1,36 @@
+{
+  "data": {
+    "2124": {
+      "Siswati": [
+        "Babe!",
+        "Ungesabi.",
+        "Hhawu-Hhawu phuma!",
+        "Buka, umdlwaneuletsa ibhola.",
+        "Ibhola?",
+        "Umdlwane ufuna kudlala.Dlala?",
+        "Bamba ibhola.",
+        "Hhawu-Hhawu phuma!",
+        "Buka, Babe uyadlala.",
+        "Nyalo nawe dlala.",
+        "Bamba, Hhawu-Hhawu!"
+      ],
+      "English": [
+        "Daddy!",
+        "Don’t be scared.",
+        "Woof-woof out!",
+        "Look, Doggy’s bringing the ball.",
+        "Ball?",
+        "Doggy wants to play. Play?",
+        "Catch the ball.",
+        "Woof-woof out!",
+        "Look, Daddy’s playing.",
+        "Now you play.",
+        "Catch, Woof-woof!"
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Siswati"
+  }
+}

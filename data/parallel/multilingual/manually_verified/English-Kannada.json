@@ -1,0 +1,58 @@
+{
+  "data": {
+    "2460": {
+      "Kannada": [
+        "ಈ ಹುಡುಗಿ ಕುಣಿಯುತ್ತಿದ್ದಾಳೆ.",
+        "(ಬರೆಯುತ್ತಿದ್ದಾಳೆ).",
+        "ಈ ಹುಡುಗ ಪುಸ್ತಕ ಓದುತ್ತಿದ್ದಾನೆ.",
+        "(ಈಜುತ್ತಿದ್ದಾನೆ).",
+        "ಅವರು ಶಾಲೆಗೆ ಹೋಗುತ್ತಿದ್ದಾರೆ.",
+        "(ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ).",
+        "(ಅಡುಗೆ ಮಾಡುತ್ತಿದ್ದಾರೆ)."
+      ],
+      "English": [
+        "This girl is dancing.",
+        "This girl is writing.",
+        "This boy is reading a book.",
+        "This boy is swimming.",
+        "They are going to school.",
+        "They are working.",
+        "They are cooking."
+      ]
+    },
+    "7663": {
+      "Kannada": [
+        "ನಾನೊಬ್ಬ \nವೈದ್ಯೆ.",
+        "ನೀನು ಬೆಕ್ಕು.",
+        "ಅವನು ಒಬ್ಬ ರೈತ.",
+        "ಅವಳು ಅಧ್ಯಾಪಕಿ.",
+        "ಅದು ಅವನ ಸೈಕಲ್.",
+        "ನಾವು ಸಹೋದರರು.",
+        "ಅವು ಪ್ರಾಣಿಗಳು.",
+        "ಅದು ಅವಳ ಮನೆ.",
+        "ಇದು ನಮ್ಮ ಮರ.",
+        "ಇದು ಅವರ ಆಟದ ಮೈದಾನ.",
+        "ಈ ಟೊಮೆಟೊಗಳು ರಸಭರಿತವಾಗಿವೆ.",
+        "ಆ ನಕ್ಷತ್ರಗಳು ಹೊಳೆಯುತ್ತಿವೆ."
+      ],
+      "English": [
+        "I am a doctor.",
+        "\ufeffYou are a cat.",
+        "He is a farmer.",
+        "She is a teacher.",
+        "It is his bicycle.",
+        "We are brothers.",
+        "They are animals.",
+        "That is her house.",
+        "This is our tree.",
+        "This is their playground.",
+        "These tomatoes are juicy.",
+        "Those stars are shining."
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Kannada"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "data": {
+    "171": {
+      "Kochila Tharu": [
+        "उत्सुक",
+        "उदास",
+        "लजकोट्हा",
+        "डरपोक",
+        "खुसी",
+        "तमसाहा"
+      ],
+      "English": [
+        "Excited",
+        "Sad",
+        "Shy",
+        "Scared",
+        "Happy",
+        "Angry"
+      ]
+    },
+    "623": {
+      "Kochila Tharu": [
+        "आइ हम एकटा अंतरिक्षयात्री चियै।",
+        "आइ हम एकटा मूर्तिकार चियै।",
+        "आइ हम एकटा वनस्पतिशास्त्री चियै।",
+        "yself.हम लबका बनस्पति पता लगाइलयै। हम एकर नाम आपने नामसे राखबै।",
+        "आइ हम एकटा ढोलकिया चियै।"
+      ],
+      "English": [
+        "Today, I am an astronaut.",
+        "Today I am a sculptor.",
+        "Today, I am a botanist.",
+        "I discovered a new plant. I will name it after me.",
+        "Today, I am a drummer."
+      ]
+    },
+    "2123": {
+      "Kochila Tharu": [
+        ".\nपहारके ओइ पार एकटा छोटका गाममे सामु आपन परिवारसङे रहै छेलै। ऊ कैहयो कैहयो बजार जाइ छेलै। ओइठना ओकर दोस्ती सुधीरसे भ्यागेलै। ओकरौके एक दोसरके भसा नै आबैछेलै महज उसब इशारासे बात करै छेलै।",
+        "एक दिना सामुके घरबाली ओकरा कहलकै, “तोहेँ एकटा लबका साथी बनाइने चिहि। महज आपनौके ओकर भसा नै आबैछौ। आपनौके ओकरसङे कनाके बात करबिहि? तोहेँ ज्याके ओकर भसा सिखने।” सामुके ओकर घरबालीके बात ठिक लागलै। ऊ सुधीरके घर गेलै। सुधीर ओकरा देखते मातिर कहलकै, “आसिला?” (उडियामे ‘तोहेँ एलहि?’)",
+        "सामु कुछो ने बुझलकै महज ऊ भितर एलै या बैठलै। सुधीर कहलकै, “बसिला?” (उडियामे ‘तोहेँ बैठलिहि?’)सामु कुछो ने बुझलकै तहैले ऊ उठलै या कनहिक खिसिया गेलै। सुधीर कहलकै, “उठिला?” (उडियामे ‘उठैचिहि?’)",
+        "ऊ जाइले निकललै, ताब ओकर साथी कहलकै, “जाउछ?” (उडियामे ‘तोहेँ जाइचिहि?’)सामु चैल गेलै महज वह्या चाइरटा शब्द अपनेमे रटैत रहलै।",
+        "ऊ घर पहुँचैत खना लगभग राइत भ्यागेल छेलै। तखनुए बजारसे एलहा चोरसब ओकर मकाइबारीमे घुसलै। सामुके घरबाली जानैले चाहैछेले ऊ आपन साथीसङे कथि कथि सिखलकै। ऊ पहैनका सुनलहा शब्द दोहराइलकै। ओकर घरबाली निकसे नै सुनलकै तहैले ऊ जोरसे कहलकै, “आसिला?”",
+        "बाहरमे चोरसब ओकर अवाज सुनलकै। उसब सोचलकै जे सामु ओकरौके देखलेलकै ! तहैले उसब झट धाइनके बैठ गेलै। ऊ और कथि सिखलकै कैहके सामुके घरबाली पुछलकै। ऊ कहलकै, “बसिला?” ओकर घरबालीके लबका शब्दसब खौ निक लागलै। ऊ कहलकै, “फेर कह त।” ऊ कहलकै, “बसिला?”आब चोरसबके लागलै जे सामु ओकरौके देख लेनेछै।",
+        "!\nचोरसब झट धाइनके उठलै। सामुके घरबाली खुशी भ्याके ताली पिटलकै या कहलकै, “और कथि?” ऊ कहलकै, “उठिला?” चोरसब सोचलकै जे पकराइसे पैहने ओकरौके भागैके चाहि। ओकर घरबाली कहलकै, “और कथि?” ऊ कहलकै, “जाउछ?” आब चोरसबके लागलै ओकरौके जान खतरामे छै ! जरुर ऊ आदमी ओकरौके देखलाके बाद ओकरौकेसे बात कैर रहलछै !",
+        "उसब झट धाइनके भाइग गेलै या फेनो कहियो ने घुइरके एलै !",
+        "",
+        ""
+      ],
+      "English": [
+        "Beyond the rolling hills, lived Samu and his family   in a little village. He would go to the town   sometimes.   He became friends with Sudhir. They did not speak the same language but they   talked to each other in sign language.",
+        "One day Samu’s wife said to him, “You have made a new friend. But we don’t know his language. How will we talk to him? Why don’t you go to him and learn his language?” Samu agreed with his wife and went to Sudhir’s   house. As Sudhir saw him coming he said, “Asila?” (In Odia this means, ‘You have come?’)",
+        "Samu did not understand but he came inside and   sat down. Sudhir said, “Basila?”(In Odia this   means, ‘You sat down?’) Samu did not understand so he got up somewhat   angry. Sudhir said, “Uthila?”(In Odia this means,   ‘Standing up?’)",
+        "He turned to leave and his friend said, “Jaucha?”   (In Odia this means, 'You are leaving?')  Samu left but he kept saying these four words to   himself.",
+        "It was almost night by the time he reached home.   Just then some thieves from the town entered his   field of maize. Samu’s wife wanted to know what he had learnt   from his friend. He repeated the first word that he had heard. Since his wife could not hear too well, he said loudly, \"Asila?\"",
+        "The thieves outside heard him. They thought they must have been spotted! So they quickly sat down in the field.Samu’s wife asked him what else he had learned. He said, \"Basila?\" His wife liked the sound of these new words. She said, \"Say it again, please.\" He said, \"Basila?\"   The thieves were certain he had seen them.",
+        "So they stood up quickly. His wife clapped her hands in delight and said, \"And what else?\" He said, \"Uthila?\"The thieves thought they should turn and leave before they got caught. His wife said, \"Anything else?\" He said, \"Jaucha?\" Now the thieves felt they were in real danger! Surely the man was talking to them after seeing them",
+        "They slipped away as fast as they could and never came back!",
+        "The ConceptIndia’s diverse linguistic landscape has a rich seam of stories for children. Unfortunately, many tribal languages do not  have literature for children in book form or books for reading pleasure. As increasing numbers of tribal children go to school, it is now more necessary than ever to create a body of children’s literature in their languages. Literature that reflects their own world and opens up the world beyond because books are magical, powerful things that inform, amuse, educate and entertain in the most interactive way. Books make every child an independent and life-long seeker of knowledge in her own unique way. For education to be truly meaningful to every child, she must get good books to read in her own language.The ProjectPratham Books and IgnusERG, with the support of Bernard van Leer Foundation have created the first ten books for children’s reading pleasure in Munda, Kui, Saura and Juanga languages from Odisha. The stories were written and illustrated by authors and illustrators belonging to these tribes in a series of workshops. This series of books is called Adikahani. It is a significant first step towards giving a voice to cultures that do not find adequate representation in mainstream discourses.",
+        "The PartnersIgnusERG is a guild of resource persons working to support teachers and enhancing the quality of education, particularly in government schools. They focus their efforts on bringing equity in education and addressing the needs of marginalized children.Bernard van Leer Foundation is an international grant-making foundation based in The Hague. Its mission is to improve opportunities for young children growing up in socially and economically difficult circumstances. It has a particular interest in supporting mother-tongue based education.This story was written by the Kui Writers’ Group consisting of Buna Kanhar, Filiman Pradhan and Pramod Digal. With a background in ECCE, they all interact with children regularly. It has been illustrated by Sugrib Kumar Juanga, using the Saura mural style as a base. The Kui language is spoken by more than 1 lakh people in Khondhamal, Gajapati and Rayagada districts of Odisha. It is related to the Gondi language. The spellings of the language in Odia script are not definitive as many new sounds are being rendered in print for the first time."
+      ]
+    }
+  },
+  "info": {
+    "reference_language": "English",
+    "sample_language": "English-Kochila Tharu"
+  }
+}
