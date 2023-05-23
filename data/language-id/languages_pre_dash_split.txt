@@ -1,0 +1,502 @@
+English-Spanish
+Lukenye
+Lakota
+Kurmali
+Odia
+Kikuyu
+Odia-Kui
+Khoekhoegowab
+Farsi
+Aringati
+Kouri Vini
+Chicheŵa
+Lukhonzo
+Chhattisgarhi
+Thai
+Portugues
+Kinyarwanda
+Swedish
+Hausa (Nigeria)
+S'gaw Karen (Latin Script)
+Otetela
+Ga
+Venda
+Nupe
+Lhukonzo
+Gondi (South Bastar)
+Tulu
+Gujarati
+Sadri
+Hungarian
+Huave
+KiGiryama
+Afemai
+Tiv
+Oshindonga
+English-Malay
+Triqui
+Anywak
+Bahasa Indonesia
+English-Setswana
+Kodava (Latin Script)
+Ikwerre
+Olukhayo
+Nanai
+Oluwanga
+Acholi
+Cantonese (Simplified)
+Mixteco
+Swahili
+Czech
+Amdo Tibetan
+Dutch
+Marwari
+Thimbukushu
+Rukiga
+Nawatl
+Konda
+Macedonian
+CiNyanja
+Hindi-Kurukh
+Sola
+Hindi-Surjapuri
+Yom
+Zeme (Southern)
+Olukabarasi
+Chinkhonde
+Sesotho (Lesotho)
+Hakka (Zhaoan)
+Ng’aturkana
+Yoruba(Ijesha)
+Xitsonga
+Citumbuke
+Chocholteco
+Spanish
+Kiduruma
+Tshivenda
+Lepcha (Tibetan Script)
+Cantonese (Traditional)
+English-Chinese (Simplified)
+Rufumbira
+Ekegusii
+English-Kochila Tharu
+Chitonga (Malawi)
+English-Tagalog
+Khasi
+Jinghpaw
+Obolo
+Ebira
+Tigun
+Bura
+Kochila Tharu
+Quechua
+Shona
+Minangkabau
+Kῖmῖῖrũ
+Cinyungwe
+English-Korean
+Sepedi
+Surgujia
+Marathi-Kolami
+Fante
+Changana
+Chinese (Simplified)
+Fulfulde Adamawa
+Konkani (Kannada Script)
+English-Tamil
+Lingala
+Romanian
+Mundari
+Kinyarwanda English
+Gonja
+Popti'
+Toki Pona
+Assamese
+Dagbani/Dagbanli
+English-Toto (Bengali Script)
+Tamil-SLP Creole
+Tatar
+English-Hakka (Zhaoan)
+Basa Sunda
+English-Gujarati
+Lao
+Emakhuwa
+English-Navajo
+Efik
+Sümi Naga
+Rutooro
+Kabuverdianu
+Dangme
+Basque
+Elomwe
+Oshikwanyama
+Sri Lankan Portuguese Creole
+English-isiZulu
+Georgian
+Fulfulde
+K'iche
+Kaqchikel
+Kanuri
+Kamuku
+Lugbarati (Official)
+English-Kutchi (Gujarati Script)
+Malayalam
+Norwegian
+Wolaita
+French
+Dagaare
+Punjabi
+Lusoga English
+Dayak (Kalimantan)
+English-Khasi
+Cebuano-Cebu
+CiNyungwe
+Kumam
+Kiswahili English
+Guarani
+Pulaar
+Papiamento (Aruba)
+Tshivenḓa
+English-Konkani
+Urhobo
+Fongbe
+Nahuatl
+Icelandic
+Malagasy
+English-French
+Hindi
+isiXhosa
+Serbian (Latin Script)
+Kimîîru
+English-Hausa
+Olunyala
+Dhodia
+Garo
+Tunisian
+Egyptian
+Kutchi (Gujarati Script)
+Tibetan
+Pawari
+Tének
+Moro
+Urdu
+O'dam
+Latin
+Khmer
+Italian
+Tunisian Arabic (Latin Script)
+Rumantsch Grischun
+Vietnamese
+Filipino
+Kora (Bengali Script)
+Imeetto
+Lugwere
+Thadou
+English-isiNdebele
+Lulogoli
+Setswana
+None
+Fulani
+Mambilla (Nigeria)
+OluSamia
+Siswati
+Maithili-English
+Sambalpuri (Devanagari Script)
+Nawat (Pipil)
+Turkish
+Santali (Ol Chiki)
+Lámnsoʼ
+Tsova Tush (Bats)
+Sanskrit
+Halbi
+Marathi
+Xitswa
+Igala
+English-Punjabi
+Luganda
+Talen
+Babanki
+Gascon
+Bhoti
+Runyoro / Runyakitara
+Zou
+Maithili
+Afaan Oromo
+Ma'di
+isiNdebele
+Saurashtra (Latin Script)
+Sabinyi
+Hiligaynon
+Dari
+Kidawida
+Kaonde
+Ciyawo (Malawi)
+Sranan Tongo
+IciBemba
+Santali (Devanagri)
+English-Sanskrit
+Slovak
+Samburu
+Nandi
+Zapoteco
+Sesotho
+Kirundi
+Navajo
+Maayat'aan
+Erzya
+English ChiTonga
+Kodava (Kannada Script)
+Jèrriais
+Kabyle (Taqbaylit)
+Goungbe
+Tigrigna
+English-Farsi (Samim)
+Rapa Nui
+Potawatomi
+Hindi-Mundari
+Banjari / Lambadi (Devanagiri)
+English-Portuguese
+Somali
+Afrikaans
+Chatino
+Esperanto
+TjiKalanga
+Pashto
+Runyoro-Rutooro
+Olunyaneka
+Hindi-Maithili
+English
+ChiTonga
+Alur
+Basa Jawa
+Chindonde
+English-Kannada
+zoque
+Mazatec
+Dagbani
+English-Malayalam
+isiZulu
+Ellomwe (Malawi)
+Santali-Bengali (Bengali Script)
+Serbian (Cyrillic Script)
+Luganda English
+S'gaw Karen (Lixwa Script)
+Karbi
+Cisena
+Gikuyu
+Hebrew
+Pokomo
+Pidgin English (Nigeria)
+Lusamia
+Hyam(Northern Nigeria)
+Estonian
+Kinyarwanda (Uganda)
+English-Siswati
+Ukrainian (Latin Script)
+Danish
+Kumaoni
+Bashkir
+Kurdish (Arabic Script)
+Banjarese
+Lumasaaba
+Chrambo
+Rana Tharu
+Runyankore
+Chinese (Traditional)
+Zande
+Burmese
+Finnish
+Oromiffa
+Welsh
+Odia-Ho
+English-Tshivenḓa
+Ateso
+English-Bengali
+IciBemba (school)
+Bodo
+CiBemba
+Arabic
+Nederlands
+Citumbuka
+Paite
+Chinyanja
+Kiswahili
+Hindi-Sadri
+Doteli
+Krio
+Ilocano
+Sesotho (South Africa)
+Igbo
+Chaudhary
+Malay
+Sahariya
+Nepali
+English-isiXhosa
+IsiNdebele (Zimbabwe)
+Limburgish
+Bengali
+Chinanteco
+Dogri
+Chitonga
+Korean
+English-Maithili
+German
+Kuvi (Telugu Script)
+Ciyawo
+Kasem
+Albanian
+Provençal
+Gurene
+Maa
+English Oluwanga
+Anii
+Xingoni
+0
+Silte
+Hyam (Northern Nigeria)
+Ukrainian (Cyrillic Script)
+Lunyore
+Guarani-Spanish
+Echiziinza
+Ngakarimojong
+Bundelkhandi
+Russian
+Dholuo
+English-Sesotho
+Saura-Odia
+ChiNambya
+Kalenjin
+Kannada
+Echuwabo
+Ewe
+English-Arabic
+tarahumara
+Frisian
+Munda-Odia
+English-Telugu
+Nzema
+Hausa (Niger)
+CH'ol
+Telugu
+Fulfulde Mbororoore
+Gondi
+Chichewa
+Kurdish (Latin Script)
+Belarusian (Cyrillic Script)
+Tamil
+Hadiya
+Kazakh (Cyrillic Script)
+Tangkhul
+Tagalog
+English-Xitsonga
+English Lunyole
+siSwati
+Zarma
+Kom
+Hausa
+Multilingual
+Bangla (Bangladesh)
+Sinama (Central)
+Asante Twi
+Hindi-Kurmali
+Lusoga
+Bulgarian
+Farsi (Samim)
+Themne
+Chitumbuka
+Kikamba
+Greek
+Alemannisch
+Tseltal
+Papiamentu (Curacao)
+Haitian Creole
+Otuho
+Ñomdá
+SiLozi
+Portuguese
+Kyrgyz (Cyrillic Script)
+Galego
+Lunyole
+Jenjo
+Ahirani / Khandeshi
+isiMpondo
+Bhilori (Gujarati Script)
+Hausa(Nigeria)
+Kurukh
+Occitan
+Konkani
+Mephaa
+Catalan
+Sindhi
+Sylheti
+English Ateso
+English-Sepedi
+Zulu
+Otjiherero
+Sidamu Afoo
+Dhopadhola
+Egyptian (Latin)
+Japanese
+Juanga-Odia
+Cinyanja (Mozambique)
+Haryanvi
+English-Hindi
+Gitonga
+Lugbarati
+Talysh
+Ibibio
+Tshiluba
+Lulamoogi
+nuntajɨɨyi
+Leblango
+Sisali
+Runyoro
+ChiNdau
+Surjapuri
+Kakwa
+Idu (Mishmi) (Latin Script)
+Samoan
+Kuteb
+Likpakpaanl
+Cicopi
+Mampruli
+Balinese
+English-Odia
+Nimadi
+Lubukusu
+English Chinyanja
+Sinhala
+Polish
+Sesotho (Zimbabwe)
+Vagadi
+Amharic
+S'gaw Karen (Thai Script)
+Hindi-Magahi
+Mumuye
+Kufo
+Croatian
+Kora (Bengali Script)-Bengali
+Mixe
+Urdu (Latin Script)
+English-Marathi
+Yoruba
+Dinka
+Pana
+Magahi
+English-Surjapuri
+Kigiryama
+Persian (Afghanistan)
+English-Urdu
+ChiShona
+Santali (Bengali Script)
+ChiChewa
+Bhojpuri
+Korku
+Malvi
+Kolami
+Akuapem Twi
+Tu'un savi
+Bengali-Santali (Bengali Script)
+Ikisimbëtë
+Rukwangali
+English-Afrikaans
