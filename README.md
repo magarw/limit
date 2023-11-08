@@ -1,5 +1,11 @@
 # LIMIT: Language Identification, Misidentification, and Translation
 
+# Note (Nov 8, 2023)
+Since the anonymity period is over and the paper has been accepted to EMNLP 2023, we will be doing the following over the next couple of weeks:
+1. Manually inspecting and sharing the dataset on HuggingFace so researchers can use it for their experiements.
+2. Updating the repository with easy-to-run code to reproduce our experiments
+3. Modularizing and generalizing our experiment code, so researchers can use our proposed confusion-based hierarchical approach for their datasets.
+
 
 ![](map_svg.svg) 
 
