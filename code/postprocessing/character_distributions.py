@@ -1,4 +1,4 @@
-filename = "../../data/language-id/monolingual/ach.txt"
+filename = "../../data/language-id/monolingual/ell.txt"
 
 f = open(filename)
 data = [x.strip() for x in f.readlines()]

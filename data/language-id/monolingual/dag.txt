@@ -315,7 +315,6 @@ Saa daa pili lurina.
 O ba daa ba cheche maa n-guui pam.
 Cheche maa daa ti birigiya n-kpe mɔrini ka che soli maa.
 KPIRIGILI!
-!
 Cheche maa daa lu Fati gbali zuɣu.
 Bɛ ni paai yiŋa, o ma mini o yabipaɣa daa bɔhi binshɛli din niŋ puuni dindali maa.O ba ŋun yɛli, "Fati di dula tia.
 "Fati ŋun yɛli, "m ba di kuli bala cheche maa n-guui pam."
@@ -483,13 +482,3 @@ Bo lee daa ku nyɛ Salma daa shili?
 Salma daa viɛlmi amaa ka ka inki.
 Ka bo n lee ku nyɛ alikalimi bukaata di yi niŋ ka dika inki din ni sabi?
 Alikalimi ᴣini ka tahi.
-truck
-car
-plane
-ambulance
-bus
-helicopter
-boat
-auto
-train
-the end
