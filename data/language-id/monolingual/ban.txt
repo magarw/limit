@@ -36,11 +36,6 @@ Ia ajaka dadua gending-gending"Suksma suba nuunang ujan!"
 Taen ke ragane kacunduk ajak dinosaurus?
 Yen cara ragane, bisa ke ia magending?
 Apa ane lakar gae tat kala ujan?
-#6FrameStoryChallenge: A Carnival of ArtThe illustrations in this book were created as part of the#6FrameStoryChallenge, an online campaign run byPratham Books to build a rich bank of illustrations forStoryWeaver.
-The essence of the#6FrameStoryChallenge was to tell a good story usingjust 6 illustrations.
-The campaign inspired nearly 70 illustrators to donatetheir time and skills to India’s first open-source story-publishing platform for children.What started out as an experimental campaign soonblossomed into a carnival of art, birthing nearly 500 newillustrations.
-These wordless narratives cut across language barriers,opening up a world of possibilities, encouragingStoryWeaver’s growing community to dream up multiplestories around these images.
-The#6FrameStoryChallenge is a powerful reminder of theneed for collaboration, to get closer to our mission: “ABook in Every Child’s Hand.”
 Arjun ngelah roda tatelu, lampu abesik diarep tur mantel gadang kuning.
 Ia ngelah nyama braya liu di Delhi.
 Kija ja ia pesu pasti katemu ajak nyama-nyamane, uwane, keto masih misan-misanne.
@@ -565,13 +560,11 @@ Meongg... silap.. silap... Es krim ane maprucutan di dina ane K-E-B-U-S
 Meong maekin umah nyawan ane mabucu nem
 Meong di bulan ane tanggal.
 Jaja Samosa marupa LIMAS baang i meong ane se-duk Meongg.... Nyam.. Nyam
-1.
 BUCU TELU 2.
 MAREPAT 3.
 MAREPAT TUR LANTANG 4.
 LONJONG 5.
 LINGKER
-1.
 MAREPAT 2.
 BUNTER TUR LANTANG 3.
 PRUCUT 4.
